@@ -1,0 +1,2472 @@
+[
+  
+    {
+      "title"    : "Jack Daniel&#39;s Visit June 2021",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsDistilleryVisit2021",
+      "date"     : "2021-06-19 11:20:00 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Scenes From Lynchburg Number Five",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/ScenesFromLynchburgFive",
+      "date"     : "2021-03-19 03:20:00 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jim Beam Red Sox 2018 World Champions Bottle (World Series)",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/2018RedSoxWorldChampion",
+      "date"     : "2021-03-05 04:00:00 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Blackened American Whiskey Batch 106 S&amp;M2",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/BlackenedBatch106",
+      "date"     : "2021-02-14 14:00:00 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s 2020 Special Release Barrel Proof Rye",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/2020SpecialRelease",
+      "date"     : "2020-12-13 14:00:00 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "DIY 3d Printed Barrel Tree",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/3DPrintedBarrelTree",
+      "date"     : "2020-12-08 14:00:00 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Uncle Nearest 1820",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/UncleNearest1820",
+      "date"     : "2020-11-30 04:00:00 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "2020 Holiday Countdown Calendar",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/2020HolidayCountdownCalendar",
+      "date"     : "2020-11-29 14:00:00 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/BarrelProofRyeSpecialRelease",
+      "date"     : "2020-11-23 04:00:00 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Fire and 2 Shotglass Gift Set",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsFireShotglassGiftSet",
+      "date"     : "2020-11-16 16:00:00 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s 160th Birthday Bottle 1850-2010",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielBirthday160Bottle",
+      "date"     : "2020-09-16 05:00:00 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsRiverboatCaptainBottle",
+      "date"     : "2020-09-13 17:00:00 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Tennessee Fire Updated Bottle",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsTennesseeFire2020",
+      "date"     : "2020-09-03 19:00:00 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Master Distiller Jeff Arnett",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/MasterDistillerJeffArnett",
+      "date"     : "2020-09-03 05:00:00 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Tennessee Bicentennial",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsTennesseeBicentennial",
+      "date"     : "2020-09-02 18:40:40 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Eric Church Single Barrel 2020",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/EricChurchSingleBarrel2020",
+      "date"     : "2020-08-31 18:45:40 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Tennessee Tasters&#39; Barrel Proof Rye",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/TennesseeTastersBarrelProofRye",
+      "date"     : "2020-08-30 17:32:40 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Daytona Bike Week 2020 Collector&#39;s Bottle",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/DaytonaBikeWeek2020",
+      "date"     : "2020-04-15 23:26:58 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "My first whiskey tasting event",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/my-first-whiskey-tasting-event",
+      "date"     : "2020-02-12 23:01:49 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Before and After Release",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/before-after",
+      "date"     : "2019-12-28 23:11:58 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "2019 Jack Daniel&#39;s Holiday Countdown Calendar",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/2019AdventCalendar",
+      "date"     : "2019-12-19 10:41:16 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Tennessee Apple",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/TennesseeApple",
+      "date"     : "2019-11-26 09:12:18 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Heritage Barrel 2019",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/HeritageBarrel2019",
+      "date"     : "2019-11-10 21:51:06 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Single Barrel Eric Church (2019)",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsEricChurch",
+      "date"     : "2019-11-07 11:28:17 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Bottled in Bond",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/BottledInBond",
+      "date"     : "2019-10-26 08:47:16 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Single Barrel 100 Proof",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/100Proof",
+      "date"     : "2019-10-07 22:08:54 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel Distillery 150th Anniversary",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Distillery150thAnniversary",
+      "date"     : "2019-07-16 23:03:07 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Legacy Edition 2",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/LegacyEdition2",
+      "date"     : "2019-07-05 09:17:35 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Tennessee Tasters&#39; Barrel Reunion",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/BarrelReunion1",
+      "date"     : "2019-06-18 12:33:56 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s 150th Anniversary Tennessee Whiskey Bottle + Box ",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/150thAnniversary",
+      "date"     : "2019-06-18 12:32:40 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Tennessee Rye",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsTennesseeRye",
+      "date"     : "2019-06-18 12:28:55 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Rested Tennessee Rye",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsSingleBarrelRye",
+      "date"     : "2019-06-18 12:26:34 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Rested Tennessee Rye",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsRestedTennesseeRye",
+      "date"     : "2019-06-18 12:24:44 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Unaged Tennessee Rye",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsUnagedTennesseeRye",
+      "date"     : "2019-06-18 12:23:44 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Winter Jack",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/WinterJack",
+      "date"     : "2019-06-18 12:16:36 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s 125th Anniversary Red Dog Saloon",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/RedDogSaloon",
+      "date"     : "2019-06-18 12:16:06 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Winter Jack 2013",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/WinterJack2013",
+      "date"     : "2019-06-18 12:08:10 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Holiday Select 2014",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/HolidaySelect2014",
+      "date"     : "2019-06-18 12:01:39 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Holiday Select2013",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/HolidaySelect2013",
+      "date"     : "2019-06-18 10:56:40 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Holiday Select 2012",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/HolidaySelect2012",
+      "date"     : "2019-06-18 10:28:40 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel’s Holiday Select 2011",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/HolidaySelect2011",
+      "date"     : "2019-06-18 10:22:33 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Legacy Edition Series - First Edition",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/LegacyEditionSeries-FirstEdition",
+      "date"     : "2019-06-18 10:20:11 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel’s Single Barrel Heritage Barrel (2018)",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/HeritageBarrel",
+      "date"     : "2019-06-18 10:18:24 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Tennessee Tasters&#39; Hickory Smoked (2018)",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/HickorySmoked",
+      "date"     : "2019-06-18 10:11:50 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Tennessee Tasters&#39; High Angel&#39;s Share Barrels (2018)",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/HighAngelsShare",
+      "date"     : "2019-06-18 10:07:41 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Gentleman Jack Limited Edition Time Piece Bottle",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/GentlemanJackTimePiece",
+      "date"     : "2019-06-18 09:58:04 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Welcome to the Jack Daniel&#39;s Collector Blog",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsCollector",
+      "date"     : "2018-11-18 07:36:55 -0600",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } 
+  
+  ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Contact",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/contact",
+        "date"     : "",
+        "content"   : "<p>Do you have a Jack Daniel's collection that you're looking to find a buyer for? I might be interested, especially if you are in driving distance from St. Louis, Missouri.</p>\n\n<p>You can reach me via the contact form on <a href=\"https://chrishammond.com/Contact\">ChrisHammond.com</a>.</p>\n\n\n<p>You can also reach out to us on <a href=\"https://twitter.com/collectorofjack/\">Twitter</a> \nor <a href=\"https://facebook.com/collectorofjack/\">Facebook</a>.</p>\n\n"
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+        "title"    : "CollectorOfJack.com Hunt list",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/huntlist",
+        "date"     : "",
+        "content"   : "This site is where I document my collection, but I am always looking to grow that collection. This page is intended to be a list of Jack Daniel's bottles and memorabilia that I am searching for as well as things I might have available for trades.\n\nThis is not an all inclusive list, I am definitely looking for more than this, so if you've got something you're interested in parting with, let me know. \n\n### Will you sell any bottles?\nI am not super interested in selling the items I have for trade, the goal is to acquire more for my collection, not decrease the size of my collectiong with selling.\n\n### Where will you trade?\nI prefer trades in the Mid West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed.\n\n\n## Items for I'm Looking For\n* Master Distiller Series No. 1 (1 Liter) (might have one coming, not sure yet)\n* Jack Daniel's Alabama Bicentennial\n* Jack Daniel's Barrel Proof Rye Special Release (2020)\n* Tennessee Tasters' Jamaican Allspice\n* Jack Daniel's Silver Cornet Decanter\n\n## Items for Trade\n* Gentleman Jack Limited Edition Time Piece Bottle\n* Tennessee Tasters' High Angel's Share Barrels (2018)\n* Tennessee Tasters' Hickory Smoked (2018)\n* Tennessee Tasters' Barrel Proof Rye (2019)\n* Master Distiller Series No. 3 (750mL)\n* Scenes of Lynchburg #6 (750mL)\n* Scenes of Lynchburg #7 (750mL)\n* Jack Daniel's Holiday Calendar 2019\n* Jack Daniel's Holiday Calendar 2020\n* 2019 Heritage Barrel\n* Eric Church Single Barrel 2020\n* Eric Church Single Barrel 2019\n* Eric Church Single Barrel 2019\n\n"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Events and Blogs",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/blog/",
+        "date"     : "",
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+     
+   } ,
+  
+   {
+     
+        "title"    : "CollectorOfJack.com",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/",
+        "date"     : "",
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Terms",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/terms/",
+        "date"     : "",
+        "content"   : "Terms of Service and Privacy Policy coming soon."
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Search",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/search/",
+        "date"     : "",
+        "content"   : "<style type=\"text/css\">\n            \n      #search-input {\n        display: inline-block;\n        color: #008989;\n        background-color: #12161d;\n        border-color: #223333;\n        padding: .5em;\n        width: 100%;\n        font-size: 0.8em;\n      }\n        \n         #search-input:focus {\n        display: inline-block;\n        color: #ddd;\n        background-color: #12161d;\n        border-color: #223333;\n        border-width: thick;\n        border-style: outset;\n        box-shadow: -1px 1px 5px 5px #008989;\n        outline: 0;\n        width: 100%;\n        font-size: 0.8em;\n              }\n\n    </style>\n\n<!-- Html Elements for Search -->\n<input type=\"text\" id=\"search-input\" placeholder=\"Enter keywords...\">\n<ul id=\"results-container\" style=\"list-style-type: none;\"></ul>    \n\n<!-- Script pointing to super-search.js -->\n<script src=\"{{ site.baseurl }}/js/super-search.js\" type=\"text/javascript\"></script>\n\n\n    <script type=\"text/javascript\">\n      SimpleJekyllSearch({\n        searchInput: document.getElementById('search-input'),\n        resultsContainer: document.getElementById('results-container'),\n        json: '{{ site.baseurl }}/search.json',\n        searchResultTemplate: '<li><a href=\"{url}\" title=\"{desc}\">{title}</a></li>',\n        noResultsText: 'No results found',\n        limit: 10,\n        fuzzy: true,\n        exclude: ['Welcome']\n      })\n    </script>\n\n\n<style>\n.site-tag a {\n    display: inline-block;\n    margin-right: 12px;\n}\n</style>\n\n\n<br>\n\n\n<style>\n.site-category a {\n    display: inline-block;\n    margin-right: 12px;\n}\n</style>\n\n\n\n"
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Thank you",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/thanks",
+        "date"     : "",
+        "content"   : "![](about-bg-1.jpg)\n\nThanks!"
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-10/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-12/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-13/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Before and After Charcoal Mellowing release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BeforeAndAfter/BeforeAndAfter-14/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey tasting photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FirstWhiskeyTasting/2-7-2020-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey tasting photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FirstWhiskeyTasting/2-7-2020-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey tasting photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FirstWhiskeyTasting/2-7-2020-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey tasting photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FirstWhiskeyTasting/2-7-2020-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey tasting photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FirstWhiskeyTasting/2-7-2020-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey tasting photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FirstWhiskeyTasting/2-7-2020-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey tasting photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FirstWhiskeyTasting/2-7-2020-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey tasting photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FirstWhiskeyTasting/2-7-2020-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey tasting photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FirstWhiskeyTasting/2-7-2020-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey tasting photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FirstWhiskeyTasting/2-7-2020-10/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey tasting photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FirstWhiskeyTasting/2-7-2020-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-10/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-12/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-13/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Daytona Bike Week 2020 Single Barrel Bottle and packaging",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/DaytonaBikeWeek2020/DaytonaBikeWeek2020-14/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The Tennessee Taster&#39;s Barrel Proof Rye Bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/TennesseeTastersBarrelProofRye/TennesseeTasters4-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The Tennessee Taster&#39;s Barrel Proof Rye Bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/TennesseeTastersBarrelProofRye/TennesseeTasters4-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The Tennessee Taster&#39;s Barrel Proof Rye Bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/TennesseeTastersBarrelProofRye/TennesseeTasters4-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The Tennessee Taster&#39;s Barrel Proof Rye Bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/TennesseeTastersBarrelProofRye/TennesseeTasters4-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The 2020 Release of the Limited Edition Jack Daniel&#39;s Eric Church Single Barrel Select",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/EricChurchSingleBarrel2020/EricChurchSingleBarrel2020-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The 2020 Release of the Limited Edition Jack Daniel&#39;s Eric Church Single Barrel Select",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/EricChurchSingleBarrel2020/EricChurchSingleBarrel2020-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The 2020 Release of the Limited Edition Jack Daniel&#39;s Eric Church Single Barrel Select",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/EricChurchSingleBarrel2020/EricChurchSingleBarrel2020-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The 2020 Release of the Limited Edition Jack Daniel&#39;s Eric Church Single Barrel Select",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/EricChurchSingleBarrel2020/EricChurchSingleBarrel2020-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The 2020 Release of the Limited Edition Jack Daniel&#39;s Eric Church Single Barrel Select",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/EricChurchSingleBarrel2020/EricChurchSingleBarrel2020-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The 2020 Release of the Limited Edition Jack Daniel&#39;s Eric Church Single Barrel Select",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/EricChurchSingleBarrel2020/EricChurchSingleBarrel2020-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The 2020 Release of the Limited Edition Jack Daniel&#39;s Eric Church Single Barrel Select",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/EricChurchSingleBarrel2020/EricChurchSingleBarrel2020-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "1796-1996 A special release honoring the state of Tennessee&#39;s Bicentennial in 1996",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeBicentennial/JackDanielsBicentennial-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "1796-1996 A special release honoring the state of Tennessee&#39;s Bicentennial in 1996",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeBicentennial/JackDanielsBicentennial-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "1796-1996 A special release honoring the state of Tennessee&#39;s Bicentennial in 1996",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeBicentennial/JackDanielsBicentennial-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "1796-1996 A special release honoring the state of Tennessee&#39;s Bicentennial in 1996",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeBicentennial/JackDanielsBicentennial-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "1796-1996 A special release honoring the state of Tennessee&#39;s Bicentennial in 1996",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeBicentennial/JackDanielsBicentennial-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "1796-1996 A special release honoring the state of Tennessee&#39;s Bicentennial in 1996",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeBicentennial/JackDanielsBicentennial-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "1796-1996 A special release honoring the state of Tennessee&#39;s Bicentennial in 1996",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeBicentennial/JackDanielsBicentennial-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The 7th (8th?) Master Distiller for Jack Daniel&#39;s, Jeff Arnett",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/MasterDistillerJeffArnett/JeffArnett-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The 7th (8th?) Master Distiller for Jack Daniel&#39;s, Jeff Arnett",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/MasterDistillerJeffArnett/JeffArnett-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeFire2020/JackDanielsFire2020-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeFire2020/JackDanielsFire2020-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeFire2020/JackDanielsFire2020-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeFire2020/JackDanielsFire2020-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-10/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-12/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-13/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-14/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-15/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-16/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-17/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-18/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Riverboat Captain&#39;s Bottle from 1987",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRiverboatCaptainBottle/RiverboatCaptain-19/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mr. Jack&#39;s 160th Birthday 1850 to 2010",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielBirthday160Bottle/CollectorOfJack-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mr. Jack&#39;s 160th Birthday 1850 to 2010",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielBirthday160Bottle/CollectorOfJack-12/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mr. Jack&#39;s 160th Birthday 1850 to 2010",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielBirthday160Bottle/CollectorOfJack-13/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mr. Jack&#39;s 160th Birthday 1850 to 2010",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielBirthday160Bottle/CollectorOfJack-14/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mr. Jack&#39;s 160th Birthday 1850 to 2010",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielBirthday160Bottle/CollectorOfJack-15/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mr. Jack&#39;s 160th Birthday 1850 to 2010",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielBirthday160Bottle/CollectorOfJack-16/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mr. Jack&#39;s 160th Birthday 1850 to 2010",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielBirthday160Bottle/CollectorOfJack-17/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mr. Jack&#39;s 160th Birthday 1850 to 2010",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielBirthday160Bottle/CollectorOfJack-18/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mr. Jack&#39;s 160th Birthday 1850 to 2010",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielBirthday160Bottle/CollectorOfJack-19/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mr. Jack&#39;s 160th Birthday 1850 to 2010",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielBirthday160Bottle/CollectorOfJack-20/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Fire and 2 Shot Glasses",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsFireShotglassGiftSet/JackDanielsFireShotGlassSet-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Fire and 2 Shot Glasses",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsFireShotglassGiftSet/JackDanielsFireShotGlassSet-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Fire and 2 Shot Glasses",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsFireShotglassGiftSet/JackDanielsFireShotGlassSet-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Fire and 2 Shot Glasses",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsFireShotglassGiftSet/JackDanielsFireShotGlassSet-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2020&#39;s Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelProofRyeSpecialRelease/BarrelProofRyeSpecialRelease-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2020&#39;s Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelProofRyeSpecialRelease/BarrelProofRyeSpecialRelease-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2020 Holiday Countdown Calendar",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2020 Holiday Countdown Calendar",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2020 Holiday Countdown Calendar",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2020 Holiday Countdown Calendar",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2020 Holiday Countdown Calendar",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2020 Holiday Countdown Calendar",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2020 Holiday Countdown Calendar",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Uncle Nearest 1820 Tennessee Whiskey Aged 11 Years",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/UncleNearest1820/UncleNearest1820-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Uncle Nearest 1820 Tennessee Whiskey Aged 11 Years",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/UncleNearest1820/UncleNearest1820-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Uncle Nearest 1820 Tennessee Whiskey Aged 11 Years",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/UncleNearest1820/UncleNearest1820-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s DIY 3D Printed Barrel Tree Project",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/3DPrintedBarrelTree/BarrelTree-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "First full barrels with supports",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/3DPrintedBarrelTree/BarrelTree-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Failed print of 9 barrels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/3DPrintedBarrelTree/BarrelTree-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "4 barrels inside of a barrel bottom that I stopped printing",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/3DPrintedBarrelTree/BarrelTree-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "3 of 4 barrels stained",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/3DPrintedBarrelTree/BarrelTree-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "6 bottomless barrels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/3DPrintedBarrelTree/BarrelTree-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Testing tree configurations some pre-stain",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/3DPrintedBarrelTree/BarrelTree-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-10/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-12/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-13/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-14/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-15/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Proof Rye Special Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2020SpecialRelease/BarrelProofRye2020-16/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Metallica S&amp;M2 Whiskey",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BlackenedBatch106/BlackenedBatch106-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Metallica S&amp;M2 Whiskey",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BlackenedBatch106/BlackenedBatch106-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Metallica S&amp;M2 Whiskey",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BlackenedBatch106/BlackenedBatch106-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Metallica S&amp;M2 Whiskey",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BlackenedBatch106/BlackenedBatch106-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Metallica S&amp;M2 Whiskey",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BlackenedBatch106/BlackenedBatch106-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Metallica S&amp;M2 Whiskey",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BlackenedBatch106/BlackenedBatch106-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2018 Red Sox World Champions Jim Beam Bourbon",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2018RedSoxWorldChampion/JimBeamWorldSeries-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2018 Red Sox World Champions Jim Beam Bourbon",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2018RedSoxWorldChampion/JimBeamWorldSeries-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2018 Red Sox World Champions Jim Beam Bourbon",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2018RedSoxWorldChampion/JimBeamWorldSeries-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2018 Red Sox World Champions Jim Beam Bourbon",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2018RedSoxWorldChampion/JimBeamWorldSeries-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Scenes From Lynchburg Number Five",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/ScenesFromLynchburgFive/ScenesOfLynchburg5-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Scenes From Lynchburg Number Five",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/ScenesFromLynchburgFive/ScenesOfLynchburg5-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Scenes From Lynchburg Number Five",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/ScenesFromLynchburgFive/ScenesOfLynchburg5-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Barrel Houses from up on a hill",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g1/Trip2021-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Old house in the hills around Lynchburg",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g1/Trip2021-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The Motlow House, Lynchburg, TN",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g1/Trip2021-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The Jack Daniel&#39;s Visitor Center",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g1/Trip2021-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Sunset in the hills",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g1/Trip2021-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Cornfield outside of Lynchburg, TN",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g1/Trip2021-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Petersburg, TN Traffic Signal",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g1/Trip2021-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Visitor&#39;s center creek",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Bridge to Town Square, looking back at the visitors center",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Drake duck",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-10/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Charcoal Fire production",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Rickyard",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-12/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Whiskey for destruction jug",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-13/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Water Tower",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-14/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Reserved Tasters Parking",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-15/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Rock wall",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-16/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Warehouse",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-17/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Bethel House sign",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-18/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tasting in the Bethel House",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-19/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tasting in the Bethel House",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-20/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tasting in the Bethel House",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-21/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tasting in the Bethel House",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-22/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Barrel Truck, International",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-23/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "White Rabbit Bottle Shop",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-24/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Nearest Green Distillery",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-25/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "CollectorOfJack.com",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/page2/",
+        "date"     : "",
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+     
+   } ,
+  
+   {
+     
+        "title"    : "CollectorOfJack.com",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/page3/",
+        "date"     : "",
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+     
+   } ,
+  
+   {
+     
+        "title"    : "CollectorOfJack.com",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/page4/",
+        "date"     : "",
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+     
+   } ,
+  
+   {
+     
+        "title"    : "CollectorOfJack.com",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/page5/",
+        "date"     : "",
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+     
+   } ,
+  
+   {
+     
+   } 
+  
+]
