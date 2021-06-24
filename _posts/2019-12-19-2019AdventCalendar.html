@@ -6,6 +6,20 @@ permalink: 2019AdventCalendar
 image:
   feature: 27/HolidayCalendar2019-1.jpg
 description: A collector's guide to the Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
+gallery:
+  2019AdventCalendar:
+  - image_path: 27/HolidayCalendar2019-1.jpg
+    image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
+    image-copyright: © CollectorOfJack.com
+  - image_path: 27/HolidayCalendar2019-2.jpg
+    image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
+    image-copyright: © CollectorOfJack.com
+  - image_path: 27/HolidayCalendar2019-3.jpg
+    image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
+    image-copyright: © CollectorOfJack.com
+  - image_path: 27/HolidayCalendar2019-4.jpg
+    image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
+    image-copyright: © CollectorOfJack.com
 ---
 <p>For 2019 Jack Daniel’s has brought their holiday (advent) calendar across the pond to the United States! They’ve also made it available elsewhere around the globe this year as well, where I believe primarily over the past couple of years it was only available in the UK (I could be wrong on that fact).</p>
 
@@ -41,10 +55,4 @@ description: A collector's guide to the Jack Daniel's 2019 Holiday Calendar, the
     <strong>Price:</strong> $89.99<p><br>
 </p>
 
-<div class="gallery" data-columns="3"> 
-    {% picture 27/HolidayCalendar2019-1.jpg --alt {{ page.title }}  %}
-    {% picture 27/HolidayCalendar2019-2.jpg --alt {{ page.title }}  %}
-    {% picture 27/HolidayCalendar2019-3.jpg --alt {{ page.title }}  %}
-    {% picture 27/HolidayCalendar2019-4.jpg --alt {{ page.title }}  %}
-    {% picture 27/HolidayCalendar2019-5.jpg --alt {{ page.title }}  %}
-</div>
+{% include subgallery.html id="2019AdventCalendar" %}
