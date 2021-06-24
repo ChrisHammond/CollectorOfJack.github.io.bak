@@ -1,0 +1,99 @@
+# Site settings
+title: CollectorOfJack.com - A Jack Daniel's Collector Blog
+email: "collectorofjack@christoc.com"
+description: "A blog for collecting Jack Daniel's bottles and memorabilia"
+url: https://collectorofjack.com
+baseurl: 
+facebook_username: "collectorofjack"
+twitter_username: "collectorofjack"
+instagram_username: "collectorofjack"
+github_username:
+deviantart_username: 
+flickr_username: 
+discus_shortname: "collectorofjack"
+share: false
+google_analytics: UA-69145-48
+
+
+data_dir: _data
+
+# Owner/author information
+owner:
+  name:   ChrisHammond
+  avatar: ChrisHammond_sq_200.jpg
+  favicon: favicon.ico
+  info: Chris has been collecting Jack Daniel's for 23 years and uses this site to document his collection. 
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
+# Set 'provider' to false to turn commenting off globally.
+#Set 'provider: false' to disable comments globally.
+# Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
+#
+comments:
+  provider: false # disqus
+  disqus:
+    short_name: "collectorofjack"
+
+# Internal nav
+nav:
+  - BLOG: "/"
+  - ABOUT: "/JackDanielsCollector"
+  - HUNT LIST: "/huntlist"
+  - CONTACT: "/contact/"
+  
+
+# All translation keys
+translations:
+ # 404.html
+  permalink: "/404.html"
+
+# Server
+destination:      	 ./_site
+port:             	 4000
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 10
+paginate_path: "/page:num/"
+permalink: "/:title/"
+categories_path: "/category/"
+tags_path: "/tag/"
+# Plugins
+plugins:
+ - jekyll-paginate
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md",vendor]
+
+
+# SiteMap
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
+
+
+#jekyll_picture_tag
+
+picture:
+  source: "images/fullsized"
+  output: "images/generated"
+  suppress_warnings: true
+  ignore_missing_images: false
+
+
+# gallery page generation
+defaults:
+  - scope:
+      type: galleryimage  # select all galleryimage pages
+    values:
+      layout: picture
