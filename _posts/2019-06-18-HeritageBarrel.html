@@ -6,6 +6,23 @@ permalink: HeritageBarrel
 image:
   feature: 5/HeritageBarrel-1.jpg
 description: A collector's guide to the Jack Daniel's Single Barrel Heritage Barrel released in 2018
+gallery:
+  HeritageBarrel:
+  - image_path: 5/HeritageBarrel-1.jpg
+    image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
+    image-copyright: © CollectorOfJack.com
+  - image_path: 5/HeritageBarrel-2.jpg
+    image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
+    image-copyright: © CollectorOfJack.com
+  - image_path: 5/HeritageBarrel-3.jpg
+    image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
+    image-copyright: © CollectorOfJack.com
+  - image_path: 5/HeritageBarrel-4.jpg
+    image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
+    image-copyright: © CollectorOfJack.com
+  - image_path: 5/HeritageBarrel-5.jpg
+    image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
+    image-copyright: © CollectorOfJack.com
 ---
 <p>In late September 2018 Jack Daniel’s announced a new Special Release Tennessee Whiskey, Single Barrel Heritage Barrel.&nbsp; </p>
 <blockquote>
@@ -25,10 +42,5 @@ description: A collector's guide to the Jack Daniel's Single Barrel Heritage Bar
 <p>Good luck hunting!</p>
 <p><br></p>
 <p><strong>Release</strong>: Fall 2018<br><strong>Proof</strong>: 100<br><strong>Size</strong>: 750ml</p>
-<div class="gallery" data-columns="3">
-    {% picture /5/HeritageBarrel-1.jpg --alt {{ page.title }}  %}
-    {% picture 5/HeritageBarrel-2.jpg --alt {{ page.title }}  %}
-    {% picture 5/HeritageBarrel-3.jpg --alt {{ page.title }}  %}
-    {% picture 5/HeritageBarrel-4.jpg --alt {{ page.title }}  %}
-    {% picture 5/HeritageBarrel-5.jpg  --alt {{ page.title }}  %}
-</div>
+
+{% include subgallery.html id="HeritageBarrel" %}
