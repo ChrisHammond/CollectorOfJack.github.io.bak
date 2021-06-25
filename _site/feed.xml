@@ -5,8 +5,8 @@
     <description>A blog for collecting Jack Daniel's bottles and memorabilia</description>
     <link>https://collectorofjack.com/</link>
     <atom:link href="https://collectorofjack.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 25 Jun 2021 10:39:28 -0500</pubDate>
-    <lastBuildDate>Fri, 25 Jun 2021 10:39:28 -0500</lastBuildDate>
+    <pubDate>Fri, 25 Jun 2021 10:53:10 -0500</pubDate>
+    <lastBuildDate>Fri, 25 Jun 2021 10:53:10 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -129,13 +129,13 @@
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
@@ -385,13 +385,13 @@
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
@@ -887,13 +887,13 @@
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
@@ -1084,13 +1084,13 @@ This is the fifth in a series of bottles depicting life in Lynchburg, Tennessee,
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
@@ -1318,13 +1318,13 @@ Here’s to every Beam who has added his own special chapter to our story. Kentu
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
@@ -1607,13 +1607,13 @@ NOV / Luekens Wine &amp;amp; Spirits, FL&lt;/p&gt;
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
@@ -2100,13 +2100,13 @@ This Special Release celebrates the early craftsmanship of the Jack Daniel Disti
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
@@ -2364,13 +2364,13 @@ This Special Release celebrates the early craftsmanship of the Jack Daniel Disti
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
@@ -2560,13 +2560,13 @@ An 11-year old barre, hand selected and chosen by our founders, Nerest Green (TM
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
@@ -2842,13 +2842,13 @@ In Lynchburg, Tennessee, the holidays are about traditions old and new. While ol
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
@@ -2987,13 +2987,13 @@ In Lynchburg, Tennessee, the holidays are about traditions old and new. While ol
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 

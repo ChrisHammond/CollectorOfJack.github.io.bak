@@ -25,13 +25,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1624635568" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1624635568">
-    <link rel="stylesheet" href="/css/galleries.css?v=1624635568">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1624635568">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1624636390" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1624636390">
+    <link rel="stylesheet" href="/css/galleries.css?v=1624636390">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1624636390">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1624635568" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1624635568" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1624636390" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1624636390" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -348,13 +348,13 @@ style="margin-right:1em; z-index: 1;">
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  window.history.replaceState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
 	  
 	});
 

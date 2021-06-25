@@ -37,13 +37,13 @@
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.pushState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  window.history.replaceState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
 	  
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {
 	  
-	  window.history.pushState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
 	  
 	});
 
