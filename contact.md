@@ -6,7 +6,7 @@ description: If you want to talk to us, you can reach out on Twitter or Facebook
 image:
   feature: contact-1.jpg
 description: Our origin story for collecting Jack Daniel's.
-permalink: contact
+permalink: /contact
 ---
 
 
