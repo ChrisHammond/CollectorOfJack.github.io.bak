@@ -102,7 +102,7 @@ style="margin-right:1em; z-index: 1;">
             </li>     
             <li class="nav-item"><a href="/huntlist" class="nav-link">HUNT LIST</a>
             </li>     
-            <li class="nav-item"><a href="/contact/" class="nav-link">CONTACT</a>
+            <li class="nav-item"><a href="/contact" class="nav-link">CONTACT</a>
             </li>  </ul>
     </div>
     <!-- /.navbar-collapse -->
@@ -126,7 +126,7 @@ style="margin-right:1em; z-index: 1;">
 
             
             <i class="fa fa-clock-o"></i>&nbsp;
-            2 minute read
+            4 minute read
 
           </span>
 
@@ -151,12 +151,129 @@ style="margin-right:1em; z-index: 1;">
 <p>This is the first post in what will hopefully be many future posts, stay tuned as I document and acquire additional items to the collection. For additional information about me, be sure to visit <a href="https://www.ChrisHammond.com" target="_blank">ChrisHammond.com</a></p>
 
 
-<div class="gallery" data-columns="2">
-    <img src="/images/generated/1/CollectorOfJack-1-800-df9033c00.jpg" alt="Welcome to the Jack Daniel's Collector Blog" srcset="/images/generated/1/CollectorOfJack-1-200-df9033c00.jpg 200w, /images/generated/1/CollectorOfJack-1-400-df9033c00.jpg 400w, /images/generated/1/CollectorOfJack-1-800-df9033c00.jpg 800w, /images/generated/1/CollectorOfJack-1-1600-df9033c00.jpg 1600w, /images/generated/1/CollectorOfJack-1-1900-df9033c00.jpg 1900w">
 
-    <img src="/images/generated/1/CollectorOfJack-2-800-f4cf714bc.jpg" alt="Welcome to the Jack Daniel's Collector Blog" srcset="/images/generated/1/CollectorOfJack-2-200-f4cf714bc.jpg 200w, /images/generated/1/CollectorOfJack-2-400-f4cf714bc.jpg 400w, /images/generated/1/CollectorOfJack-2-800-f4cf714bc.jpg 800w, /images/generated/1/CollectorOfJack-2-1600-f4cf714bc.jpg 1600w, /images/generated/1/CollectorOfJack-2-1900-f4cf714bc.jpg 1900w">
 
+<div class="gallery masonry-gallery" id="JackDanielsCollector">
+  
+
+  <figure class="gallery-item">
+
+	<header class="gallery-icon">
+
+		<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
+		
+		<a href="/images/generated/1/CollectorOfJack-1-1600-df9033c00.jpg" class="popup"  title="Our origin story for collecting Jack Daniel's" data-caption="© CollectorOfJack.com" data-url="/galleries/JackDanielsCollector/CollectorOfJack-1/ ">
+			<img src="/images/generated/1/CollectorOfJack-1-600-df9033c00.jpg" alt="Our origin story for collecting Jack Daniel's" srcset="/images/generated/1/CollectorOfJack-1-200-df9033c00.jpg 200w, /images/generated/1/CollectorOfJack-1-400-df9033c00.jpg 400w, /images/generated/1/CollectorOfJack-1-600-df9033c00.jpg 600w">
+
+		</a>
+	</header>	
+		
+   <figcaption class="gallery-caption">
+		<div class="entry-summary" id="Our origin story for collecting Jack Daniel's">
+				<h3>Our origin story for collecting Jack Daniel's</h3>
+					<p>© CollectorOfJack.com</p>
+		</div>
+	</figcaption>
+  </figure>
+
+  
+
+  <figure class="gallery-item">
+
+	<header class="gallery-icon">
+
+		<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
+		
+		<a href="/images/generated/1/CollectorOfJack-2-1600-f4cf714bc.jpg" class="popup"  title="Our origin story for collecting Jack Daniel's" data-caption="© CollectorOfJack.com" data-url="/galleries/JackDanielsCollector/CollectorOfJack-2/ ">
+			<img src="/images/generated/1/CollectorOfJack-2-600-f4cf714bc.jpg" alt="Our origin story for collecting Jack Daniel's" srcset="/images/generated/1/CollectorOfJack-2-200-f4cf714bc.jpg 200w, /images/generated/1/CollectorOfJack-2-400-f4cf714bc.jpg 400w, /images/generated/1/CollectorOfJack-2-600-f4cf714bc.jpg 600w">
+
+		</a>
+	</header>	
+		
+   <figcaption class="gallery-caption">
+		<div class="entry-summary" id="Our origin story for collecting Jack Daniel's">
+				<h3>Our origin story for collecting Jack Daniel's</h3>
+					<p>© CollectorOfJack.com</p>
+		</div>
+	</figcaption>
+  </figure>
+
+  
 </div>
+
+<script language="javascript" type="text/javascript">
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  
+
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+	  window.history.replaceState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( "ready!" );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var galleryNameLoc = window.location.href.indexOf("galleryname=")
+		if(galleryNameLoc>0)
+		{
+			//console.log('Found Index',  index);
+			var gindex = window.location.href.substring(galleryNameLoc+12).split("&")[0];
+			//console.log('G Index:', gindex);
+			//console.log('Item:',$('#' + gindex));
+			var galleryObj = $('#' + gindex);
+			var loc = window.location.href.indexOf("rbmphoto=")
+
+			if(loc>0)
+			{
+				//console.log('Found It',  window.location.href.substring(loc));
+				var index = window.location.href.substring(loc+9).split("&")[0];
+				//console.log('Found Index',  index);
+				//lookup the image on the page if there are multiple galleries
+				
+				$('#' + gindex).find('.popup')[index].click();
+			}
+					
+		}
+		//var loc = window.location.href.indexOf("rbmphoto=")
+		//if(loc<0)
+		//{
+		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	var index = window.location.href.substring(loc+9).split("&")[0];
+		//	//console.log('Found Index',  index);
+		//	//lookup the image on the page if there are multiple galleries
+			
+		//	document.getElementsByClassName('popup')[index].click();
+		//}
+		
+	});
+</script>
+
 
         <br>
         <br>

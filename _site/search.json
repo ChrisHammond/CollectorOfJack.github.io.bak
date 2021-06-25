@@ -473,7 +473,7 @@
         "tags"     : "",
         "url"      : "/",
         "date"     : "",
-        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"pager-button btn btn-outline-primary previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"pager-button btn btn-outline-primary next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
      
    } ,
   
@@ -559,6 +559,1920 @@
    } ,
   
    {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Our origin story for collecting Jack Daniel&#39;s",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsCollector/CollectorOfJack-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Our origin story for collecting Jack Daniel&#39;s",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsCollector/CollectorOfJack-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Gentleman Jack Limited Edition Time Piece Bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/GentlemanJackTimePiece/Day1-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Gentleman Jack Limited Edition Time Piece Bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/GentlemanJackTimePiece/Day1-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Gentleman Jack Limited Edition Time Piece Bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/GentlemanJackTimePiece/Day1-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Gentleman Jack Limited Edition Time Piece Bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/GentlemanJackTimePiece/Day1-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Gentleman Jack Limited Edition Time Piece Bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/GentlemanJackTimePiece/Day1-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Gentleman Jack Limited Edition Time Piece Bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/GentlemanJackTimePiece/Day1-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series High Angel&#39;s Share",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HighAngelsShare/AngelsShare-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series High Angel&#39;s Share",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HighAngelsShare/AngelsShare-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series High Angel&#39;s Share",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HighAngelsShare/AngelsShare-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series High Angel&#39;s Share",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HighAngelsShare/AngelsShare-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series High Angel&#39;s Share",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HighAngelsShare/AngelsShare-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Hickory Smoked release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HickorySmoked/HickorySmoked-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Hickory Smoked release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HickorySmoked/HickorySmoked-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Hickory Smoked release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HickorySmoked/HickorySmoked-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Hickory Smoked release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HickorySmoked/HickorySmoked-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Hickory Smoked release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HickorySmoked/HickorySmoked-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Heritage Barrel released in 2018",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel/HeritageBarrel-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Heritage Barrel released in 2018",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel/HeritageBarrel-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Heritage Barrel released in 2018",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel/HeritageBarrel-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Heritage Barrel released in 2018",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel/HeritageBarrel-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Heritage Barrel released in 2018",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel/HeritageBarrel-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEditionSeries-FirstEdition/LegacyEditionSeriesFirstEdition-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEditionSeries-FirstEdition/LegacyEditionSeriesFirstEdition-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEditionSeries-FirstEdition/LegacyEditionSeriesFirstEdition-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEditionSeries-FirstEdition/LegacyEditionSeriesFirstEdition-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEditionSeries-FirstEdition/LegacyEditionSeriesFirstEdition-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2011",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2011-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2011",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2011-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2011",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2011-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2011",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2011-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2011",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2011-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2011",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2011-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2011",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2011-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2011",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2011-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2011",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2011-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2012",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2012-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2012",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2012-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2012",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2012-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2012",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2012-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2012",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2012-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2012",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2012-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2012",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2012-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2012",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2012-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2012",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2012/HolidaySelect2012-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2013/HolidaySelect2013-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2013/HolidaySelect2013-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2013/HolidaySelect2013-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2013/HolidaySelect2013-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2013/HolidaySelect2013-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2013/HolidaySelect2013-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2013/HolidaySelect2013-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2013/HolidaySelect2013-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2013/HolidaySelect2013-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s ode to the Red Dog Saloon release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/RedDogSaloon/RedDogSaloon-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s ode to the Red Dog Saloon release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/RedDogSaloon/RedDogSaloon-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s ode to the Red Dog Saloon release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/RedDogSaloon/RedDogSaloon-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s ode to the Red Dog Saloon release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/RedDogSaloon/RedDogSaloon-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack/WinterJack-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack/WinterJack-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack/WinterJack-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack/WinterJack-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsUnagedTennesseeRye/JackDanielsRye1-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsUnagedTennesseeRye/JackDanielsRye1-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsUnagedTennesseeRye/JackDanielsRye1-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsUnagedTennesseeRye/JackDanielsRye1-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsUnagedTennesseeRye/JackDanielsRye1-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Rested Tennessee Rye, the second foray into Rye for Jack Daniels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRestedTennesseeRye/JackDanielsRestedRye-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Rested Tennessee Rye, the second foray into Rye for Jack Daniels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRestedTennesseeRye/JackDanielsRestedRye-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Rested Tennessee Rye, the second foray into Rye for Jack Daniels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRestedTennesseeRye/JackDanielsRestedRye-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Rested Tennessee Rye, the second foray into Rye for Jack Daniels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRestedTennesseeRye/JackDanielsRestedRye-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Rested Tennessee Rye, the second foray into Rye for Jack Daniels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRestedTennesseeRye/JackDanielsRestedRye-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Rye bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsSingleBarrelRye/JackDanielsSingleBarrelRye-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Rye bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsSingleBarrelRye/JackDanielsSingleBarrelRye-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Rye bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsSingleBarrelRye/JackDanielsSingleBarrelRye-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Rye bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsSingleBarrelRye/JackDanielsSingleBarrelRye-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Rye bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsSingleBarrelRye/JackDanielsSingleBarrelRye-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Rye bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsSingleBarrelRye/JackDanielsSingleBarrelRye-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Rye bottle",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsSingleBarrelRye/JackDanielsSingleBarrelRye-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye750-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye750-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye750-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye750-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 150th Anniversary Tennessee Whiskey Bottle and the Black Box",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/150thAnniversary/Jack150Box/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 150th Anniversary Tennessee Whiskey Bottle and the Black Box",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/150thAnniversary/Jack150Box-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 150th Anniversary Tennessee Whiskey Bottle and the Black Box",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/150thAnniversary/Jack150Box-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 150th Anniversary Tennessee Whiskey Bottle and the Black Box",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/150thAnniversary/Jack150Box-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 150th Anniversary Tennessee Whiskey Bottle and the Black Box",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/150thAnniversary/Jack150Box-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 150th Anniversary Tennessee Whiskey Bottle and the Black Box",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/150thAnniversary/Jack150Box-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 150th Anniversary Tennessee Whiskey Bottle and the Black Box",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/150thAnniversary/Jack150Box-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 150th Anniversary Tennessee Whiskey Bottle and the Black Box",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/150thAnniversary/Jack150Box-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 150th Anniversary Tennessee Whiskey Bottle and the Black Box",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/150thAnniversary/Jack150Box-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Barrel Reunion",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelReunion1/CollectorOfJack-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Barrel Reunion",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelReunion1/CollectorOfJack-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Barrel Reunion",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelReunion1/CollectorOfJack-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel 100 Proof available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/100Proof/SingleBarrel100Proof-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel 100 Proof available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/100Proof/SingleBarrel100Proof-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel 100 Proof available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/100Proof/SingleBarrel100Proof-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel 100 Proof available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/100Proof/SingleBarrel100Proof-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel 100 Proof available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/100Proof/SingleBarrel100Proof-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel 100 Proof available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/100Proof/SingleBarrel100Proof-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel 100 Proof available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/100Proof/SingleBarrel100Proof-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel 100 Proof available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/100Proof/SingleBarrel100Proof-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Bottled In Bond release available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BottledInBond/BottledInBond-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Bottled In Bond release available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BottledInBond/BottledInBond-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Bottled In Bond release available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BottledInBond/BottledInBond-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Bottled In Bond release available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BottledInBond/BottledInBond-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Bottled In Bond release available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BottledInBond/BottledInBond-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Bottled In Bond release available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BottledInBond/BottledInBond-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Bottled In Bond release available in international travel marketplaces",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BottledInBond/BottledInBond-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Eric Church Double Down Tour Single Barrel Release from 2019",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/EricChurch-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Eric Church Double Down Tour Single Barrel Release from 2019",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/EricChurch-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Eric Church Double Down Tour Single Barrel Release from 2019",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/EricChurch-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Eric Church Double Down Tour Single Barrel Release from 2019",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/EricChurch-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Eric Church Double Down Tour Single Barrel Release from 2019",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/EricChurch-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Eric Church Double Down Tour Single Barrel Release from 2019",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/EricChurch-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Eric Church Double Down Tour Single Barrel Release from 2019",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/EricChurch-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Eric Church Double Down Tour Single Barrel Release from 2019",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/EricChurch-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Eric Church Double Down Tour Single Barrel Release from 2019",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/EricChurch-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Eric Church Double Down Tour Single Barrel Release from 2019",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/EricChurch-10/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Heritage Barrel 2019 Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/JackDanielsHeritageBarrel2019-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Heritage Barrel 2019 Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/JackDanielsHeritageBarrel2019-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Heritage Barrel 2019 Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/JackDanielsHeritageBarrel2019-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Heritage Barrel 2019 Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/JackDanielsHeritageBarrel2019-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Heritage Barrel 2019 Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/JackDanielsHeritageBarrel2019-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Heritage Barrel 2019 Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/JackDanielsHeritageBarrel2019-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Heritage Barrel 2019 Release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HeritageBarrel2019/JackDanielsHeritageBarrel2019-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Apple flavored liquor",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/TennesseeApple/JackDanielsTennesseeApple-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Apple flavored liquor",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/TennesseeApple/JackDanielsTennesseeApple-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Apple flavored liquor",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/TennesseeApple/JackDanielsTennesseeApple-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Apple flavored liquor",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/TennesseeApple/JackDanielsTennesseeApple-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2019AdventCalendar/HolidayCalendar2019-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2019AdventCalendar/HolidayCalendar2019-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2019AdventCalendar/HolidayCalendar2019-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2019AdventCalendar/HolidayCalendar2019-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/2019AdventCalendar/HolidayCalendar2019-5/",
+        "date"     : "",
+        "content"   : null
      
    } ,
   
@@ -2428,7 +4342,7 @@
         "tags"     : "",
         "url"      : "/page2/",
         "date"     : "",
-        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"pager-button btn btn-outline-primary previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"pager-button btn btn-outline-primary next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
      
    } ,
   
@@ -2439,7 +4353,7 @@
         "tags"     : "",
         "url"      : "/page3/",
         "date"     : "",
-        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"pager-button btn btn-outline-primary previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"pager-button btn btn-outline-primary next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
      
    } ,
   
@@ -2450,7 +4364,7 @@
         "tags"     : "",
         "url"      : "/page4/",
         "date"     : "",
-        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"pager-button btn btn-outline-primary previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"pager-button btn btn-outline-primary next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
      
    } ,
   
@@ -2461,7 +4375,7 @@
         "tags"     : "",
         "url"      : "/page5/",
         "date"     : "",
-        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"pager-button btn btn-outline-primary previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"pager-button btn btn-outline-primary next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
      
    } ,
   

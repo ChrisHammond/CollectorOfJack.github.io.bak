@@ -102,7 +102,7 @@ style="margin-right:1em; z-index: 1;">
             </li>     
             <li class="nav-item"><a href="/huntlist" class="nav-link">HUNT LIST</a>
             </li>     
-            <li class="nav-item"><a href="/contact/" class="nav-link">CONTACT</a>
+            <li class="nav-item"><a href="/contact" class="nav-link">CONTACT</a>
             </li>  </ul>
     </div>
     <!-- /.navbar-collapse -->
@@ -155,22 +155,85 @@ style="margin-right:1em; z-index: 1;">
 <p>Our bottle was bottled 2/25/2016 from barrel no. 16-1397, Rick No. L-4. </p>
 <p>Single Barrel Rye can be found on store shelves for $50 (1/13/2019).</p>
 <p><strong>Release</strong>: 2016<br><strong>Proof</strong>: 94<br><strong>Size</strong>: 750ml<br><strong>Price:</strong> $49.95</p>
-<div class="gallery" data-columns="3">
-    <img src="/images/generated/16/JackDanielsSingleBarrelRye-1-800-cf31424ef.jpg" alt="Jack Daniel's Rested Tennessee Rye" srcset="/images/generated/16/JackDanielsSingleBarrelRye-1-200-cf31424ef.jpg 200w, /images/generated/16/JackDanielsSingleBarrelRye-1-400-cf31424ef.jpg 400w, /images/generated/16/JackDanielsSingleBarrelRye-1-800-cf31424ef.jpg 800w, /images/generated/16/JackDanielsSingleBarrelRye-1-1600-cf31424ef.jpg 1600w, /images/generated/16/JackDanielsSingleBarrelRye-1-1900-cf31424ef.jpg 1900w">
 
-    <img src="/images/generated/16/JackDanielsSingleBarrelRye-2-800-ed33906a1.jpg" alt="Jack Daniel's Rested Tennessee Rye" srcset="/images/generated/16/JackDanielsSingleBarrelRye-2-200-ed33906a1.jpg 200w, /images/generated/16/JackDanielsSingleBarrelRye-2-400-ed33906a1.jpg 400w, /images/generated/16/JackDanielsSingleBarrelRye-2-800-ed33906a1.jpg 800w, /images/generated/16/JackDanielsSingleBarrelRye-2-1600-ed33906a1.jpg 1600w, /images/generated/16/JackDanielsSingleBarrelRye-2-1900-ed33906a1.jpg 1900w">
 
-    <img src="/images/generated/16/JackDanielsSingleBarrelRye-3-800-99e79ed10.jpg" alt="Jack Daniel's Rested Tennessee Rye" srcset="/images/generated/16/JackDanielsSingleBarrelRye-3-200-99e79ed10.jpg 200w, /images/generated/16/JackDanielsSingleBarrelRye-3-400-99e79ed10.jpg 400w, /images/generated/16/JackDanielsSingleBarrelRye-3-800-99e79ed10.jpg 800w, /images/generated/16/JackDanielsSingleBarrelRye-3-1600-99e79ed10.jpg 1600w, /images/generated/16/JackDanielsSingleBarrelRye-3-1900-99e79ed10.jpg 1900w">
 
-    <img src="/images/generated/16/JackDanielsSingleBarrelRye-4-800-52b0b9625.jpg" alt="Jack Daniel's Rested Tennessee Rye" srcset="/images/generated/16/JackDanielsSingleBarrelRye-4-200-52b0b9625.jpg 200w, /images/generated/16/JackDanielsSingleBarrelRye-4-400-52b0b9625.jpg 400w, /images/generated/16/JackDanielsSingleBarrelRye-4-800-52b0b9625.jpg 800w, /images/generated/16/JackDanielsSingleBarrelRye-4-1600-52b0b9625.jpg 1600w, /images/generated/16/JackDanielsSingleBarrelRye-4-1900-52b0b9625.jpg 1900w">
-
-    <img src="/images/generated/16/JackDanielsSingleBarrelRye-5-800-8048d6464.jpg" alt="Jack Daniel's Rested Tennessee Rye" srcset="/images/generated/16/JackDanielsSingleBarrelRye-5-200-8048d6464.jpg 200w, /images/generated/16/JackDanielsSingleBarrelRye-5-400-8048d6464.jpg 400w, /images/generated/16/JackDanielsSingleBarrelRye-5-800-8048d6464.jpg 800w, /images/generated/16/JackDanielsSingleBarrelRye-5-1600-8048d6464.jpg 1600w, /images/generated/16/JackDanielsSingleBarrelRye-5-1900-8048d6464.jpg 1900w">
-
-    <img src="/images/generated/16/JackDanielsSingleBarrelRye-6-800-26462fb7c.jpg" alt="Jack Daniel's Rested Tennessee Rye" srcset="/images/generated/16/JackDanielsSingleBarrelRye-6-200-26462fb7c.jpg 200w, /images/generated/16/JackDanielsSingleBarrelRye-6-400-26462fb7c.jpg 400w, /images/generated/16/JackDanielsSingleBarrelRye-6-800-26462fb7c.jpg 800w, /images/generated/16/JackDanielsSingleBarrelRye-6-1600-26462fb7c.jpg 1600w, /images/generated/16/JackDanielsSingleBarrelRye-6-1900-26462fb7c.jpg 1900w">
-
-    <img src="/images/generated/16/JackDanielsSingleBarrelRye-8-800-bad87c4fc.jpg" alt="Jack Daniel's Rested Tennessee Rye" srcset="/images/generated/16/JackDanielsSingleBarrelRye-8-200-bad87c4fc.jpg 200w, /images/generated/16/JackDanielsSingleBarrelRye-8-400-bad87c4fc.jpg 400w, /images/generated/16/JackDanielsSingleBarrelRye-8-800-bad87c4fc.jpg 800w, /images/generated/16/JackDanielsSingleBarrelRye-8-1600-bad87c4fc.jpg 1600w, /images/generated/16/JackDanielsSingleBarrelRye-8-1900-bad87c4fc.jpg 1900w">
-
+<div class="gallery masonry-gallery" id="JackDanielsTennesseeRye">
+  
 </div>
+
+<script language="javascript" type="text/javascript">
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  
+
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+	  window.history.replaceState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( "ready!" );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var galleryNameLoc = window.location.href.indexOf("galleryname=")
+		if(galleryNameLoc>0)
+		{
+			//console.log('Found Index',  index);
+			var gindex = window.location.href.substring(galleryNameLoc+12).split("&")[0];
+			//console.log('G Index:', gindex);
+			//console.log('Item:',$('#' + gindex));
+			var galleryObj = $('#' + gindex);
+			var loc = window.location.href.indexOf("rbmphoto=")
+
+			if(loc>0)
+			{
+				//console.log('Found It',  window.location.href.substring(loc));
+				var index = window.location.href.substring(loc+9).split("&")[0];
+				//console.log('Found Index',  index);
+				//lookup the image on the page if there are multiple galleries
+				
+				$('#' + gindex).find('.popup')[index].click();
+			}
+					
+		}
+		//var loc = window.location.href.indexOf("rbmphoto=")
+		//if(loc<0)
+		//{
+		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	var index = window.location.href.substring(loc+9).split("&")[0];
+		//	//console.log('Found Index',  index);
+		//	//lookup the image on the page if there are multiple galleries
+			
+		//	document.getElementsByClassName('popup')[index].click();
+		//}
+		
+	});
+</script>
 
         <br>
         <br>

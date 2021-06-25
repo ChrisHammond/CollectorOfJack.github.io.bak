@@ -57,10 +57,16 @@
     }
 }
 
-.blockGroup-list li:nth-child(1).block
+
+@media (max-width: 767px)
 {
-    width: 50%;
+    .blockGroup-list li:nth-child(1).block
+    {
+        width: 100%;
+    }
+    
 }
+
 
 .blockGroup-list li:nth-child(1).block .postArticle-image
 {
@@ -113,7 +119,7 @@
     .blockGroup-list li:nth-child(2).block,
   .blockGroup-list li:nth-child(3).block
     {
-        width: 50%;
+        width: 100%;
     }
 }
 
