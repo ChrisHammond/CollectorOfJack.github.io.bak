@@ -232,7 +232,8 @@ hr.small {
   font-size: 1.5em;
   margin-top: 0px;
   margin-bottom: 0px;
-  padding:0px;
+  padding:10px;
+  text-align: center;
 }
 .post-preview > a > .post-subtitle {
   margin: 0;
