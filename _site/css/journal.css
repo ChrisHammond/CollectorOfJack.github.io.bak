@@ -33,6 +33,13 @@
   clear: both;
 }
 
+@media (max-width: 767px)
+{
+    .blockGroup-list {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}
 .blockGroup-list li
 {
     padding: 0 10px;
