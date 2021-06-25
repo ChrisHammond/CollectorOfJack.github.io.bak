@@ -1,24 +1,24 @@
 ---
 layout: post
-title: Jack Daniel's Tennessee Taster's Series Barrel Reunion 2
+title: Jack Daniel's Tennessee Tasters' Series Barrel Reunion 2
 date: '2021-06-24T22:20:00+00:00'
 permalink: BarrelReunion2
 image:
   feature: 48/BarrelReunion2-1.jpg
-description: Tennessee Taster's Barrel Reunion 2 Finished in Oatmeal Sout Barrels
+description: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
 gallery:
   BarrelReunion2:
   - image_path: 48/BarrelReunion2-1.jpg
-    image-caption: Tennessee Taster's Barrel Reunion 2 Finished in Oatmeal Sout Barrels
+    image-caption: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
     image-copyright: © CollectorOfJack.com
   - image_path: 48/BarrelReunion2-2.jpg
-    image-caption: Tennessee Taster's Barrel Reunion 2 Finished in Oatmeal Sout Barrels
+    image-caption: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
     image-copyright: © CollectorOfJack.com
   - image_path: 48/BarrelReunion2-3.jpg
-    image-caption: Tennessee Taster's Barrel Reunion 2 Finished in Oatmeal Sout Barrels
+    image-caption: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
     image-copyright: © CollectorOfJack.com
   - image_path: 48/BarrelReunion2-4.jpg
-    image-caption: Tennessee Taster's Barrel Reunion 2 Finished in Oatmeal Sout Barrels
+    image-caption: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
     image-copyright: © CollectorOfJack.com
 
 ---

@@ -5,20 +5,20 @@ date: '2020-08-30T22:32:40+00:00'
 permalink: TennesseeTastersBarrelProofRye
 image:
   feature: 31/TennesseeTasters4-1.jpg
-description: The Tennessee Taster's Barrel Proof Rye Bottle
+description: The Tennessee Tasters' Barrel Proof Rye Bottle
 gallery:
   TennesseeTastersBarrelProofRye:
   - image_path: 31/TennesseeTasters4-1.jpg
-    image-caption: The Tennessee Taster's Barrel Proof Rye Bottle
+    image-caption: The Tennessee Tasters' Barrel Proof Rye Bottle
     image-copyright: © CollectorOfJack.com
   - image_path: 31/TennesseeTasters4-2.jpg
-    image-caption: The Tennessee Taster's Barrel Proof Rye Bottle
+    image-caption: The Tennessee Tasters' Barrel Proof Rye Bottle
     image-copyright: © CollectorOfJack.com
   - image_path: 31/TennesseeTasters4-3.jpg
-    image-caption: The Tennessee Taster's Barrel Proof Rye Bottle
+    image-caption: The Tennessee Tasters' Barrel Proof Rye Bottle
     image-copyright: © CollectorOfJack.com
   - image_path: 31/TennesseeTasters4-4.jpg
-    image-caption: The Tennessee Taster's Barrel Proof Rye Bottle
+    image-caption: The Tennessee Tasters' Barrel Proof Rye Bottle
     image-copyright: © CollectorOfJack.com
   
 ---

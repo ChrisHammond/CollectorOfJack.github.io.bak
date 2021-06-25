@@ -20,24 +20,25 @@ I prefer trades in the Mid West. I am near St. Louis, and willing to drive/meet 
 
 
 ## Items for I'm Looking For
-* Master Distiller Series No. 1 (1 Liter) (might have one coming, not sure yet)
+* Master Distiller Series No. 1 (1 Liter) 
 * Jack Daniel's Alabama Bicentennial
-* Jack Daniel's Barrel Proof Rye Special Release (2020)
-* Tennessee Tasters' Jamaican Allspice
 * Jack Daniel's Silver Cornet Decanter
 
 ## Items for Trade
 * Gentleman Jack Limited Edition Time Piece Bottle
-* Tennessee Tasters' High Angel's Share Barrels (2018)
-* Tennessee Tasters' Hickory Smoked (2018)
-* Tennessee Tasters' Barrel Proof Rye (2019)
+* [Tennessee Tasters' High Angel's Share Barrels (2018)](https://collectorofjack.com/HighAngelsShare)
+* [Tennessee Tasters' Hickory Smoked (2018)](https://collectorofjack.com/HickorySmoked)
+* [Tennessee Tasters' Barrel Proof Rye (2019)](https://collectorofjack.com/TennesseeTastersBarrelProofRye)
+* [Tennessee Tasters' Barrel Reunion 1 (2019)](https://collectorofjack.com/BarrelReunion1)
+* [Tennessee Tasters' Barrel Reunion 2 (2019)](https://collectorofjack.com/BarrelReunion2)
+* Tennessee Tasters' Jamaican Allspice (2020)
+* Tennessee Tasters' Twin Blend (2020)
 * Master Distiller Series No. 3 (750mL)
 * Scenes of Lynchburg #6 (750mL)
 * Scenes of Lynchburg #7 (750mL)
-* Jack Daniel's Holiday Calendar 2019
-* Jack Daniel's Holiday Calendar 2020
-* 2019 Heritage Barrel
-* Eric Church Single Barrel 2020
-* Eric Church Single Barrel 2019
-* Eric Church Single Barrel 2019
-
+* [Jack Daniel's Holiday Calendar 2019](https://collectorofjack.com/2019AdventCalendar)
+* [Jack Daniel's Holiday Calendar 2020](https://collectorofjack.com/2020HolidayCountdownCalendar)
+* [2019 Heritage Barrel](https://collectorofjack.com/HeritageBarrel2019)
+* [Eric Church Single Barrel 2020](https://collectorofjack.com/EricChurchSingleBarrel2020)
+* [Eric Church Single Barrel 2019](https://collectorofjack.com/JackDanielsEricChurch)
+* [Jack Daniel's Barrel Proof Rye Special Release 2020](https://collectorofjack.com/2020SpecialRelease)
