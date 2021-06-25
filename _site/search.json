@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series Barrel Reunion 2",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/BarrelReunion2",
+      "date"     : "2021-06-24 17:20:00 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
       "title"    : "Jack Daniel&#39;s Visit June 2021",
       "category" : "",
       "tags"     : "",
@@ -451,7 +460,7 @@
         "tags"     : "",
         "url"      : "/huntlist",
         "date"     : "",
-        "content"   : "This site is where I document my collection, but I am always looking to grow that collection. This page is intended to be a list of Jack Daniel's bottles and memorabilia that I am searching for as well as things I might have available for trades.\n\nThis is not an all inclusive list, I am definitely looking for more than this, so if you've got something you're interested in parting with, let me know. \n\n### Will you sell any bottles?\nI am not super interested in selling the items I have for trade, the goal is to acquire more for my collection, not decrease the size of my collectiong with selling.\n\n### Where will you trade?\nI prefer trades in the Mid West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed.\n\n\n## Items for I'm Looking For\n* Master Distiller Series No. 1 (1 Liter) (might have one coming, not sure yet)\n* Jack Daniel's Alabama Bicentennial\n* Jack Daniel's Barrel Proof Rye Special Release (2020)\n* Tennessee Tasters' Jamaican Allspice\n* Jack Daniel's Silver Cornet Decanter\n\n## Items for Trade\n* Gentleman Jack Limited Edition Time Piece Bottle\n* Tennessee Tasters' High Angel's Share Barrels (2018)\n* Tennessee Tasters' Hickory Smoked (2018)\n* Tennessee Tasters' Barrel Proof Rye (2019)\n* Master Distiller Series No. 3 (750mL)\n* Scenes of Lynchburg #6 (750mL)\n* Scenes of Lynchburg #7 (750mL)\n* Jack Daniel's Holiday Calendar 2019\n* Jack Daniel's Holiday Calendar 2020\n* 2019 Heritage Barrel\n* Eric Church Single Barrel 2020\n* Eric Church Single Barrel 2019\n* Eric Church Single Barrel 2019\n\n"
+        "content"   : "This site is where I document my collection, but I am always looking to grow that collection. This page is intended to be a list of Jack Daniel's bottles and memorabilia that I am searching for as well as things I might have available for trades.\n\nThis is not an all inclusive list, I am definitely looking for more than this, so if you've got something you're interested in parting with, let me know. \n\n### Will you sell any bottles?\nI am not super interested in selling the items I have for trade, the goal is to acquire more for my collection, not decrease the size of my collectiong with selling.\n\n### Where will you trade?\nI prefer trades in the Mid West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed.\n\n\n## Items for I'm Looking For\n* Master Distiller Series No. 1 (1 Liter) \n* Jack Daniel's Alabama Bicentennial\n* Jack Daniel's Silver Cornet Decanter\n\n## Items for Trade\n* Gentleman Jack Limited Edition Time Piece Bottle\n* [Tennessee Tasters' High Angel's Share Barrels (2018)](https://collectorofjack.com/HighAngelsShare)\n* [Tennessee Tasters' Hickory Smoked (2018)](https://collectorofjack.com/HickorySmoked)\n* [Tennessee Tasters' Barrel Proof Rye (2019)](https://collectorofjack.com/TennesseeTastersBarrelProofRye)\n* [Tennessee Tasters' Barrel Reunion 1 (2019)](https://collectorofjack.com/BarrelReunion1)\n* [Tennessee Tasters' Barrel Reunion 2 (2019)](https://collectorofjack.com/BarrelReunion2)\n* Tennessee Tasters' Jamaican Allspice (2020)\n* Tennessee Tasters' Twin Blend (2020)\n* Master Distiller Series No. 3 (750mL)\n* Scenes of Lynchburg #6 (750mL)\n* Scenes of Lynchburg #7 (750mL)\n* [Jack Daniel's Holiday Calendar 2019](https://collectorofjack.com/2019AdventCalendar)\n* [Jack Daniel's Holiday Calendar 2020](https://collectorofjack.com/2020HolidayCountdownCalendar)\n* [2019 Heritage Barrel](https://collectorofjack.com/HeritageBarrel2019)\n* [Eric Church Single Barrel 2020](https://collectorofjack.com/EricChurchSingleBarrel2020)\n* [Eric Church Single Barrel 2019](https://collectorofjack.com/JackDanielsEricChurch)\n* [Jack Daniel's Barrel Proof Rye Special Release 2020](https://collectorofjack.com/2020SpecialRelease)\n"
      
    } ,
   
@@ -652,7 +661,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series High Angel&#39;s Share",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series High Angel&#39;s Share",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/HighAngelsShare/AngelsShare-1/",
@@ -663,7 +672,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series High Angel&#39;s Share",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series High Angel&#39;s Share",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/HighAngelsShare/AngelsShare-2/",
@@ -674,7 +683,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series High Angel&#39;s Share",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series High Angel&#39;s Share",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/HighAngelsShare/AngelsShare-3/",
@@ -685,7 +694,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series High Angel&#39;s Share",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series High Angel&#39;s Share",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/HighAngelsShare/AngelsShare-4/",
@@ -696,7 +705,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series High Angel&#39;s Share",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series High Angel&#39;s Share",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/HighAngelsShare/AngelsShare-5/",
@@ -707,7 +716,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Hickory Smoked release",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series Hickory Smoked release",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/HickorySmoked/HickorySmoked-1/",
@@ -718,7 +727,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Hickory Smoked release",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series Hickory Smoked release",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/HickorySmoked/HickorySmoked-2/",
@@ -729,7 +738,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Hickory Smoked release",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series Hickory Smoked release",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/HickorySmoked/HickorySmoked-3/",
@@ -740,7 +749,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Hickory Smoked release",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series Hickory Smoked release",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/HickorySmoked/HickorySmoked-4/",
@@ -751,7 +760,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Hickory Smoked release",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series Hickory Smoked release",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/HickorySmoked/HickorySmoked-5/",
@@ -1895,7 +1904,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Barrel Reunion",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series Barrel Reunion",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/BarrelReunion1/CollectorOfJack-7/",
@@ -1906,7 +1915,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Barrel Reunion",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series Barrel Reunion",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/BarrelReunion1/CollectorOfJack-8/",
@@ -1917,7 +1926,7 @@
   
    {
      
-        "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Barrel Reunion",
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series Barrel Reunion",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/BarrelReunion1/CollectorOfJack-9/",
@@ -2907,7 +2916,7 @@
   
    {
      
-        "title"    : "The Tennessee Taster&#39;s Barrel Proof Rye Bottle",
+        "title"    : "The Tennessee Tasters&#39; Barrel Proof Rye Bottle",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/TennesseeTastersBarrelProofRye/TennesseeTasters4-1/",
@@ -2918,7 +2927,7 @@
   
    {
      
-        "title"    : "The Tennessee Taster&#39;s Barrel Proof Rye Bottle",
+        "title"    : "The Tennessee Tasters&#39; Barrel Proof Rye Bottle",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/TennesseeTastersBarrelProofRye/TennesseeTasters4-2/",
@@ -2929,7 +2938,7 @@
   
    {
      
-        "title"    : "The Tennessee Taster&#39;s Barrel Proof Rye Bottle",
+        "title"    : "The Tennessee Tasters&#39; Barrel Proof Rye Bottle",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/TennesseeTastersBarrelProofRye/TennesseeTasters4-3/",
@@ -2940,7 +2949,7 @@
   
    {
      
-        "title"    : "The Tennessee Taster&#39;s Barrel Proof Rye Bottle",
+        "title"    : "The Tennessee Tasters&#39; Barrel Proof Rye Bottle",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/TennesseeTastersBarrelProofRye/TennesseeTasters4-4/",
@@ -4330,6 +4339,50 @@
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-25/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tennessee Tasters&#39; Barrel Reunion 2 Finished in Oatmeal Sout Barrels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelReunion2/BarrelReunion2-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tennessee Tasters&#39; Barrel Reunion 2 Finished in Oatmeal Sout Barrels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelReunion2/BarrelReunion2-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tennessee Tasters&#39; Barrel Reunion 2 Finished in Oatmeal Sout Barrels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelReunion2/BarrelReunion2-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tennessee Tasters&#39; Barrel Reunion 2 Finished in Oatmeal Sout Barrels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelReunion2/BarrelReunion2-4/",
         "date"     : "",
         "content"   : null
      
