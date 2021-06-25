@@ -31,19 +31,20 @@
 </div>
 
 <script language="javascript" type="text/javascript">
-	
+	var pageUrl = "{{site.baseurl}}/{{page.permalink}}";
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  window.history.pushState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {

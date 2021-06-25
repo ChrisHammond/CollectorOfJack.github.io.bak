@@ -5,8 +5,8 @@
     <description>A blog for collecting Jack Daniel's bottles and memorabilia</description>
     <link>https://collectorofjack.com/</link>
     <atom:link href="https://collectorofjack.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 25 Jun 2021 09:22:30 -0500</pubDate>
-    <lastBuildDate>Fri, 25 Jun 2021 09:22:30 -0500</lastBuildDate>
+    <pubDate>Fri, 25 Jun 2021 10:39:28 -0500</pubDate>
+    <lastBuildDate>Fri, 25 Jun 2021 10:39:28 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -123,19 +123,20 @@
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
+	var pageUrl = &quot;/BarrelReunion2&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {
@@ -378,19 +379,20 @@
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
+	var pageUrl = &quot;/JackDanielsDistilleryVisit2021&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {
@@ -879,19 +881,20 @@
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
+	var pageUrl = &quot;/JackDanielsDistilleryVisit2021&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {
@@ -1075,19 +1078,20 @@ This is the fifth in a series of bottles depicting life in Lynchburg, Tennessee,
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
+	var pageUrl = &quot;/ScenesFromLynchburgFive&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {
@@ -1308,19 +1312,20 @@ Here’s to every Beam who has added his own special chapter to our story. Kentu
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
+	var pageUrl = &quot;/2018RedSoxWorldChampion&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {
@@ -1596,19 +1601,20 @@ NOV / Luekens Wine &amp;amp; Spirits, FL&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
+	var pageUrl = &quot;/BlackenedBatch106&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {
@@ -2088,19 +2094,20 @@ This Special Release celebrates the early craftsmanship of the Jack Daniel Disti
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
+	var pageUrl = &quot;/2020SpecialRelease&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {
@@ -2351,19 +2358,20 @@ This Special Release celebrates the early craftsmanship of the Jack Daniel Disti
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
+	var pageUrl = &quot;/3DPrintedBarrelTree&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {
@@ -2546,19 +2554,20 @@ An 11-year old barre, hand selected and chosen by our founders, Nerest Green (TM
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
+	var pageUrl = &quot;/UncleNearest1820&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {
@@ -2827,19 +2836,20 @@ In Lynchburg, Tennessee, the holidays are about traditions old and new. While ol
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
+	var pageUrl = &quot;/2020HolidayCountdownCalendar&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {
@@ -2971,19 +2981,20 @@ In Lynchburg, Tennessee, the holidays are about traditions old and new. While ol
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
+	var pageUrl = &quot;/BarrelProofRyeSpecialRelease&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.pushState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {

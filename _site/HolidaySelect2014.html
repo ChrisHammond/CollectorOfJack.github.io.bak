@@ -12,28 +12,26 @@
     <meta property="og:title" content="Jack Daniel's Holiday Select 2014" />
     <meta property="og:description" content="A collector's guide to the Jack Daniel's Holiday Select Release from 2014" />
     
-
+    
+    
     <meta name="description" content="A blog for collecting Jack Daniel's bottles and memorabilia">
     <link rel="canonical" href="https://collectorofjack.com/HolidaySelect2014">
 
     <link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon">
     <link rel="icon" href="/favicon.ico?" type="image/x-icon">
 
-
     <!-- CSS -->
-
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="/css/galleries.css">
-    <link rel="stylesheet" href="/css/magnificpopup.css">
-    <link href="/css/tags-wrap.css" rel="stylesheet" />
-    <link rel="stylesheet" href="/css/journal.css" media="screen" />
-
+    <!-- Custom CSS -->   
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1624635568" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1624635568">
+    <link rel="stylesheet" href="/css/galleries.css?v=1624635568">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1624635568">
+    
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1624635568" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1624635568" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -73,7 +71,7 @@
         ga('send', 'pageview');
     </script>
 
-
+<script src="/js/main.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
@@ -510,19 +508,20 @@ style="margin-right:1em; z-index: 1;">
 </div>
 
 <script language="javascript" type="text/javascript">
-	
+	var pageUrl = "/HolidaySelect2014";
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &param
 	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
 	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  window.history.pushState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.pushState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  
 	});
 
 	$(document).ready(function ($) {
