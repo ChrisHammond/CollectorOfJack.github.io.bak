@@ -228,13 +228,14 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #000000;
+  color: #fff;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
   margin-top: 0px;
   margin-bottom: 0px;
-  padding:0px;
+  padding:0 10px;
+  text-align: center;
 }
 .post-preview > a > .post-subtitle {
   margin: 0;
@@ -247,6 +248,7 @@ hr.small {
   font-size: 18px;
   font-style: italic;
   margin-top: 0;
+  padding: 0 10px;
 }
 .post-preview > .post-meta > a {
   text-decoration: none;
