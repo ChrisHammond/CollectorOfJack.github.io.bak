@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 'CollectorOfJack.com Hunt list'
+title: "My Jack Daniel's Hunt list"
 subtitle: A List of Things We're Looking For
-description: Collector Of Jack is a Jack Daniel's Collector's Blog page dedicated to items we are looking for.
+description: A list of bottles and Jack Daniel's items that we are looking for, along with items we have available for trade.
 image:
   feature: huntlist-1.jpg
 permalink: huntlist
