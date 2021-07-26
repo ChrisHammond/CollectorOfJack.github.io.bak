@@ -1,6 +1,33 @@
 [
   
     {
+      "title"    : "Jack Daniels Coy Hill High Proof",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JackDanielsCoyHillHighProof",
+      "date"     : "2021-07-13 19:20:00 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Happy Fourth of July 2021",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/FourthOfJuly2021",
+      "date"     : "2021-07-03 05:20:00 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series Jamaican Allspice",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/JamaicanAllSpice",
+      "date"     : "2021-06-30 17:20:00 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
       "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; Series Barrel Reunion 2",
       "category" : "",
       "tags"     : "",
@@ -455,7 +482,7 @@
   
    {
      
-        "title"    : "CollectorOfJack.com Hunt list",
+        "title"    : "My Jack Daniel&#39;s Hunt list",
         "category" : "",
         "tags"     : "",
         "url"      : "/huntlist",
@@ -4390,6 +4417,94 @@
   
    {
      
+        "title"    : "Tennessee Tasters&#39; Jamaican Allspice Finished with toasted Jamaican Allspice Wood front",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JamaicanAllSpice/JamaicanAllSpice-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tennessee Tasters&#39; Jamaican Allspice Finished with toasted Jamaican Allspice Wood right side",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JamaicanAllSpice/JamaicanAllSpice-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tennessee Tasters&#39; Jamaican Allspice Finished with toasted Jamaican Allspice Wood rear",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JamaicanAllSpice/JamaicanAllSpice-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tennessee Tasters&#39; Jamaican Allspice Finished with toasted Jamaican Allspice Wood left side",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JamaicanAllSpice/JamaicanAllSpice-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Show-Me State Squires Commemorative Bottle 001 Fourth Of July Decorations",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/FourthOfJuly2021/4thOfJuly-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Coy Hill High Proof",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsCoyHillHighProof/JackDanielsCoyHillHighProof-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Coy Hill High Proof",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsCoyHillHighProof/JackDanielsCoyHillHighProof-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Single Barrel Coy Hill High Proof",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsCoyHillHighProof/JackDanielsCoyHillHighProof-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
         "title"    : "CollectorOfJack.com",
         "category" : "",
         "tags"     : "",
@@ -4427,6 +4542,17 @@
         "category" : "",
         "tags"     : "",
         "url"      : "/page5/",
+        "date"     : "",
+        "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"pager-button btn btn-outline-primary previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"pager-button btn btn-outline-primary next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
+     
+   } ,
+  
+   {
+     
+        "title"    : "CollectorOfJack.com",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/page6/",
         "date"     : "",
         "content"   : "<section class=\"section--postsWrapper\">\n  <div class=\"container\">\n    <div class=\"blockGroup\">\n      <ul class=\"blockGroup-list\">\n\n        {% for post in paginator.posts %}\n\n        {% assign post = site.posts.first %}\n        {% assign content = post.content %}\n\n        <li class=\"block\">\n          <div class=\"postArticle-wrapper\">\n\n            <div class=\"post-preview\"\n              style=\"border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;\">\n\n              <a href=\"{{ post.url | prepend: site.baseurl }}\">\n                {% if post.image.feature %}\n                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}\n                {% endif %}\n                <p class=\"post-title\"\n                  style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                  {{ post.title }}\n                </p>\n              </a>\n              {% if post.subtitle %}\n              <p class=\"post-subtitle\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                {{ post.subtitle }}</p>\n              {% endif %}\n\n              <p class=\"post-meta\"\n                style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; \">\n                Posted on {{ post.date | date: \"%B %-d, %Y\" }}</p>\n            </div>\n\n          </div>\n        </li>\n        {% endfor %}\n        <p>&nbsp;</p>\n      </ul>\n    </div>\n  </div>\n</section>\n\n\n<!-- Pager -->\n{% if paginator.total_pages > 1 %}\n<ul class=\"pager\" style=\"font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;\">\n  {% if paginator.previous_page %}\n  <li class=\"pager-button btn btn-outline-primary previous\">\n    <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}\">&larr; Newer Posts</a>\n  </li>\n  {% endif %}\n\n  <span class=\"button-height\"> Page {{paginator.page}} of {{paginator.total_pages}}</span>\n\n  {% if paginator.next_page %}\n  <li class=\"pager-button btn btn-outline-primary next\">\n    <a href=\"{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}\">Older Posts &rarr;</a>\n  </li>\n  {% endif %}\n</ul>\n{% endif %}\n\n<br>"
      
