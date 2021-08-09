@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Jack Daniels Tennessee Tasters&#39; 14E19 &#39;Twin&#39; Blend | Whiskey",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/TwinBlend",
+      "date"     : "2021-08-08 19:10:00 -0500",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
       "title"    : "Jack Daniels Coy Hill High Proof",
       "category" : "",
       "tags"     : "",
@@ -4498,6 +4507,50 @@
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/JackDanielsCoyHillHighProof/JackDanielsCoyHillHighProof-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; 14E19 &#39;Twin&#39; Blend | Whiskey",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTwinBlend/TwinBlend-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; 14E19 &#39;Twin&#39; Blend | Whiskey",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTwinBlend/TwinBlend-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; 14E19 &#39;Twin&#39; Blend | Whiskey",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTwinBlend/TwinBlend-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Tasters&#39; 14E19 &#39;Twin&#39; Blend | Whiskey",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTwinBlend/TwinBlend-4/",
         "date"     : "",
         "content"   : null
      
