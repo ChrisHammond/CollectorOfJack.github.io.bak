@@ -14,6 +14,10 @@ gallery:
   - image_path: 1/CollectorOfJack-2.jpg
     image-caption: Jack Daniel's Holiday Select Barrel
     image-copyright: © CollectorOfJack.com
+
+redirect_from: 
+  - "about"
+  - "About"
 ---
 
 I started out my journey with Jack Daniel's at a young age. My father would have a Jack and Coke, every night, after work. One and done, but as well as I can remember, it was, and still is, a nightly ritual. I might have snuck a taste as a kid, but I wasn’t a kid who drank in high school, it wasn’t until college until I really had my first drink.
