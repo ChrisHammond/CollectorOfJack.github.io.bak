@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jack Daniels Tennessee Tasters' 14E19 "Twin" Blend | Whiskey
+title: Jack Daniels Tennessee Tasters' 14E19 'Twin' Blend | Whiskey
 date: '2021-08-09T00:10:00+00:00'
 permalink: TwinBlend
 image:
