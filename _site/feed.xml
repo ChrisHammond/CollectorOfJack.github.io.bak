@@ -5,9 +5,138 @@
     <description>A blog for collecting Jack Daniel's bottles and memorabilia</description>
     <link>https://collectorofjack.com/</link>
     <atom:link href="https://collectorofjack.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 09 Aug 2021 14:56:36 -0500</pubDate>
-    <lastBuildDate>Mon, 09 Aug 2021 14:56:36 -0500</lastBuildDate>
+    <pubDate>Tue, 24 Aug 2021 10:30:41 -0500</pubDate>
+    <lastBuildDate>Tue, 24 Aug 2021 10:30:41 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Jack Daniels 10-Years Old Tennessee Whiskey</title>
+        <description>&lt;p&gt;Earlier this summer we blogged about the Coy Hill High Proof coming out this fall, well we’ve got another new release from the Jack Daniel’s Distillery coming in early September!&lt;/p&gt;
+
+&lt;p&gt;Jack Daniels 10-Years Old Tennessee Whiskey&lt;/p&gt;
+
+&lt;p&gt;From a message that Chris Fletcher and Jack Daniel’s has posted on social media:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bottled at 97 proof—a first for the Jack Daniel Distillery—this liquid features notes of dry fig and raisin laced with oak on the nose, warm butterscotch alongside soft fruit and smoke on the pallet, and an incredibly long finish with sweet tobacco and spice.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jack Daniel’s 10-Years-Old Tennessee Whiskey retails for $74.99 with tax in a 750mL size with the first batch hitting shelves in limited quantities in early September across the United States. It will be available in the White Rabbit Bottle Shop at the Jack Daniel Distillery starting September 3.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; 2021&lt;br /&gt;
+&lt;strong&gt;Proof:&lt;/strong&gt; 97
+&lt;strong&gt;Size:&lt;/strong&gt; 750ml&lt;br /&gt;
+&lt;strong&gt;Price:&lt;/strong&gt; $74.99&lt;/p&gt;
+
+&lt;div class=&quot;gallery masonry-gallery&quot; id=&quot;10YearsOldTennesseeWhiskey&quot;&gt;
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
+		
+		&lt;a href=&quot;/images/generated/53/10YearsOldTennesseeWhiskey-1-600-f08d489b0.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniels 10-Years Old Tennessee Whiskey&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/10YearsOldTennesseeWhiskey/10YearsOldTennesseeWhiskey-1/ &quot;&gt;
+			&lt;img src=&quot;/images/generated/53/10YearsOldTennesseeWhiskey-1-600-f08d489b0.jpg&quot; alt=&quot;Jack Daniels 10-Years Old Tennessee Whiskey&quot; srcset=&quot;/images/generated/53/10YearsOldTennesseeWhiskey-1-200-f08d489b0.jpg 200w, /images/generated/53/10YearsOldTennesseeWhiskey-1-400-f08d489b0.jpg 400w, /images/generated/53/10YearsOldTennesseeWhiskey-1-600-f08d489b0.jpg 600w&quot; /&gt;
+
+		&lt;/a&gt;
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniels 10-Years Old Tennessee Whiskey&quot;&gt;
+				&lt;h3&gt;Jack Daniels 10-Years Old Tennessee Whiskey&lt;/h3&gt;
+					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+  
+&lt;/div&gt;
+
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+	var pageUrl = &quot;/10YearsOldTennesseeWhiskey&quot;;
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  originalUrl = window.location.href.split('?')[0];
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
+		if(galleryNameLoc&gt;0)
+		{
+			//console.log('Found Index',  index);
+			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
+			//console.log('G Index:', gindex);
+			//console.log('Item:',$('#' + gindex));
+			var galleryObj = $('#' + gindex);
+			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+
+			if(loc&gt;0)
+			{
+				//console.log('Found It',  window.location.href.substring(loc));
+				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
+				//console.log('Found Index',  index);
+				//lookup the image on the page if there are multiple galleries
+				
+				$('#' + gindex).find('.popup')[index].click();
+			}
+					
+		}
+		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		//if(loc&lt;0)
+		//{
+		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
+		//	//console.log('Found Index',  index);
+		//	//lookup the image on the page if there are multiple galleries
+			
+		//	document.getElementsByClassName('popup')[index].click();
+		//}
+		
+	});
+&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 23 Aug 2021 19:10:00 -0500</pubDate>
+        <link>https://collectorofjack.com/10YearsOldTennesseeWhiskey</link>
+        <guid isPermaLink="true">https://collectorofjack.com/10YearsOldTennesseeWhiskey</guid>
+        
+        
+      </item>
     
       <item>
         <title>Jack Daniels Tennessee Tasters' 14E19 'Twin' Blend | Whiskey</title>
@@ -2357,499 +2486,6 @@ NOV / Luekens Wine &amp;amp; Spirits, FL&lt;/p&gt;
         <pubDate>Sun, 14 Feb 2021 14:00:00 -0600</pubDate>
         <link>https://collectorofjack.com/BlackenedBatch106</link>
         <guid isPermaLink="true">https://collectorofjack.com/BlackenedBatch106</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Jack Daniel's 2020 Special Release Barrel Proof Rye</title>
-        <description>&lt;p&gt;The 2020 Special Release bottle from Jack Daniel’s, following the past two year’s Heritage Barrel releases, is a Barrel Proof Rye. The bottle is simply beautiful, see photos above and below!&lt;/p&gt;
-
-&lt;p&gt;This has not been the easiest bottle to find here in Missouri, in fact, I haven’t been made aware of any bottles in the state of Missouri or Illinois yet. Every morning I wake up and search online via 6 or so websites, trying to find a somewhat location retailer who has them.&lt;/p&gt;
-
-&lt;p&gt;Back on November 23rd I found a bottle online via Cask Cartel and placed an order. It was for above retail price, but I was worried it might be the only bottle I get access to, so I went ahead and placed the order. Since then the price has gone up to $249/bottle and recently to the point where you can’t even buy a bottle, only a case (at close to $1500).&lt;/p&gt;
-
-&lt;p&gt;I continue to search, I would love to find another bottle so that I can open one! I hope that they show up here in Missouri in the next week or two, but we’ll see if that plays out.&lt;/p&gt;
-
-&lt;p&gt;Now on to the bottle review.&lt;/p&gt;
-
-&lt;p&gt;The bottle is very similar to the heriage release bottle of the past two years, only with some tweaks for the 2020 Special Release Rye. It comes with a hang tag in green with gold lettering, the front of which reads:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jack Daniel’s 
-Uniquely Crafted Handmade Barrels
-Single Barrel Special Release Barrel Proof Rye
-2020 Limited Edition&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The rear of the tag reads:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Master Distiller Jeff Arnett and his team of whiskey makers created this special release to honow the history of American whiskey when it was often high in rye content and offered at barrel strength. Maturing in the reaches of Barrel House #1-02 has delivered a deep copper hue with a nose that opens to an aroma full of smoke and raisin. Each sip lingers with molasses, sawn oak, and bold rye spice.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The front of the bottle reads similar to the front of the hang tag, with a few additions.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Neck: 2020 Special Release 1-02 Barrel House Jeff Arnett Master Distiller Lynchburg Tenn. 20-069888 Barrel No. 11.5.20 Bottling Date
-Jack Daniel’s 
-Uniquely Crafted Handmade Barrels
-Single Barrel Special Release
-Tennessee Rye Whiskey
-Barrel Proof Rye 130.8 Proof 65.40 %ALC/Vol
-This Special Release celebrates the early craftsmanship of the Jack Daniel Distillery. Bottled in its singular form straight from the barrel, uncut at full proof.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The rear label is on the left side of the bottle and reads:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The special release series highlights our innovation in whiskey making here at Jack Daniel Distillery. Hand-selected from the highest parts of our barrelhouses and bottled from single barrels, we extend this one-of-a-kind craftsmanship to you.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you can get your hands on one of these bottles, go for it! There are various bottling dates available (over a few days in November 2020), if I can track them down I will update this post.&lt;/p&gt;
-
-&lt;h4 id=&quot;specs&quot;&gt;Specs&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; 2020&lt;br /&gt;
-&lt;strong&gt;Bottling Date:&lt;/strong&gt; 11/5/2020
-&lt;strong&gt;Proof:&lt;/strong&gt; 130.8 (variable)&lt;br /&gt;
-&lt;strong&gt;Size:&lt;/strong&gt; 750ml&lt;br /&gt;
-&lt;strong&gt;Price:&lt;/strong&gt; $79&lt;/p&gt;
-
-&lt;div class=&quot;gallery masonry-gallery&quot; id=&quot;2020SpecialRelease&quot;&gt;
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-1-1600-09625815a.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-1/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-1-600-09625815a.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-1-200-09625815a.jpg 200w, /images/generated/43/BarrelProofRye2020-1-400-09625815a.jpg 400w, /images/generated/43/BarrelProofRye2020-1-600-09625815a.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-2-1600-94afdad43.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-2/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-2-600-94afdad43.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-2-200-94afdad43.jpg 200w, /images/generated/43/BarrelProofRye2020-2-400-94afdad43.jpg 400w, /images/generated/43/BarrelProofRye2020-2-600-94afdad43.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-3-1600-3accd7ade.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-3/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-3-600-3accd7ade.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-3-200-3accd7ade.jpg 200w, /images/generated/43/BarrelProofRye2020-3-400-3accd7ade.jpg 400w, /images/generated/43/BarrelProofRye2020-3-600-3accd7ade.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-4-1600-ddd6b5d14.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-4/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-4-600-ddd6b5d14.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-4-200-ddd6b5d14.jpg 200w, /images/generated/43/BarrelProofRye2020-4-400-ddd6b5d14.jpg 400w, /images/generated/43/BarrelProofRye2020-4-600-ddd6b5d14.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-5-1600-510866092.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-5/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-5-600-510866092.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-5-200-510866092.jpg 200w, /images/generated/43/BarrelProofRye2020-5-400-510866092.jpg 400w, /images/generated/43/BarrelProofRye2020-5-600-510866092.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-6-1600-170004182.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-6/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-6-600-170004182.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-6-200-170004182.jpg 200w, /images/generated/43/BarrelProofRye2020-6-400-170004182.jpg 400w, /images/generated/43/BarrelProofRye2020-6-600-170004182.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-7-1600-ac3de5df1.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-7/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-7-600-ac3de5df1.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-7-200-ac3de5df1.jpg 200w, /images/generated/43/BarrelProofRye2020-7-400-ac3de5df1.jpg 400w, /images/generated/43/BarrelProofRye2020-7-600-ac3de5df1.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-8-1600-bc7c12066.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-8/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-8-600-bc7c12066.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-8-200-bc7c12066.jpg 200w, /images/generated/43/BarrelProofRye2020-8-400-bc7c12066.jpg 400w, /images/generated/43/BarrelProofRye2020-8-600-bc7c12066.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-9-1600-a2c49e3e5.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-9/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-9-600-a2c49e3e5.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-9-200-a2c49e3e5.jpg 200w, /images/generated/43/BarrelProofRye2020-9-400-a2c49e3e5.jpg 400w, /images/generated/43/BarrelProofRye2020-9-600-a2c49e3e5.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-10-1600-a7435747e.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-10/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-10-600-a7435747e.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-10-200-a7435747e.jpg 200w, /images/generated/43/BarrelProofRye2020-10-400-a7435747e.jpg 400w, /images/generated/43/BarrelProofRye2020-10-600-a7435747e.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-11-1600-f64a8a975.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-11/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-11-600-f64a8a975.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-11-200-f64a8a975.jpg 200w, /images/generated/43/BarrelProofRye2020-11-400-f64a8a975.jpg 400w, /images/generated/43/BarrelProofRye2020-11-600-f64a8a975.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-12-1600-861f6cce1.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-12/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-12-600-861f6cce1.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-12-200-861f6cce1.jpg 200w, /images/generated/43/BarrelProofRye2020-12-400-861f6cce1.jpg 400w, /images/generated/43/BarrelProofRye2020-12-600-861f6cce1.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-13-1600-68ea44972.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-13/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-13-600-68ea44972.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-13-200-68ea44972.jpg 200w, /images/generated/43/BarrelProofRye2020-13-400-68ea44972.jpg 400w, /images/generated/43/BarrelProofRye2020-13-600-68ea44972.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-14-1600-7967c2c33.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-14/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-14-600-7967c2c33.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-14-200-7967c2c33.jpg 200w, /images/generated/43/BarrelProofRye2020-14-400-7967c2c33.jpg 400w, /images/generated/43/BarrelProofRye2020-14-600-7967c2c33.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-15-1600-63dccf90d.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-15/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-15-600-63dccf90d.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-15-200-63dccf90d.jpg 200w, /images/generated/43/BarrelProofRye2020-15-400-63dccf90d.jpg 400w, /images/generated/43/BarrelProofRye2020-15-600-63dccf90d.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/43/BarrelProofRye2020-16-1600-8490b53b9.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020SpecialRelease/BarrelProofRye2020-16/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/43/BarrelProofRye2020-16-600-8490b53b9.jpg&quot; alt=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot; srcset=&quot;/images/generated/43/BarrelProofRye2020-16-200-8490b53b9.jpg 200w, /images/generated/43/BarrelProofRye2020-16-400-8490b53b9.jpg 400w, /images/generated/43/BarrelProofRye2020-16-600-8490b53b9.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Barrel Proof Rye Special Release&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Barrel Proof Rye Special Release&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-&lt;/div&gt;
-
-&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	var pageUrl = &quot;/2020SpecialRelease&quot;;
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  originalUrl = window.location.href.split('?')[0];
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
-	  
-	});
-
-	$('.popup').on('mfpClose', function(e /*, params */) {
-	  
-	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
-	  
-	});
-
-	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
-      gallery: {
-        enabled: true,
-        navigateByImgClick: true,
-        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
-      },
-      image: {
-        titleSrc: function (item) {
-          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
-        }
-      }
-      // other options
-    });
-  });
-
-	//check if the url contains a photo
-	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
-		//console.log('Page Load',  window.location.href.split('?')[1]);
-		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
-		if(galleryNameLoc&gt;0)
-		{
-			//console.log('Found Index',  index);
-			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
-			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
-
-			if(loc&gt;0)
-			{
-				//console.log('Found It',  window.location.href.substring(loc));
-				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-				//console.log('Found Index',  index);
-				//lookup the image on the page if there are multiple galleries
-				
-				$('#' + gindex).find('.popup')[index].click();
-			}
-					
-		}
-		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
-		//if(loc&lt;0)
-		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
-		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-		//	//console.log('Found Index',  index);
-		//	//lookup the image on the page if there are multiple galleries
-			
-		//	document.getElementsByClassName('popup')[index].click();
-		//}
-		
-	});
-&lt;/script&gt;
-
-</description>
-        <pubDate>Sun, 13 Dec 2020 14:00:00 -0600</pubDate>
-        <link>https://collectorofjack.com/2020SpecialRelease</link>
-        <guid isPermaLink="true">https://collectorofjack.com/2020SpecialRelease</guid>
         
         
       </item>
