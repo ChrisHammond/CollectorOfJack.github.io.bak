@@ -23,6 +23,9 @@ I prefer trades in the Mid West. I am near St. Louis, and willing to drive/meet 
 * Master Distiller Series No. 1 (1 Liter) 
 * Jack Daniel's Alabama Bicentennial
 * Jack Daniel's Silver Cornet Decanter
+* 1904 Gold Medal Series
+* 1913 Gold Medal Series
+
 
 ## Items for Trade
 * Gentleman Jack Limited Edition Time Piece Bottle
