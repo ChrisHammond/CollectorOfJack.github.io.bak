@@ -16,7 +16,7 @@ This is not an all inclusive list, I am definitely looking for more than this, s
 I am not super interested in selling the items I have for trade, the goal is to acquire more for my collection, not decrease the size of my collectiong with selling.
 
 ### Where will you trade?
-I prefer trades in the Mid West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed.
+I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed.
 
 
 ## Items for I'm Looking For
@@ -25,10 +25,11 @@ I prefer trades in the Mid West. I am near St. Louis, and willing to drive/meet 
 * Jack Daniel's Silver Cornet Decanter
 * 1904 Gold Medal Series
 * 1913 Gold Medal Series
+* Jack Daniel's 10 Years Old Tennessee Whiskey
 
 
 ## Items for Trade
-* Gentleman Jack Limited Edition Time Piece Bottle
+* [Gentleman Jack Limited Edition Time Piece Bottle](https://collectorofjack.com/GentlemanJackTimePiece)
 * [Tennessee Tasters' High Angel's Share Barrels (2018)](https://collectorofjack.com/HighAngelsShare)
 * [Tennessee Tasters' Hickory Smoked (2018)](https://collectorofjack.com/HickorySmoked)
 * [Tennessee Tasters' Barrel Proof Rye (2019)](https://collectorofjack.com/TennesseeTastersBarrelProofRye)
@@ -42,6 +43,6 @@ I prefer trades in the Mid West. I am near St. Louis, and willing to drive/meet 
 * [Jack Daniel's Holiday Calendar 2019](https://collectorofjack.com/2019AdventCalendar)
 * [Jack Daniel's Holiday Calendar 2020](https://collectorofjack.com/2020HolidayCountdownCalendar)
 * [2019 Heritage Barrel](https://collectorofjack.com/HeritageBarrel2019)
-* [Eric Church Single Barrel 2020](https://collectorofjack.com/EricChurchSingleBarrel2020)
 * [Eric Church Single Barrel 2019](https://collectorofjack.com/JackDanielsEricChurch)
+* [Eric Church Single Barrel 2020](https://collectorofjack.com/EricChurchSingleBarrel2020)
 * [Jack Daniel's Barrel Proof Rye Special Release 2020](https://collectorofjack.com/2020SpecialRelease)
