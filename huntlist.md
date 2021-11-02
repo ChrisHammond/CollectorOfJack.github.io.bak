@@ -26,6 +26,7 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * 1904 Gold Medal Series
 * 1913 Gold Medal Series
 * Jack Daniel's 10 Years Old Tennessee Whiskey
+* Jack Daniel's Special Release Coy Hill High Proof
 
 
 ## Items for Trade
