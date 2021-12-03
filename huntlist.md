@@ -23,8 +23,7 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * Master Distiller Series No. 1 (1 Liter) 
 * Jack Daniel's Alabama Bicentennial
 * Jack Daniel's Silver Cornet Decanter
-* 1904 Gold Medal Series
-* 1913 Gold Medal Series
+* 1915 Gold Medal Series Box
 * Jack Daniel's 10 Years Old Tennessee Whiskey
 * Jack Daniel's Special Release Coy Hill High Proof
 
