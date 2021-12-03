@@ -13,10 +13,10 @@ This site is where I document my collection, but I am always looking to grow tha
 This is not an all inclusive list, I am definitely looking for more than this, so if you've got something you're interested in parting with, let me know. 
 
 ### Will you sell any bottles?
-I am not super interested in selling the items I have for trade, the goal is to acquire more for my collection, not decrease the size of my collectiong with selling.
+I am not super interested in selling the items I have for trade, the goal is to acquire more for my collection, not decrease the size of my collectiong with selling at this time.
 
 ### Where will you trade?
-I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed.
+I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed, but don't hesitate to reach out, I travel for work some times and might be able to meet you elsewhere.
 
 
 ## Items for I'm Looking For
@@ -29,7 +29,7 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * Jack Daniel's Special Release Coy Hill High Proof
 
 
-## Items for Trade
+## Items Available For Trade
 * [Gentleman Jack Limited Edition Time Piece Bottle](https://collectorofjack.com/GentlemanJackTimePiece)
 * [Tennessee Tasters' High Angel's Share Barrels (2018)](https://collectorofjack.com/HighAngelsShare)
 * [Tennessee Tasters' Hickory Smoked (2018)](https://collectorofjack.com/HickorySmoked)
@@ -39,6 +39,7 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * [Tennessee Tasters' Jamaican Allspice (2020)](https://collectorofjack.com/JamaicanAllSpice)
 * [Tennessee Tasters' Twin Blend (2020)](https://collectorofjack.com/TwinBlend)
 * Master Distiller Series No. 3 (750mL)
+* Master Distiller Series No. 6 (750mL)
 * Scenes of Lynchburg #6 (750mL)
 * Scenes of Lynchburg #7 (750mL)
 * [Jack Daniel's Holiday Calendar 2019](https://collectorofjack.com/2019AdventCalendar)
