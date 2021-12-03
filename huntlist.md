@@ -20,7 +20,7 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 
 
 ## Items for I'm Looking For
-* Master Distiller Series No. 1 (1 Liter) 
+* Master Distiller Series No. 1 (1 Liter)
 * Jack Daniel's Alabama Bicentennial
 * Jack Daniel's Silver Cornet Decanter
 * 1915 Gold Medal Series Box
@@ -43,7 +43,8 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * Scenes of Lynchburg #7 (750mL)
 * [Jack Daniel's Holiday Calendar 2019](https://collectorofjack.com/2019AdventCalendar)
 * [Jack Daniel's Holiday Calendar 2020](https://collectorofjack.com/2020HolidayCountdownCalendar)
-* [2019 Heritage Barrel](https://collectorofjack.com/HeritageBarrel2019)
+* [Jack Daniel's Holiday Countdown 2021]
+* [Jack Daniel's Special Release Heritage Barrel 2019](https://collectorofjack.com/HeritageBarrel2019)
 * [Eric Church Single Barrel 2019](https://collectorofjack.com/JackDanielsEricChurch)
 * [Eric Church Single Barrel 2020](https://collectorofjack.com/EricChurchSingleBarrel2020)
 * [Jack Daniel's Barrel Proof Rye Special Release 2020](https://collectorofjack.com/2020SpecialRelease)
