@@ -13,10 +13,10 @@ This site is where I document my collection, but I am always looking to grow tha
 This is not an all inclusive list, I am definitely looking for more than this, so if you've got something you're interested in parting with, let me know. 
 
 ### Will you sell any bottles?
-I am not super interested in selling the items I have for trade, the goal is to acquire more for my collection, not decrease the size of my collectiong with selling at this time.
+I am not super interested in selling the items I have for trade, the goal is to acquire more for my collection, not decrease the size of my collection with selling at this time.
 
 ### Where will you trade?
-I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed, but don't hesitate to reach out, I travel for work some times and might be able to meet you elsewhere.
+I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed, but don't hesitate to reach out. I travel for work some times and might be able to meet you elsewhere.
 
 
 ## Items for I'm Looking For
@@ -43,7 +43,7 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * Scenes of Lynchburg #7 (750mL)
 * [Jack Daniel's Holiday Calendar 2019](https://collectorofjack.com/2019AdventCalendar)
 * [Jack Daniel's Holiday Calendar 2020](https://collectorofjack.com/2020HolidayCountdownCalendar)
-* [Jack Daniel's Holiday Countdown 2021]
+* Jack Daniel's Holiday Countdown 2021
 * [Jack Daniel's Special Release Heritage Barrel 2019](https://collectorofjack.com/HeritageBarrel2019)
 * [Eric Church Single Barrel 2019](https://collectorofjack.com/JackDanielsEricChurch)
 * [Eric Church Single Barrel 2020](https://collectorofjack.com/EricChurchSingleBarrel2020)
