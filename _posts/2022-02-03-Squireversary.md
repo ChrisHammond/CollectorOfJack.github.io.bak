@@ -4,12 +4,15 @@ title: Jack Daniel's Tennessee Squire Anniversary
 date: '2022-02-03T00:10:00+00:00'
 permalink: 2yearSquireversary
 image:
-  feature: 54/SquireLetter-1.jpg
+  feature: 54/SquireLogo-1.jpg
 description: My second anniversary as a Tennessee Squire
 gallery:
   2yearSquireversary:
   - image_path: 54/SquireLetter-1.jpg
     image-caption: Jack Daniel's Tennessee Squire Letter
+    image-copyright: CollectorOfJack.com
+  - image_path: 54/SquireLogo-1.jpg
+    image-caption: Jack Daniel's Tennessee Squire Logo
     image-copyright: CollectorOfJack.com
  
 ---

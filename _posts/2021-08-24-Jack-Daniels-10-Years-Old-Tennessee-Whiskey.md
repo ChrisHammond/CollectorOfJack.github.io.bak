@@ -5,7 +5,7 @@ date: '2021-08-24T00:10:00+00:00'
 permalink: 10YearsOldTennesseeWhiskey
 image:
   feature: 53/10YearsOldTennesseeWhiskey-1.jpg
-description: Jack Daniels 10-Years Old Tennessee Whiskey
+description: A preview of Jack Daniels 10-Years Old Tennessee Whiskey
 gallery:
   10YearsOldTennesseeWhiskey:
   - image_path: 53/10YearsOldTennesseeWhiskey-1.jpg
