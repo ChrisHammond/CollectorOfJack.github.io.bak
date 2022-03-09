@@ -4,7 +4,7 @@ title: "My Jack Daniel's Hunt list"
 subtitle: A List of Things We're Looking For
 description: A list of bottles and Jack Daniel's items that we are looking for, along with items we have available for trade.
 image:
-  feature: huntlist-1.jpg
+  feature: Distillery1-1.jpg
 permalink: huntlist
 ---
 
