@@ -97,3 +97,10 @@ defaults:
       type: galleryimage  # select all galleryimage pages
     values:
       layout: picture
+
+
+#exclude original images from _site
+
+exclude:
+  - /images/fullsized/*
+  
