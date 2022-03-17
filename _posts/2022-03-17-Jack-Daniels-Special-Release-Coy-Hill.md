@@ -8,16 +8,16 @@ image:
 description: Jack Daniels Special Release Coy Hill High Proof
 gallery:
   JackDanielsCoyHill:
-  - image_path: 55/CoyHill-1.jpg
+  - image_path: 56/CoyHill-1.jpg
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
-  - image_path: 55/CoyHill-2.jpg
+  - image_path: 56/CoyHill-2.jpg
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
-  - image_path: 55/CoyHill-3.jpg
+  - image_path: 56/CoyHill-3.jpg
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
-  - image_path: 55/CoyHill-4.jpg
+  - image_path: 56/CoyHill-4.jpg
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
  
