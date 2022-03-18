@@ -32,22 +32,22 @@ It is a beautiful bottle, and if you can get your hands on one, I highly recomme
 
 
 The neck reads:
-> Special Release
-> Bottling Date: 9.24.2021
-> Master Distiller Chris Fletcher (signature)
-> Barrel No.: 21-8252
-> Barrel Entry: 8.17.12
+> Special Release  
+> Bottling Date: 9.24.2021  
+> Master Distiller Chris Fletcher (signature)  
+> Barrel No.: 21-8252  
+> Barrel Entry: 8.17.12  
 
 The front label reads:
 
-> Jack Daniel's 
-> Uniquely Crafted Handmade Barrels
-> Single Barrel
-> Special Release 
-> Tennessee Whiskey
-> Coy Hill High Proof
-> Aged up in the "Buzzard's Roost" of our barrel houses on Coy Hill and bottled uncut at higher proofs.
-> Barrel House #08 #13
+> Jack Daniel's  
+> Uniquely Crafted Handmade Barrels  
+> Single Barrel  
+> Special Release   
+> Tennessee Whiskey  
+> Coy Hill High Proof  
+> Aged up in the "Buzzard's Roost" of our barrel houses on Coy Hill and bottled uncut at higher proofs.  
+> Barrel House #08 #13  
 
 
 The rear/side label reads:
@@ -57,7 +57,7 @@ The rear/side label reads:
 If you get a chance to pick up this bottle, it is highly recommended that you do so! I know I can find it in St. Louis, though the store that has it is asking $799 for it. If I can find another one around MSRP, or under $300 I will pick another up myself.
 
 **Release:** 2021  
-**Proof:** 141.8
+**Proof:** 141.8  
 **Size:** 750ml  
 **Price:** $79.99  
 

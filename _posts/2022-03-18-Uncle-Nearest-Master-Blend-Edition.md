@@ -33,22 +33,22 @@ The bottle comes in the standard Nearest Green bottle shape, the same as 1820, 1
 Here are some of the details for the labels.
 
 The front label reads:
-> Nearest Green Distillery Shelbyville, TN
-> Uncle Nearest
-> Master Blend Edition Premium Whiskey
-> "In every small batch I blend, there are a few barrels that really stand out. My goal with each blend, is to come as close to that of my great-great grandfaster, Nearest Green. His whiskey was known to be the best around. And we continue that legacy through this bottle."
-> V. Eady Butler Fifth Generation Master Blender
-> Alc/Vol 61.45% 
-> Proof 122.9 
-> Blend No. 007
+> Nearest Green Distillery Shelbyville, TN  
+> Uncle Nearest  
+> Master Blend Edition Premium Whiskey  
+> "In every small batch I blend, there are a few barrels that really stand out. My goal with each blend, is to come as close to that of my great-great grandfaster, Nearest Green. His whiskey was known to be the best around. And we continue that legacy through this bottle."  
+> V. Eady Butler Fifth Generation Master Blender  
+> Alc/Vol 61.45%  
+> Proof 122.9  
+> Blend No. 007  
 
 The rear label reads:
 
-> Uncle Nearest Master Blend Edition Premium Whiskey
-> Known as the 'Godfather of Tennessee WHiskey' NEarest Green was the World's first known African AMerican master distiller. His astonishingly smooth whiskey began with new American oak barrels. A low barrel entry proof following filtration through sugar maple charcoal before resting in a non-temperature controlled rickhouse. 
-> Blended to perfection using hand-selected barrels, Nearest Green's legacy continues on through his fifth generation in this masterful blend.
-> Distilled and Aged in Tennessee
-> Bottled by Nearest Green Distrillery Shelbyville, TN
+> Uncle Nearest Master Blend Edition Premium Whiskey  
+> Known as the 'Godfather of Tennessee WHiskey' Nearest Green was the World's first known African AMerican master distiller. His astonishingly smooth whiskey began with new American oak barrels. A low barrel entry proof following filtration through sugar maple charcoal before resting in a non-temperature controlled rickhouse.  
+> Blended to perfection using hand-selected barrels, Nearest Green's legacy continues on through his fifth generation in this masterful blend.  
+> Distilled and Aged in Tennessee  
+> Bottled by Nearest Green Distrillery Shelbyville, TN  
 
 If you get a chance to pick up this bottle, it is highly recommended that you do so! Of course you'll have to visit the Nearest Green Distillery. 
 
