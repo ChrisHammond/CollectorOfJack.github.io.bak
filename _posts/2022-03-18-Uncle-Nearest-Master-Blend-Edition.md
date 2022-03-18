@@ -57,6 +57,4 @@ If you get a chance to pick up this bottle, it is highly recommended that you do
 **Size:** 750ml  
 **Price:** $149.99  
 
-
 {% include subgallery.html id="UncleNearestMasterBlend" %}
-
