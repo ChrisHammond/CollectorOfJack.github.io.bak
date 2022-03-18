@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uncle-Nearest-Master-Blend-Edition
+title: Uncle Nearest Master Blend Edition
 date: '2022-03-18T00:14:00+00:00'
 permalink: UncleNearestMasterBlendEdition
 image:
