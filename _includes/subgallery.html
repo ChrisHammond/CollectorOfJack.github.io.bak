@@ -12,7 +12,6 @@
 
 	<header class="gallery-icon">
 
-		<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
 		{% assign filename = img.image_path | split: "/" | last | split: "." | first %}
 		<a href="{% picture direct {{ img.image_path }} %}" class="popup"  title="{{ img.image-caption }}" data-caption="{{ img.image-copyright }}" data-url="/galleries/{{ galleryname }}/{{ filename }}/ ">
 			{% picture portthumb {{ img.image_path }} --alt {{ img.image-caption }} %}
