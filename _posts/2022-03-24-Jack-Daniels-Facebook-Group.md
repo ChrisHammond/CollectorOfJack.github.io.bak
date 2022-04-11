@@ -9,7 +9,7 @@ description: "Taken over by spammers, the good guys have won and gained control 
 
  
 ---
-For the past 6 or 9 months, there has been a Jack Daniel's Facebook Group [Jack Daniels Tennessee Whiskey](https://www.facebook.com/groups/tennesseewhiskey) that has been controlled at first by someone in Vietname, and then someone in another part of Asia, that has simply put, been over run by scammers and frauds.
+For the past 6 or 9 months, there has been a Jack Daniel's Facebook Group [Jack Daniels Tennessee Whiskey](https://www.facebook.com/groups/tennesseewhiskey) that has been controlled at first by someone in Vietnam, and then someone in another part of Asia, that has simply put, been over run by scammers and frauds.
 
 Upwards of 50 times a day, there would be posts, mostly from accounts outside of the United States (that's not to say there are not Jack Daniel's fans all around the world) that were basically trying to scam people into paying for T-Shirts that would never get sent, or scam them to pay for bottles of various whiskeys and other things that would never actually ship.
 
