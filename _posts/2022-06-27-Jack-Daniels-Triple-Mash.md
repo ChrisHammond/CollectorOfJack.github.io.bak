@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jack-Daniels-Triple-Mash"
+title: "Jack Daniels Triple Mash"
 date: '2022-06-27T23:00:00+00:00'
 permalink: JackDanielsTripleMash
 image:
