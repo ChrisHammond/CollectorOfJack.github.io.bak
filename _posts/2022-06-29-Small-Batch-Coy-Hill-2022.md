@@ -25,7 +25,6 @@ Here is some of hte press I've been able to find.
 
 > The 375 ml bottles will be available in very limited quantities in Tennessee and at the White Rabbit Bottle Shop at the Jack Daniel Distillery with a suggested retail price of $55. The White Rabbit Bottle Shop will begin sales on Friday, July 1 at 8:00 a.m. There will be a limit of one bottle per visitor. We hope if you have a chance to try it, you’ll let us know what you think.
 
-
 **Release:** 2022  
 **Proof:** 143.6-155.1  
 **Size:** 375ml  
