@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jack Small Batch Coy Hill"
+title: "Jack Daniel's Small Batch Coy Hill"
 date: '2022-06-29T10:00:00+00:00'
 permalink: SmallBatchCoyHill2022
 image:

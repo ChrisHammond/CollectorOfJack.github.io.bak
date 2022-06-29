@@ -5,9 +5,368 @@
     <description>A blog for collecting Jack Daniel's bottles and memorabilia</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 26 May 2022 11:09:42 -0500</pubDate>
-    <lastBuildDate>Thu, 26 May 2022 11:09:42 -0500</lastBuildDate>
+    <pubDate>Wed, 29 Jun 2022 11:17:19 -0500</pubDate>
+    <lastBuildDate>Wed, 29 Jun 2022 11:17:19 -0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Jack Daniel's Small Batch Coy Hill</title>
+        <description>&lt;p&gt;Hot off the presses and hot to the tongue, Jack Daniel’s has announced that this Friday starting at 8am at the White Rabbit Bottle Shop you can get the new Small Batch Coy Hill 375ml bottle!&lt;/p&gt;
+
+&lt;p&gt;Here is some of the press I’ve been able to find:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;a very limited release small batch whiskey that we’ll be offering in Tennessee this summer, our Jack Daniel’s Small Batch Special Release Coy Hill High Proof.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Back in 2021 when we were bottling our Single Barrel Special Release Coy Hill High Proof, we found around 55 barrels where the Angel’s Share was so high the liquid inside could not be bottled as Single Barrel selections. When we found these barrels in our Coy Hill barrelhouses, we immediately knew we had something special.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jack Daniel’s Small Batch Special Release Coy Hill High Proof has an aroma of burnt sugar, cooked fruit, and oak with notes of rich molasses and concentrated barrel spice with bold oak. It finishes long and full with layers of char, dried fruit, and caramel. Matured in the highest reaches of barrelhouses on Coy Hill, the highest elevation at the Jack Daniel Distillery, this Tennessee Whiskey is bottled at proof points ranging from 143.6 - 155.1. It is the highest proof whiskey that we’ve released to date.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The 375 ml bottles will be available in very limited quantities in Tennessee and at the White Rabbit Bottle Shop at the Jack Daniel Distillery with a suggested retail price of $55. The White Rabbit Bottle Shop will begin sales on Friday, July 1 at 8:00 a.m. There will be a limit of one bottle per visitor. We hope if you have a chance to try it, you’ll let us know what you think.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Due to the high barrel strength, the bottle should remain upright at all times unless pouring into a glass to enjoy. •&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I am still trying to figure out if I can get over to Lynchburg this week, unlikely with such short notice, but who knows.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://collectorofjack.com/JackDanielsSpecialReleaseCoyHillHighProof&quot;&gt;Don’t forget to read about the 2021 Special Release Coy Hill High Proof&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; 2022&lt;br /&gt;
+&lt;strong&gt;Proof:&lt;/strong&gt; 143.6-155.1&lt;br /&gt;
+&lt;strong&gt;Size:&lt;/strong&gt; 375ml&lt;br /&gt;
+&lt;strong&gt;Price:&lt;/strong&gt; $55&lt;/p&gt;
+
+&lt;div class=&quot;gallery masonry-gallery&quot; id=&quot;SmallBatchCoyHill2022&quot;&gt;
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+		
+		&lt;a href=&quot;/images/generated/61/smallbatchcoyhill-1-1024-8b9096c1c.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Small Batch Coy Hill 2022&quot; data-caption=&quot;CollectorOfJack.com&quot; data-url=&quot;/galleries/SmallBatchCoyHill2022/smallbatchcoyhill-1/ &quot;&gt;
+			&lt;img src=&quot;/images/generated/61/smallbatchcoyhill-1-600-8b9096c1c.jpg&quot; alt=&quot;Jack Daniel's Small Batch Coy Hill 2022&quot; srcset=&quot;/images/generated/61/smallbatchcoyhill-1-200-8b9096c1c.jpg 200w, /images/generated/61/smallbatchcoyhill-1-400-8b9096c1c.jpg 400w, /images/generated/61/smallbatchcoyhill-1-600-8b9096c1c.jpg 600w&quot; /&gt;
+
+		&lt;/a&gt;
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Small Batch Coy Hill 2022&quot;&gt;
+				&lt;h3&gt;Jack Daniel's Small Batch Coy Hill 2022&lt;/h3&gt;
+					&lt;p&gt;CollectorOfJack.com&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+  
+&lt;/div&gt;
+
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+	var pageUrl = &quot;/SmallBatchCoyHill2022&quot;;
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  originalUrl = window.location.href.split('?')[0];
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
+		if(galleryNameLoc&gt;0)
+		{
+			//console.log('Found Index',  index);
+			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
+			//console.log('G Index:', gindex);
+			//console.log('Item:',$('#' + gindex));
+			var galleryObj = $('#' + gindex);
+			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+
+			if(loc&gt;0)
+			{
+				//console.log('Found It',  window.location.href.substring(loc));
+				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
+				//console.log('Found Index',  index);
+				//lookup the image on the page if there are multiple galleries
+				
+				$('#' + gindex).find('.popup')[index].click();
+			}
+					
+		}
+		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		//if(loc&lt;0)
+		//{
+		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
+		//	//console.log('Found Index',  index);
+		//	//lookup the image on the page if there are multiple galleries
+			
+		//	document.getElementsByClassName('popup')[index].click();
+		//}
+		
+	});
+&lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 29 Jun 2022 05:00:00 -0500</pubDate>
+        <link>http://localhost:4000/SmallBatchCoyHill2022</link>
+        <guid isPermaLink="true">http://localhost:4000/SmallBatchCoyHill2022</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Jack Daniels Triple Mash</title>
+        <description>&lt;p&gt;For 2022 Jack Daniel’s announced, and released, two new expressions. Both of these are released in a 700ml (and also a 1L version). The word on these releases is that they will be available regularly going forward, and are not limited releases like the 10 Year and Heritage barrels released over the last few years (more of those coming however).&lt;/p&gt;
+
+&lt;p&gt;The first bottle we covered was &lt;a href=&quot;/JackDanielsBondedTennesseeWhiskey&quot;&gt;Jack Daniel’s Bottled-In-Bond Tennessee Whiskey&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The second bottle is Jack Daniel’s Triple Mash Blended Straight Whiskey.&lt;/p&gt;
+
+&lt;p&gt;This release is also Bottled in Bond, which means it was distilled in one season, aged a minimum of 4 years in a government bonded warehouse, with no removal or addition of materials besides water for proofing and it must also be bottled at 100 proof.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.jackdaniels.com/en-us/whiskey/triple-mash&quot;&gt;From the Jack Daniel’s Website&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Jack Daniel’s Triple Mash is a Bottled-in-Bond whiskey, which must be distilled by a single distiller during a single distillation season, matured in a government bonded warehouse for at least four years, and bottled at 100 proof.  Barrels are hand-selected for their characteristics of deeper color, flavor, and aroma, which deliver a darker, richer, and more oak-forward character. It’s a big, bold Tennessee Whiskey at 100 proof with layered notes of caramel, rich oak, and spice giving way to a pleasantly lingering finish..&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The front of the bottle reads:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Neck Label: 100 Proof&lt;br /&gt;
+Label: Jack Daniel’s Triple Mash Blended Straight Whiskey
+A blend of bonded american malt, rye and Tennessee whiskeys
+Bottled-in-bond - 100 Proof&lt;br /&gt;
+Made in Tennessee / Bottled At The Distillery&lt;br /&gt;
+Bottle: Jack Daniel Distillery DSP-TN-1 Tennessee&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The side labels read:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Right Side: Distilled and bottled by Jack Daniel Distillery Lynchburg, Tenn. USA
+Est &amp;amp; Reg. in 1866 DSP TN-1 DSP TN-4&lt;br /&gt;
+Left Side: Triple Mash. A blend of three bonded whiskeys with pleasant notes of Honey, Malt, &amp;amp; Soft Oaky leading to a long lasting well rounded finish.&lt;br /&gt;
+Bottled-In-Bond Distilled by a single distiller, during a single season &amp;amp; matured in a government bonded warehouse for at least 4 years&lt;br /&gt;
+100 Proof&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The rear of the bottled, in raised letters, reads:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Established &amp;amp; Registered 1866&lt;br /&gt;
+Jack Daniel Distillery DSP-TN-1 Tennessee&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I found this bottle at Dogwood Wine and Spirits in Ellisville, Missouri towards the end of May 2022. The price was great at under $40. I haven’t been out hunting too much lately, but I haven’t found it again on the shelves in St. Louis yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; 2022&lt;br /&gt;
+&lt;strong&gt;Proof:&lt;/strong&gt; 100&lt;br /&gt;
+&lt;strong&gt;Size:&lt;/strong&gt; 700ml&lt;br /&gt;
+&lt;strong&gt;Price:&lt;/strong&gt; $39.99&lt;/p&gt;
+
+&lt;div class=&quot;gallery masonry-gallery&quot; id=&quot;JackDanielsTripleMash&quot;&gt;
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+		
+		&lt;a href=&quot;/images/generated/60/TripleMash-1-1600-2fb2ab923.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot; data-caption=&quot;CollectorOfJack.com&quot; data-url=&quot;/galleries/JackDanielsTripleMash/TripleMash-1/ &quot;&gt;
+			&lt;img src=&quot;/images/generated/60/TripleMash-1-600-2fb2ab923.jpg&quot; alt=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot; srcset=&quot;/images/generated/60/TripleMash-1-200-2fb2ab923.jpg 200w, /images/generated/60/TripleMash-1-400-2fb2ab923.jpg 400w, /images/generated/60/TripleMash-1-600-2fb2ab923.jpg 600w&quot; /&gt;
+
+		&lt;/a&gt;
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot;&gt;
+				&lt;h3&gt;Jack Daniel's Triple Mash Blended Straight Whiskey&lt;/h3&gt;
+					&lt;p&gt;CollectorOfJack.com&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+		
+		&lt;a href=&quot;/images/generated/60/TripleMash-2-1600-968b3dc52.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot; data-caption=&quot;CollectorOfJack.com&quot; data-url=&quot;/galleries/JackDanielsTripleMash/TripleMash-2/ &quot;&gt;
+			&lt;img src=&quot;/images/generated/60/TripleMash-2-600-968b3dc52.jpg&quot; alt=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot; srcset=&quot;/images/generated/60/TripleMash-2-200-968b3dc52.jpg 200w, /images/generated/60/TripleMash-2-400-968b3dc52.jpg 400w, /images/generated/60/TripleMash-2-600-968b3dc52.jpg 600w&quot; /&gt;
+
+		&lt;/a&gt;
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot;&gt;
+				&lt;h3&gt;Jack Daniel's Triple Mash Blended Straight Whiskey&lt;/h3&gt;
+					&lt;p&gt;CollectorOfJack.com&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+		
+		&lt;a href=&quot;/images/generated/60/TripleMash-3-1600-add40ca7a.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot; data-caption=&quot;CollectorOfJack.com&quot; data-url=&quot;/galleries/JackDanielsTripleMash/TripleMash-3/ &quot;&gt;
+			&lt;img src=&quot;/images/generated/60/TripleMash-3-600-add40ca7a.jpg&quot; alt=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot; srcset=&quot;/images/generated/60/TripleMash-3-200-add40ca7a.jpg 200w, /images/generated/60/TripleMash-3-400-add40ca7a.jpg 400w, /images/generated/60/TripleMash-3-600-add40ca7a.jpg 600w&quot; /&gt;
+
+		&lt;/a&gt;
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot;&gt;
+				&lt;h3&gt;Jack Daniel's Triple Mash Blended Straight Whiskey&lt;/h3&gt;
+					&lt;p&gt;CollectorOfJack.com&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+		
+		&lt;a href=&quot;/images/generated/60/TripleMash-4-1600-54674361e.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot; data-caption=&quot;CollectorOfJack.com&quot; data-url=&quot;/galleries/JackDanielsTripleMash/TripleMash-4/ &quot;&gt;
+			&lt;img src=&quot;/images/generated/60/TripleMash-4-600-54674361e.jpg&quot; alt=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot; srcset=&quot;/images/generated/60/TripleMash-4-200-54674361e.jpg 200w, /images/generated/60/TripleMash-4-400-54674361e.jpg 400w, /images/generated/60/TripleMash-4-600-54674361e.jpg 600w&quot; /&gt;
+
+		&lt;/a&gt;
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Triple Mash Blended Straight Whiskey&quot;&gt;
+				&lt;h3&gt;Jack Daniel's Triple Mash Blended Straight Whiskey&lt;/h3&gt;
+					&lt;p&gt;CollectorOfJack.com&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+  
+&lt;/div&gt;
+
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+	var pageUrl = &quot;/JackDanielsTripleMash&quot;;
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  originalUrl = window.location.href.split('?')[0];
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
+		if(galleryNameLoc&gt;0)
+		{
+			//console.log('Found Index',  index);
+			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
+			//console.log('G Index:', gindex);
+			//console.log('Item:',$('#' + gindex));
+			var galleryObj = $('#' + gindex);
+			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+
+			if(loc&gt;0)
+			{
+				//console.log('Found It',  window.location.href.substring(loc));
+				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
+				//console.log('Found Index',  index);
+				//lookup the image on the page if there are multiple galleries
+				
+				$('#' + gindex).find('.popup')[index].click();
+			}
+					
+		}
+		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		//if(loc&lt;0)
+		//{
+		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
+		//	//console.log('Found Index',  index);
+		//	//lookup the image on the page if there are multiple galleries
+			
+		//	document.getElementsByClassName('popup')[index].click();
+		//}
+		
+	});
+&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 27 Jun 2022 18:00:00 -0500</pubDate>
+        <link>http://localhost:4000/JackDanielsTripleMash</link>
+        <guid isPermaLink="true">http://localhost:4000/JackDanielsTripleMash</guid>
+        
+        
+      </item>
     
       <item>
         <title>Jack-Daniels-Bonded-Tennessee-Whiskey</title>
@@ -1357,280 +1716,6 @@ Master Taster Jessica Hartline&lt;/p&gt;
         <pubDate>Sun, 08 Aug 2021 19:10:00 -0500</pubDate>
         <link>http://localhost:4000/TwinBlend</link>
         <guid isPermaLink="true">http://localhost:4000/TwinBlend</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Jack Daniels Coy Hill High Proof</title>
-        <description>&lt;p&gt;It appears as though the next “special release” bottle from Jack Daniel’s will be available this fall as Jack Daniel’s Coy Hill High Proof.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Coy Hill High Proof Aged up in the “Buzzard’s Roost” of our barrel houses on Coy Hill and bottled uncut at higher proofs.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This special release series highlights our innovation in whiskey making here at Jack Daniel Distillery. Hand-selected from the highest parts of our barrel houses and bottled from single barrels, we extens this one-of-kind craftsmanship to you.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We look forward to this one!&lt;/p&gt;
-
-&lt;div class=&quot;gallery masonry-gallery&quot; id=&quot;JackDanielsCoyHillHighProof&quot;&gt;
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		
-		&lt;a href=&quot;/images/generated/51/JackDanielsCoyHillHighProof-1-798-c3fa29e9c.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Single Barrel Coy Hill High Proof&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/JackDanielsCoyHillHighProof/JackDanielsCoyHillHighProof-1/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/51/JackDanielsCoyHillHighProof-1-600-c3fa29e9c.jpg&quot; alt=&quot;Jack Daniel's Single Barrel Coy Hill High Proof&quot; srcset=&quot;/images/generated/51/JackDanielsCoyHillHighProof-1-200-c3fa29e9c.jpg 200w, /images/generated/51/JackDanielsCoyHillHighProof-1-400-c3fa29e9c.jpg 400w, /images/generated/51/JackDanielsCoyHillHighProof-1-600-c3fa29e9c.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Single Barrel Coy Hill High Proof&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Single Barrel Coy Hill High Proof&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		
-		&lt;a href=&quot;/images/generated/51/JackDanielsCoyHillHighProof-2-1321-ad515b4d0.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Single Barrel Coy Hill High Proof&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/JackDanielsCoyHillHighProof/JackDanielsCoyHillHighProof-2/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/51/JackDanielsCoyHillHighProof-2-600-ad515b4d0.jpg&quot; alt=&quot;Jack Daniel's Single Barrel Coy Hill High Proof&quot; srcset=&quot;/images/generated/51/JackDanielsCoyHillHighProof-2-200-ad515b4d0.jpg 200w, /images/generated/51/JackDanielsCoyHillHighProof-2-400-ad515b4d0.jpg 400w, /images/generated/51/JackDanielsCoyHillHighProof-2-600-ad515b4d0.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Single Barrel Coy Hill High Proof&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Single Barrel Coy Hill High Proof&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		
-		&lt;a href=&quot;/images/generated/51/JackDanielsCoyHillHighProof-3-690-d243e896b.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Single Barrel Coy Hill High Proof&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/JackDanielsCoyHillHighProof/JackDanielsCoyHillHighProof-3/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/51/JackDanielsCoyHillHighProof-3-600-d243e896b.jpg&quot; alt=&quot;Jack Daniel's Single Barrel Coy Hill High Proof&quot; srcset=&quot;/images/generated/51/JackDanielsCoyHillHighProof-3-200-d243e896b.jpg 200w, /images/generated/51/JackDanielsCoyHillHighProof-3-400-d243e896b.jpg 400w, /images/generated/51/JackDanielsCoyHillHighProof-3-600-d243e896b.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Single Barrel Coy Hill High Proof&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Single Barrel Coy Hill High Proof&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-&lt;/div&gt;
-
-&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	var pageUrl = &quot;/JackDanielsCoyHillHighProof&quot;;
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  originalUrl = window.location.href.split('?')[0];
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
-	  
-	});
-
-	$('.popup').on('mfpClose', function(e /*, params */) {
-	  
-	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
-	  
-	});
-
-	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
-      gallery: {
-        enabled: true,
-        navigateByImgClick: true,
-        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
-      },
-      image: {
-        titleSrc: function (item) {
-          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
-        }
-      }
-      // other options
-    });
-  });
-
-	//check if the url contains a photo
-	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
-		//console.log('Page Load',  window.location.href.split('?')[1]);
-		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
-		if(galleryNameLoc&gt;0)
-		{
-			//console.log('Found Index',  index);
-			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
-			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
-
-			if(loc&gt;0)
-			{
-				//console.log('Found It',  window.location.href.substring(loc));
-				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-				//console.log('Found Index',  index);
-				//lookup the image on the page if there are multiple galleries
-				
-				$('#' + gindex).find('.popup')[index].click();
-			}
-					
-		}
-		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
-		//if(loc&lt;0)
-		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
-		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-		//	//console.log('Found Index',  index);
-		//	//lookup the image on the page if there are multiple galleries
-			
-		//	document.getElementsByClassName('popup')[index].click();
-		//}
-		
-	});
-&lt;/script&gt;
-
-</description>
-        <pubDate>Tue, 13 Jul 2021 19:20:00 -0500</pubDate>
-        <link>http://localhost:4000/JackDanielsCoyHillHighProof</link>
-        <guid isPermaLink="true">http://localhost:4000/JackDanielsCoyHillHighProof</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Happy Fourth of July 2021</title>
-        <description>&lt;h1 id=&quot;happy-fourth-of-july-2021&quot;&gt;Happy Fourth Of July 2021&lt;/h1&gt;
-
-&lt;div class=&quot;gallery masonry-gallery&quot; id=&quot;FourthOfJuly2021&quot;&gt;
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		
-		&lt;a href=&quot;/images/generated/50/4thOfJuly-1-1600-e06da1e5b.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Single Barrel Show-Me State Squires Commemorative Bottle 001 Fourth Of July Decorations&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/FourthOfJuly2021/4thOfJuly-1/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/50/4thOfJuly-1-600-e06da1e5b.jpg&quot; alt=&quot;Jack Daniel's Single Barrel Show-Me State Squires Commemorative Bottle 001 Fourth Of July Decorations&quot; srcset=&quot;/images/generated/50/4thOfJuly-1-200-e06da1e5b.jpg 200w, /images/generated/50/4thOfJuly-1-400-e06da1e5b.jpg 400w, /images/generated/50/4thOfJuly-1-600-e06da1e5b.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Single Barrel Show-Me State Squires Commemorative Bottle 001 Fourth Of July Decorations&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Single Barrel Show-Me State Squires Commemorative Bottle 001 Fourth Of July Decorations&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-&lt;/div&gt;
-
-&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	var pageUrl = &quot;/FourthOfJuly2021&quot;;
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  originalUrl = window.location.href.split('?')[0];
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
-	  
-	});
-
-	$('.popup').on('mfpClose', function(e /*, params */) {
-	  
-	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
-	  
-	});
-
-	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
-      gallery: {
-        enabled: true,
-        navigateByImgClick: true,
-        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
-      },
-      image: {
-        titleSrc: function (item) {
-          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
-        }
-      }
-      // other options
-    });
-  });
-
-	//check if the url contains a photo
-	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
-		//console.log('Page Load',  window.location.href.split('?')[1]);
-		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
-		if(galleryNameLoc&gt;0)
-		{
-			//console.log('Found Index',  index);
-			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
-			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
-
-			if(loc&gt;0)
-			{
-				//console.log('Found It',  window.location.href.substring(loc));
-				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-				//console.log('Found Index',  index);
-				//lookup the image on the page if there are multiple galleries
-				
-				$('#' + gindex).find('.popup')[index].click();
-			}
-					
-		}
-		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
-		//if(loc&lt;0)
-		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
-		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-		//	//console.log('Found Index',  index);
-		//	//lookup the image on the page if there are multiple galleries
-			
-		//	document.getElementsByClassName('popup')[index].click();
-		//}
-		
-	});
-&lt;/script&gt;
-
-</description>
-        <pubDate>Sat, 03 Jul 2021 05:20:00 -0500</pubDate>
-        <link>http://localhost:4000/FourthOfJuly2021</link>
-        <guid isPermaLink="true">http://localhost:4000/FourthOfJuly2021</guid>
         
         
       </item>
