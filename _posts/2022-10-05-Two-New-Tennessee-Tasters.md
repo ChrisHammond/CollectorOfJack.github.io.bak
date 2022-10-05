@@ -23,13 +23,13 @@ Hot off the presses Jack Daniel's has just announced two new bottles in the Tenn
 
 Information about them from Jack Daniel's social media:
 
-> A few years ago we began a special line of experimental whiskeys available only in Tennessee now called our Jack Daniel’s Distillery Series to give us an opportunity to celebrate, and share some of the special whiskeys that we’ve crafted. This October our eighth and ninth selections will be available -- Jack Daniel's Toasted Maple Barrel Rye and Toasted Barrel Finished Rye.
-> Jack Daniel’s Assistant Distiller Lexie Phillips has teamed up with her husband, Jack Daniel's Single Barrel Processing Operator and taster Josh Phillips to create two new offerings that truly stand out and reflect Jack Daniel’s spirit of craft and innovation.
-> *Jack Daniel’s Distillery Series Toasted Barrel Finished Rye* was selected by Lexie Phillips and is a Straight Tennessee Rye Whiskey bottled at 101 proof (50.5% abv) with notes of caramel and toasted oak with layers of rye spice, molasses, and dark chocolate imparting a full body mouth feel.
-> *Jack Daniel’s Distillery Series Toasted Maple Barrel* Rye was selected by Josh Phillips and is a Straight Tennessee Rye Whiskey bottled at 101 proof (50.5% abv) featuring a sweet aroma of honey and vanilla with notes of maple, raisins, pralines, and butterscotch with a lasting finish of toasted marshmallow.
-> These two special bottles will be available select stores in Tennessee including the White Rabbit Bottle Shop* at the Jack Daniel Distillery starting this October for around $41.99 for a 375 ml bottle. We hope if you have a chance to try them that you’ll let us know what you think.
-> *These bottles are not yet in stock at the White Rabbit Bottle Shop but will be available soon. We will make a post when the White Rabbit has these bottles in stock. If you’d like to give them a call, you can reach them at 931-759-6310.
-These bottles are available only in Tennessee.
+> A few years ago we began a special line of experimental whiskeys available only in Tennessee now called our Jack Daniel’s Distillery Series to give us an opportunity to celebrate, and share some of the special whiskeys that we’ve crafted. This October our eighth and ninth selections will be available -- Jack Daniel's Toasted Maple Barrel Rye and Toasted Barrel Finished Rye.  
+> Jack Daniel’s Assistant Distiller Lexie Phillips has teamed up with her husband, Jack Daniel's Single Barrel Processing Operator and taster Josh Phillips to create two new offerings that truly stand out and reflect Jack Daniel’s spirit of craft and innovation.  
+> *Jack Daniel’s Distillery Series Toasted Barrel Finished Rye* was selected by Lexie Phillips and is a Straight Tennessee Rye Whiskey bottled at 101 proof (50.5% abv) with notes of caramel and toasted oak with layers of rye spice, molasses, and dark chocolate imparting a full body mouth feel.  
+> *Jack Daniel’s Distillery Series Toasted Maple Barrel* Rye was selected by Josh Phillips and is a Straight Tennessee Rye Whiskey bottled at 101 proof (50.5% abv) featuring a sweet aroma of honey and vanilla with notes of maple, raisins, pralines, and butterscotch with a lasting finish of toasted marshmallow.  
+> These two special bottles will be available select stores in Tennessee including the White Rabbit Bottle Shop* at the Jack Daniel Distillery starting this October for around $41.99 for a 375 ml bottle. We hope if you have a chance to try them that you’ll let us know what you think.  
+> *These bottles are not yet in stock at the White Rabbit Bottle Shop but will be available soon. We will make a post when the White Rabbit has these bottles in stock. If you’d like to give them a call, you can reach them at 931-759-6310.  
+> These bottles are available only in Tennessee.
 
 
 
