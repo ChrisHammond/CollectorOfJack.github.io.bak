@@ -34,7 +34,7 @@ Information about them from Jack Daniel's social media:
 
 
 **Release:** 2022  
-**Proof:** 101
+**Proof:** 101  
 **Size:** 375ml  
 **Price:** $41
 
