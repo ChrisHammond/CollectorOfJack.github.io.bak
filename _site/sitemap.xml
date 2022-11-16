@@ -249,6 +249,10 @@
 <lastmod>2022-10-05T04:30:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/TwiceBarreledMaltPrerelease</loc>
+<lastmod>2022-10-25T04:30:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/contact</loc>
 </url>
 <url>
@@ -1423,6 +1427,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/galleries/october2022tennesseetasters/october2022tennesseetasters-2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/galleries/october2022tennesseetasters/october2022tennesseetasters-3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/galleries/TwiceBarreledMaltPrerelease/TwiceBarreledMalt-1/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
