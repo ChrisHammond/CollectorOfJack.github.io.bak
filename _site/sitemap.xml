@@ -253,6 +253,10 @@
 <lastmod>2022-10-25T04:30:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/HowMuchIsMyJackDanielsCollectionWorth</loc>
+<lastmod>2022-12-20T15:30:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/contact</loc>
 </url>
 <url>
@@ -1433,6 +1437,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/galleries/TwiceBarreledMaltPrerelease/TwiceBarreledMalt-1/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/galleries/HowMuchIsMyJackDanielsCollectionWorth/Collection-1/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>

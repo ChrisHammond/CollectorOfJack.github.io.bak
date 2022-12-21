@@ -50,11 +50,11 @@ hr.small {
   border-color: white;
 }
 .navbar-custom {
-  background-color: transparent;
+  background-color:rgba(0, 0, 0, 0.5);
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 100%;  
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-custom .navbar-brand {
@@ -70,7 +70,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    background: transparent;
+    background-color:rgba(0, 0, 0, 0.5);
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
@@ -104,12 +104,13 @@ hr.small {
     transform: translate3d(0, 0, 0);
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
+    background-color:rgba(0, 0, 0, 0.5);
   }
   .navbar-custom.is-fixed {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
     top: -61px;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.5);
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
     transition: transform 0.3s;
@@ -156,9 +157,9 @@ hr.small {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 15px 0;
+    padding: 85px 0 15px 0;
     margin:0 auto;
-    background-color:rgba(0, 0, 0, 0.9);
+    background-color:rgba(0, 0, 0, 0.5);
   }
 }
 .intro-header .site-heading,
