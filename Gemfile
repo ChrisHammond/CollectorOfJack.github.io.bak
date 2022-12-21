@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 gem 'kramdown-parser-gfm'
+gem 'liquid-c'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'

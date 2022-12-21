@@ -24,16 +24,6 @@ owner:
   favicon: favicon.ico
   info: Chris has been collecting Jack Daniel's for 23 years and uses this site to document his collection. 
 
-# Settings for comments helper
-# Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
-# Set 'provider' to false to turn commenting off globally.
-#Set 'provider: false' to disable comments globally.
-# Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
-#
-comments:
-  provider: false # disqus
-  disqus:
-    short_name: "collectorofjack"
 
 # Internal nav
 nav:
