@@ -15,7 +15,7 @@ gallery:
 We get asked this question a lot.  "How much is my Jack Daniels collection worth?"  The answer is, it depends.  There are a lot of factors that go into determining the value of a collection.  We will try to cover some things, but likely not all, that go into evaluating a liquor collection.
 
 
-**What are you collecting?**
+## What are you collecting?
 
 Are you collecting just Jack Daniel's, or do you collect other bourbons and whiskeys as well? What you focus on collecting will be important.
 
@@ -25,7 +25,7 @@ How long have you been collecting? Many Jack Daniel's collections have been put 
 
 How much do you think you have invested in your collection? Seriously, think about how much you've spent over the years. I can guess what I've spent over the years, though with my inventory sheet I have a pretty good idea of what I've spent in the last 12-24 months. Going forward, keep track of your purchases (see inventory below).
 
-**Condition**
+## Condition
 
 What condition are your bottles in? Is the glass clean? Have they been regularly dusted? If you haven't dusted them lately, do they clean up when you do dust them? You can often times clean them with a solution, but be careful not to damage labels, tax stamps, or seals.
 
@@ -44,18 +44,18 @@ Is there a tax stamp? Older bottles oftentimes have tax stamps, they can actuall
 Are there any chips or cracks in the bottles? If so, the value will be impacted.
 
 
-**Age**
+## Age
 
 How old are the bottles? Do you know how to tell? Sometimes you can figure out the age based on a tax stamp, some times you can figure out the age based on a marking on the bottle? Often times with Jack Daniel's bottles there is a number on the bottom of the bottle to determine the year. With JD Single Barrel products you can determine when it was bottled based on the label around the neck.
 
 Are they from a limited release? Jack Daniel's has been doing special bottles and releases for decades. 
 
-**Rarity**
+## Rarity
 
 How many bottles were produced? That will completely vary based on the release, each release is definitely different, and sometimes, for example the Eric Church bottles there were actually multiple releases.
 
 
-**Where can I sell my collection?**
+## Where can I sell my collection?
 
 That one can be a tricky question to answer, there are a lot of factors to consider.
 Where do you live? 
