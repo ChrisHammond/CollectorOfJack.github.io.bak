@@ -57,17 +57,11 @@ How many bottles were produced? That will completely vary based on the release, 
 
 **Where can I sell my collection?**
 
-That one can be a tricky question to answer, there are a lot of factors to consider. 
-
+That one can be a tricky question to answer, there are a lot of factors to consider.
 Where do you live? 
-
 Do you know what the laws are around selling alcohol in your state?  
-
 Do you want to sell them all at once or one at a time?  
-
 Do you want to sell them to a private collector or a retailer? 
-
 If you are in our around St. Louis (6 hour radius) and interested in selling, [be sure to reach out to me](/contact). I might be interested.
-
 
 {% include subgallery.html id="HowMuchIsMyJackDanielsCollectionWorth" %}
