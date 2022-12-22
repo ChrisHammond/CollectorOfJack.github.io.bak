@@ -1,22 +1,19 @@
 {
-  "name": "photorama",
+  "name": "CollectorOfJack",
   "version": "1.0.0",
-  "description": "Theme by [Start Bootstrap](http://startbootstrap.com/).",
-  "main": "Gruntfile.js",
+  "description": "Theme by Chris Hammond.",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sunbliss/photorama.git"
+    "url": "https://github.com/CollectorOfJack/CollectorOfJack.github.io.git"
   },
-  "author": "Anna Prigkipaki",
-  "license": "Apache-2.0",
+  "author": "Chris Hammond",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sunbliss/photorama/issues"
+    "url": ""
   },
-  "homepage": "http://sunbliss.github.io",
-  "dependencies": {
-    "searchkit": "^0.7.0"
-  }
+  "homepage": "https://www.CollectorOfJack.com"
 }
