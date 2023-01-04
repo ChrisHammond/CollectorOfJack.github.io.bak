@@ -29,13 +29,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1672860554" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1672860554">
-    <link rel="stylesheet" href="/css/galleries.css?v=1672860554">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1672860554">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1672866939" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1672866939">
+    <link rel="stylesheet" href="/css/galleries.css?v=1672866939">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1672866939">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1672860554" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1672860554" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1672866939" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1672866939" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -192,11 +192,8 @@ Master Taster Jessica Hartline</p>
 
 <div class="gallery masonry-gallery" id="JackDanielsTwinBlend">
   
-
   <figure class="gallery-item">
-
 	<header class="gallery-icon">
-
 		
 		<a href="/images/generated/52/TwinBlend-1-1600-869062a48.jpg" class="popup" title="Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey" data-caption="© CollectorOfJack.com" data-url="/galleries/JackDanielsTwinBlend/TwinBlend-1/ ">
 			<img src="/images/generated/52/TwinBlend-1-600-869062a48.jpg" alt="Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey" srcset="/images/generated/52/TwinBlend-1-200-869062a48.jpg 200w, /images/generated/52/TwinBlend-1-400-869062a48.jpg 400w, /images/generated/52/TwinBlend-1-600-869062a48.jpg 600w" />
@@ -213,11 +210,8 @@ Master Taster Jessica Hartline</p>
   </figure>
 
   
-
   <figure class="gallery-item">
-
 	<header class="gallery-icon">
-
 		
 		<a href="/images/generated/52/TwinBlend-2-1600-6a0948477.jpg" class="popup" title="Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey" data-caption="© CollectorOfJack.com" data-url="/galleries/JackDanielsTwinBlend/TwinBlend-2/ ">
 			<img src="/images/generated/52/TwinBlend-2-600-6a0948477.jpg" alt="Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey" srcset="/images/generated/52/TwinBlend-2-200-6a0948477.jpg 200w, /images/generated/52/TwinBlend-2-400-6a0948477.jpg 400w, /images/generated/52/TwinBlend-2-600-6a0948477.jpg 600w" />
@@ -234,11 +228,8 @@ Master Taster Jessica Hartline</p>
   </figure>
 
   
-
   <figure class="gallery-item">
-
 	<header class="gallery-icon">
-
 		
 		<a href="/images/generated/52/TwinBlend-3-1600-a49067a16.jpg" class="popup" title="Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey" data-caption="© CollectorOfJack.com" data-url="/galleries/JackDanielsTwinBlend/TwinBlend-3/ ">
 			<img src="/images/generated/52/TwinBlend-3-600-a49067a16.jpg" alt="Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey" srcset="/images/generated/52/TwinBlend-3-200-a49067a16.jpg 200w, /images/generated/52/TwinBlend-3-400-a49067a16.jpg 400w, /images/generated/52/TwinBlend-3-600-a49067a16.jpg 600w" />
@@ -255,11 +246,8 @@ Master Taster Jessica Hartline</p>
   </figure>
 
   
-
   <figure class="gallery-item">
-
 	<header class="gallery-icon">
-
 		
 		<a href="/images/generated/52/TwinBlend-4-1600-fca21cbd0.jpg" class="popup" title="Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey" data-caption="© CollectorOfJack.com" data-url="/galleries/JackDanielsTwinBlend/TwinBlend-4/ ">
 			<img src="/images/generated/52/TwinBlend-4-600-fca21cbd0.jpg" alt="Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey" srcset="/images/generated/52/TwinBlend-4-200-fca21cbd0.jpg 200w, /images/generated/52/TwinBlend-4-400-fca21cbd0.jpg 400w, /images/generated/52/TwinBlend-4-600-fca21cbd0.jpg 600w" />
@@ -289,10 +277,8 @@ Master Taster Jessica Hartline</p>
 	  
 	});
 
-	$('.popup').on('mfpClose', function(e /*, params */) {
-	  
+	$('.popup').on('mfpClose', function(e /*, params */) {	  
 	  window.history.replaceState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
-	  
 	});
 
 	$(document).ready(function ($) {
@@ -332,23 +318,10 @@ Master Taster Jessica Hartline</p>
 				//console.log('Found It',  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split("&")[0];
 				//console.log('Found Index',  index);
-				//lookup the image on the page if there are multiple galleries
-				
+				//lookup the image on the page if there are multiple galleries		
 				$('#' + gindex).find('.popup')[index].click();
 			}
-					
-		}
-		//var loc = window.location.href.indexOf("rbmphoto=")
-		//if(loc<0)
-		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
-		//	var index = window.location.href.substring(loc+9).split("&")[0];
-		//	//console.log('Found Index',  index);
-		//	//lookup the image on the page if there are multiple galleries
-			
-		//	document.getElementsByClassName('popup')[index].click();
-		//}
-		
+		}		
 	});
 </script>
 

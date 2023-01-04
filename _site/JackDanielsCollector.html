@@ -8,7 +8,7 @@
     <title>Welcome to the Jack Daniel's Collector Blog - CollectorOfJack.com - A Jack Daniel's Collector Blog</title>
     <meta property="og:url" content="http://localhost:4000/JackDanielsCollector" />
     <meta property="og:image" content="http://localhost:4000/images/generated/1/post-bg1-1600-99dfb3465.jpg" />
-        
+    
     <meta property="og:type" content="article" />
     
     <meta property="og:title" content="Welcome to the Jack Daniel's Collector Blog" />
@@ -29,13 +29,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1672860554" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1672860554">
-    <link rel="stylesheet" href="/css/galleries.css?v=1672860554">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1672860554">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1672866939" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1672866939">
+    <link rel="stylesheet" href="/css/galleries.css?v=1672866939">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1672866939">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1672860554" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1672860554" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1672866939" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1672866939" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -146,7 +146,7 @@ style="margin-right:1em; z-index: 1;">
 
             
             <i class="fa fa-clock-o"></i>&nbsp;
-            4 minute read
+            3 minute read
 
           </span>
 
@@ -172,11 +172,8 @@ style="margin-right:1em; z-index: 1;">
 
 <div class="gallery masonry-gallery" id="JackDanielsCollector">
   
-
   <figure class="gallery-item">
-
 	<header class="gallery-icon">
-
 		
 		<a href="/images/generated/1/CollectorOfJack-1-1600-df9033c00.jpg" class="popup" title="Jack Daniel's Holiday Select Box" data-caption="© CollectorOfJack.com" data-url="/galleries/JackDanielsCollector/CollectorOfJack-1/ ">
 			<img src="/images/generated/1/CollectorOfJack-1-600-df9033c00.jpg" alt="Jack Daniel's Holiday Select Box" srcset="/images/generated/1/CollectorOfJack-1-200-df9033c00.jpg 200w, /images/generated/1/CollectorOfJack-1-400-df9033c00.jpg 400w, /images/generated/1/CollectorOfJack-1-600-df9033c00.jpg 600w" />
@@ -193,11 +190,8 @@ style="margin-right:1em; z-index: 1;">
   </figure>
 
   
-
   <figure class="gallery-item">
-
 	<header class="gallery-icon">
-
 		
 		<a href="/images/generated/1/CollectorOfJack-2-1600-f4cf714bc.jpg" class="popup" title="Jack Daniel's Holiday Select Barrel" data-caption="© CollectorOfJack.com" data-url="/galleries/JackDanielsCollector/CollectorOfJack-2/ ">
 			<img src="/images/generated/1/CollectorOfJack-2-600-f4cf714bc.jpg" alt="Jack Daniel's Holiday Select Barrel" srcset="/images/generated/1/CollectorOfJack-2-200-f4cf714bc.jpg 200w, /images/generated/1/CollectorOfJack-2-400-f4cf714bc.jpg 400w, /images/generated/1/CollectorOfJack-2-600-f4cf714bc.jpg 600w" />
@@ -227,10 +221,8 @@ style="margin-right:1em; z-index: 1;">
 	  
 	});
 
-	$('.popup').on('mfpClose', function(e /*, params */) {
-	  
+	$('.popup').on('mfpClose', function(e /*, params */) {	  
 	  window.history.replaceState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
-	  
 	});
 
 	$(document).ready(function ($) {
@@ -270,23 +262,10 @@ style="margin-right:1em; z-index: 1;">
 				//console.log('Found It',  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split("&")[0];
 				//console.log('Found Index',  index);
-				//lookup the image on the page if there are multiple galleries
-				
+				//lookup the image on the page if there are multiple galleries		
 				$('#' + gindex).find('.popup')[index].click();
 			}
-					
-		}
-		//var loc = window.location.href.indexOf("rbmphoto=")
-		//if(loc<0)
-		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
-		//	var index = window.location.href.substring(loc+9).split("&")[0];
-		//	//console.log('Found Index',  index);
-		//	//lookup the image on the page if there are multiple galleries
-			
-		//	document.getElementsByClassName('popup')[index].click();
-		//}
-		
+		}		
 	});
 </script>
 

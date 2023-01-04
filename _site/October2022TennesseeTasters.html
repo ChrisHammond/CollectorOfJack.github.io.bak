@@ -29,13 +29,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1672860554" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1672860554">
-    <link rel="stylesheet" href="/css/galleries.css?v=1672860554">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1672860554">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1672866939" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1672866939">
+    <link rel="stylesheet" href="/css/galleries.css?v=1672866939">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1672866939">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1672860554" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1672860554" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1672866939" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1672866939" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -146,7 +146,7 @@ style="margin-right:1em; z-index: 1;">
 
             
             <i class="fa fa-clock-o"></i>&nbsp;
-            4 minute read
+            3 minute read
 
           </span>
 
@@ -204,11 +204,8 @@ style="margin-right:1em; z-index: 1;">
 
 <div class="gallery masonry-gallery" id="october2022tennesseetasters">
   
-
   <figure class="gallery-item">
-
 	<header class="gallery-icon">
-
 		
 		<a href="/images/generated/62/october2022tennesseetasters-1-1028-92664b3e4.jpg" class="popup" title="Lexie and Jack Daniel's Bottles" data-caption="Jack Daniel Distillery" data-url="/galleries/october2022tennesseetasters/october2022tennesseetasters-1/ ">
 			<img src="/images/generated/62/october2022tennesseetasters-1-600-92664b3e4.jpg" alt="Lexie and Jack Daniel's Bottles" srcset="/images/generated/62/october2022tennesseetasters-1-200-92664b3e4.jpg 200w, /images/generated/62/october2022tennesseetasters-1-400-92664b3e4.jpg 400w, /images/generated/62/october2022tennesseetasters-1-600-92664b3e4.jpg 600w" />
@@ -225,11 +222,8 @@ style="margin-right:1em; z-index: 1;">
   </figure>
 
   
-
   <figure class="gallery-item">
-
 	<header class="gallery-icon">
-
 		
 		<a href="/images/generated/62/october2022tennesseetasters-2-921-41e7f3665.jpg" class="popup" title="Two new Jack Daniel's Bottles" data-caption="Jack Daniel Distillery" data-url="/galleries/october2022tennesseetasters/october2022tennesseetasters-2/ ">
 			<img src="/images/generated/62/october2022tennesseetasters-2-600-41e7f3665.jpg" alt="Two new Jack Daniel's Bottles" srcset="/images/generated/62/october2022tennesseetasters-2-200-41e7f3665.jpg 200w, /images/generated/62/october2022tennesseetasters-2-400-41e7f3665.jpg 400w, /images/generated/62/october2022tennesseetasters-2-600-41e7f3665.jpg 600w" />
@@ -246,11 +240,8 @@ style="margin-right:1em; z-index: 1;">
   </figure>
 
   
-
   <figure class="gallery-item">
-
 	<header class="gallery-icon">
-
 		
 		<a href="/images/generated/62/october2022tennesseetasters-3-1440-cd22562d5.jpg" class="popup" title="From LiquorPlanet's Facebook page" data-caption="Liquor Planet" data-url="/galleries/october2022tennesseetasters/october2022tennesseetasters-3/ ">
 			<img src="/images/generated/62/october2022tennesseetasters-3-600-cd22562d5.jpg" alt="From LiquorPlanet's Facebook page" srcset="/images/generated/62/october2022tennesseetasters-3-200-cd22562d5.jpg 200w, /images/generated/62/october2022tennesseetasters-3-400-cd22562d5.jpg 400w, /images/generated/62/october2022tennesseetasters-3-600-cd22562d5.jpg 600w" />
@@ -280,10 +271,8 @@ style="margin-right:1em; z-index: 1;">
 	  
 	});
 
-	$('.popup').on('mfpClose', function(e /*, params */) {
-	  
+	$('.popup').on('mfpClose', function(e /*, params */) {	  
 	  window.history.replaceState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
-	  
 	});
 
 	$(document).ready(function ($) {
@@ -323,23 +312,10 @@ style="margin-right:1em; z-index: 1;">
 				//console.log('Found It',  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split("&")[0];
 				//console.log('Found Index',  index);
-				//lookup the image on the page if there are multiple galleries
-				
+				//lookup the image on the page if there are multiple galleries		
 				$('#' + gindex).find('.popup')[index].click();
 			}
-					
-		}
-		//var loc = window.location.href.indexOf("rbmphoto=")
-		//if(loc<0)
-		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
-		//	var index = window.location.href.substring(loc+9).split("&")[0];
-		//	//console.log('Found Index',  index);
-		//	//lookup the image on the page if there are multiple galleries
-			
-		//	document.getElementsByClassName('popup')[index].click();
-		//}
-		
+		}		
 	});
 </script>
 

@@ -29,13 +29,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1672860554" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1672860554">
-    <link rel="stylesheet" href="/css/galleries.css?v=1672860554">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1672860554">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1672866939" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1672866939">
+    <link rel="stylesheet" href="/css/galleries.css?v=1672866939">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1672866939">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1672860554" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1672860554" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1672866939" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1672866939" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -211,11 +211,8 @@ If you are in our around St. Louis (6 hour radius) and interested in selling, <a
 
 <div class="gallery masonry-gallery" id="HowMuchIsMyJackDanielsCollectionWorth">
   
-
   <figure class="gallery-item">
-
 	<header class="gallery-icon">
-
 		
 		<a href="/images/generated/64/Collection-1-1600-c8c96b2bb.jpg" class="popup" title="Jack Daniel's Collection" data-caption="CollectorOfJack.com" data-url="/galleries/HowMuchIsMyJackDanielsCollectionWorth/Collection-1/ ">
 			<img src="/images/generated/64/Collection-1-600-c8c96b2bb.jpg" alt="Jack Daniel's Collection" srcset="/images/generated/64/Collection-1-200-c8c96b2bb.jpg 200w, /images/generated/64/Collection-1-400-c8c96b2bb.jpg 400w, /images/generated/64/Collection-1-600-c8c96b2bb.jpg 600w" />
@@ -245,10 +242,8 @@ If you are in our around St. Louis (6 hour radius) and interested in selling, <a
 	  
 	});
 
-	$('.popup').on('mfpClose', function(e /*, params */) {
-	  
+	$('.popup').on('mfpClose', function(e /*, params */) {	  
 	  window.history.replaceState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
-	  
 	});
 
 	$(document).ready(function ($) {
@@ -288,23 +283,10 @@ If you are in our around St. Louis (6 hour radius) and interested in selling, <a
 				//console.log('Found It',  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split("&")[0];
 				//console.log('Found Index',  index);
-				//lookup the image on the page if there are multiple galleries
-				
+				//lookup the image on the page if there are multiple galleries		
 				$('#' + gindex).find('.popup')[index].click();
 			}
-					
-		}
-		//var loc = window.location.href.indexOf("rbmphoto=")
-		//if(loc<0)
-		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
-		//	var index = window.location.href.substring(loc+9).split("&")[0];
-		//	//console.log('Found Index',  index);
-		//	//lookup the image on the page if there are multiple galleries
-			
-		//	document.getElementsByClassName('popup')[index].click();
-		//}
-		
+		}		
 	});
 </script>
 
