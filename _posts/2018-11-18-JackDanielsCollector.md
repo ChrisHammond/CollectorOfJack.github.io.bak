@@ -1,11 +1,14 @@
 ﻿---
 layout: post
 title: "Welcome to the Jack Daniel's Collector Blog"
+description: Our origin story for collecting Jack Daniel's.
+keywords: "jack, daniel's, jd, whiskey, collection, collector, glasses, bottles, value"
+type: article
 date: '2018-11-18T13:36:55+00:00'
 permalink: JackDanielsCollector
 image:
   feature: 1/post-bg1.jpg
-description: Our origin story for collecting Jack Daniel's.
+
 gallery:
   JackDanielsCollector:
   - image_path: 1/CollectorOfJack-1.jpg

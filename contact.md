@@ -3,6 +3,9 @@ layout: page
 title: Contact
 subtitle: Connect with CollectorOfJack.com
 description: If you want to talk to us, you can reach out on Twitter or Facebook.
+keywords: "jack, daniel's, daniels, contact, page"
+type: website
+
 image:
   feature: contact-1.jpg
 description: Our origin story for collecting Jack Daniel's.
