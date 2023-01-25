@@ -5,9 +5,9 @@
     <description>A blog for collecting Jack Daniel&apos;s bottles and memorabilia</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 05 Jan 2023 22:47:22 -0600</pubDate>
-    <lastBuildDate>Thu, 05 Jan 2023 22:47:22 -0600</lastBuildDate>
-    <generator>Jekyll v4.3.1</generator>
+    <pubDate>Wed, 25 Jan 2023 09:22:40 -0600</pubDate>
+    <lastBuildDate>Wed, 25 Jan 2023 09:22:40 -0600</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>How Much Is My Jack Daniels Collection Worth?</title>
@@ -116,8 +116,6 @@ If you are in our around St. Louis (6 hour radius) and interested in selling, &l
 
 	//check if the url contains a photo
 	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
 		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
@@ -225,8 +223,6 @@ If you are in our around St. Louis (6 hour radius) and interested in selling, &l
 
 	//check if the url contains a photo
 	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
 		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
@@ -394,8 +390,6 @@ If you are in our around St. Louis (6 hour radius) and interested in selling, &l
 
 	//check if the url contains a photo
 	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
 		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
@@ -518,8 +512,6 @@ If you are in our around St. Louis (6 hour radius) and interested in selling, &l
 
 	//check if the url contains a photo
 	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
 		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
@@ -708,8 +700,6 @@ Jack Daniel Distillery DSP-TN-1 Tennessee&lt;/p&gt;
 
 	//check if the url contains a photo
 	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
 		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
@@ -896,8 +886,6 @@ Jack Daniel Distillery DSP-TN-1 Tennessee&lt;/p&gt;
 
 	//check if the url contains a photo
 	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
 		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
@@ -1113,8 +1101,6 @@ Bottled by Nearest Green Distrillery Shelbyville, TN&lt;/p&gt;
 
 	//check if the url contains a photo
 	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
 		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
@@ -1301,8 +1287,6 @@ Barrel House #08 #13&lt;/p&gt;
 
 	//check if the url contains a photo
 	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
 		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
@@ -1483,8 +1467,6 @@ Master Distiller Chris Fletcher&lt;/p&gt;
 
 	//check if the url contains a photo
 	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
 		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
