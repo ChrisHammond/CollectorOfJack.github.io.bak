@@ -11,6 +11,7 @@ module GalleryPages
 
           #check if post contains gallery 
           if !post["gallery"].nil?
+            # If there is a gallery, and the files already exist, should we regenerate?
             post["gallery"].each do |gallery|
               
               @imagecount = 0
