@@ -30,8 +30,3 @@ After the Civil War, Green continued to work for Call as a free man and was even
 Today, many people see Green as an important figure in the history of American whiskey and an example of the resilience and ingenuity of the African American community. In recent years, the Jack Daniel's distillery has taken steps to honor Green's legacy, including unveiling a memorial to him in 2016 and establishing the Nearest Green Foundation to promote diversity in the whiskey industry.
 
 Jack Daniel's whiskey remains one of the most popular whiskey brands in the world, with its distinctive black and white label recognized across the globe. The distillery still operates in Lynchburg, Tennessee, and attracts visitors from around the world who want to learn more about the history of this iconic brand and the important role that Nearest Green played in its development.
-
-
-
-Regenerate response
-
