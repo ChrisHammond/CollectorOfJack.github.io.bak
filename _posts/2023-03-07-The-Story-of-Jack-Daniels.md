@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jack Daniel's life story, according to CHat GPT"
+title: "Jack Daniel's life story, according to ChatGPT"
 date: '2023-03-06T23:30:00+00:00'
 permalink: JackDanielsLifeStory
 type: article
