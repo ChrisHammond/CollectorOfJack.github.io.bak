@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Jack Daniel's 2022 Special Release Twice Barreled American Single Malt"
+title: "Jack Daniel's Twice Barreled American Single Malt 2022 Special Release"
 date: '2023-03-07T23:30:00+00:00'
-permalink: TwiceBarreledMaltPrerelease
+permalink: TwiceBarreledAmericanMalt
 image:
   feature: 66/JackDanielsTwiceBarreled-1.jpg
 description: "Twice Barreled American Single Malt"
