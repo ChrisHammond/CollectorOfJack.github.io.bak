@@ -23,10 +23,6 @@ gallery:
   - image_path: 66/JackDanielsTwiceBarreled-5.jpg
     image-caption: Jack Daniel's 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
-  - image_path: 66/JackDanielsTwiceBarreled-6.jpg
-    image-caption: Jack Daniel's 2022 Special Release Twice Barreled American Single Malt
-    image-copyright: CollectorOfJack.com
-
 ---
 It's been a while since I've blogged about a real bottle, that doesn't mean I haven't been collecting. I simply got it in my head that I needed the perfect backdrop for my photos.
 
