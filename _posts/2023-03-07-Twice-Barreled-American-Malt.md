@@ -4,7 +4,7 @@ title: "Jack Daniel's 2022 Special Release Twice Barreled American Single Malt"
 date: '2023-03-07T23:30:00+00:00'
 permalink: TwiceBarreledMaltPrerelease
 image:
-  feature: 63/TwiceBarreledMalt-1.jpg
+  feature: 66/JackDanielsTwiceBarreled-1.jpg
 description: "Twice Barreled American Single Malt"
 gallery:
   TwiceBarreledMalt:
