@@ -29,17 +29,17 @@ It's been a while since I've blogged about a real bottle, that doesn't mean I ha
 Here we have the 2022 Special Release from Jack Daniels: Jack Daniel's 2022 Special Release Twice Barreled American Single Malt
 
 The front of the bottle reads:
-> Neck Label: 2022 Special Release 
-> Label: Uniquely Crafted Handmade Barrels
-> Twice Barreled Special Release American Single Malt
-> American Single Malt Whiskey Oloroso Sherry Cask Finished
-> Crafted from 100% malted barley twice barreled for a complex taste & bottled straight from the finest Oloroso sherry casks.
+> Neck Label: 2022 Special Release  
+> Label: Uniquely Crafted Handmade Barrels  
+> Twice Barreled Special Release American Single Malt  
+> American Single Malt Whiskey Oloroso Sherry Cask Finished  
+> Crafted from 100% malted barley twice barreled for a complex taste & bottled straight from the finest Oloroso sherry casks.  
 
 
 The side labels read:
-> Limited Bottle No. ASM-29592
-> This special release series highlights the Jack Daniel Distillery's Innovation. Crafted from 100% malted barley, matured first in new American charred oak barrels and then in the finest Oloroso Sherry casks, we extend this one-of-a-kind craftsmanship to you.
-> Processed using minimum filtration to sustain its unique flavor profile. Sediment may occur over time.
+> Limited Bottle No. ASM-29592  
+> This special release series highlights the Jack Daniel Distillery's Innovation. Crafted from 100% malted barley, matured first in new American charred oak barrels and then in the finest Oloroso Sherry casks, we extend this one-of-a-kind craftsmanship to you.  
+> Processed using minimum filtration to sustain its unique flavor profile. Sediment may occur over time.  
 
 What is Oloroso Sherry?
 >Oloroso Sherry Cask are whisky casks which have been previously held Oloroso Sherry. Oloroso Sherry is a type of fortified wine produced near the city of Jerez de la Frontera in Andalusia, Spain. The Sherry Triangle produces wines which have been ‘fortified’ with a higher alcohol strength in order to prevent yeast growth and bottled under the official name of Jerez-Xérès-Sherry. There is something of a manufactured misconception, that the casks used at these bodegas are the same used for whisky maturation however this is not the case. Oloroso sherry casks are more commonly known as sherry butts within the whisky industry. - [WhiskeyPedia](https://whiskipedia.com/fundamentals/oloroso-sherry-casks/)
