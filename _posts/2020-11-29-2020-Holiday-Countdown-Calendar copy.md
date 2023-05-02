@@ -46,7 +46,7 @@ There's a sleeve around the box, the front reads:
 The back has the logos, and a description of each of the various libations along with:
 
 > Happy Holidays from Our Family to Yours
-> In Lynchburg, Tennessee, the holidays are about traditions old and new. While old traditions warm the heart, there’s something special about starting a new one. We hope that as you open a new calendar door, you’ll share a toast with the folks closest to you.
+> In Lynchburg, Tennessee, the holidays are about traditions old and new. While old traditions warm the heart, there's something special about starting a new one. We hope that as you open a new calendar door, you'll share a toast with the folks closest to you.
 
 The front of the box has 24 boxes, one for each day, with various scenes around Lunchburg with the Jack Daniel's statue front and center. Some of the scenes include the Hardware Store, Jack Daniel's grave, Miss Mary Bobo's, The Motlow House and Jack's Office. 
 

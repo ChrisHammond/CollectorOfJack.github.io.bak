@@ -19,7 +19,7 @@ gallery:
 Today is my 2 year anniversary of getting my plot! I was super pumped to be nominated to be a Tennessee Squire by a fraternity brother of mine back in January 2020, and even more excited to find out that I had been accepted!
 
 ## From the Tennessee Squire Association website: 
-> Membership in the Squire Association is a reward for our loyal friends of Jack Daniel’s. Squires are nominated (most often by other Squires) and are welcomed into the Association with a letter, a membership card, and an unrecorded deed to their own small “piece of property,” which is given a unique plot number. Our criteria for becoming a member of the Squire Association is that a person be a loyal friend of Jack Daniel’s who is also a generous, responsible person of character and not associated with the beverage alcohol industry in any way. A nominee must also be of legal drinking age in their country of residence.
+> Membership in the Squire Association is a reward for our loyal friends of Jack Daniel's. Squires are nominated (most often by other Squires) and are welcomed into the Association with a letter, a membership card, and an unrecorded deed to their own small “piece of property,” which is given a unique plot number. Our criteria for becoming a member of the Squire Association is that a person be a loyal friend of Jack Daniel's who is also a generous, responsible person of character and not associated with the beverage alcohol industry in any way. A nominee must also be of legal drinking age in their country of residence.
 
 A big thank you to Steve for my nomination! 
 

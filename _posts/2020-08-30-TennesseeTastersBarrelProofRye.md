@@ -22,7 +22,7 @@ gallery:
     image-copyright: © CollectorOfJack.com
   
 ---
-In July of 2019 Jack Daniel’s released the fourth bottle in their Tennessee Tasters’ series, Barrel Proof Rye, Straight Tennessee Rye Whiskey.
+In July of 2019 Jack Daniel's released the fourth bottle in their Tennessee Tasters' series, Barrel Proof Rye, Straight Tennessee Rye Whiskey.
 
 ## The label reads:
 > After tasting our Tennessee Rye Whiskey in its purst form - straight from the barrel - we longed to share it with our firneds. Maturing at the highest reached of barrel house #1-05 delivers a deep copper hue and a nose that opens with an aroma full of smoke and raisin, while each sip lingerswith moolasses, sawn oak, and bold rye spice. 

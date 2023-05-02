@@ -42,7 +42,7 @@ The side labels read:
 > Processed using minimum filtration to sustain its unique flavor profile. Sediment may occur over time.  
 
 What is Oloroso Sherry?
->Oloroso Sherry Cask are whisky casks which have been previously held Oloroso Sherry. Oloroso Sherry is a type of fortified wine produced near the city of Jerez de la Frontera in Andalusia, Spain. The Sherry Triangle produces wines which have been ‘fortified’ with a higher alcohol strength in order to prevent yeast growth and bottled under the official name of Jerez-Xérès-Sherry. There is something of a manufactured misconception, that the casks used at these bodegas are the same used for whisky maturation however this is not the case. Oloroso sherry casks are more commonly known as sherry butts within the whisky industry. - [WhiskeyPedia](https://whiskipedia.com/fundamentals/oloroso-sherry-casks/)
+>Oloroso Sherry Cask are whisky casks which have been previously held Oloroso Sherry. Oloroso Sherry is a type of fortified wine produced near the city of Jerez de la Frontera in Andalusia, Spain. The Sherry Triangle produces wines which have been 'fortified' with a higher alcohol strength in order to prevent yeast growth and bottled under the official name of Jerez-Xérès-Sherry. There is something of a manufactured misconception, that the casks used at these bodegas are the same used for whisky maturation however this is not the case. Oloroso sherry casks are more commonly known as sherry butts within the whisky industry. - [WhiskeyPedia](https://whiskipedia.com/fundamentals/oloroso-sherry-casks/)
 
 
 **Release:** 2022  

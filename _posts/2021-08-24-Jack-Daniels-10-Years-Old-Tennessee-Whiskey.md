@@ -21,7 +21,7 @@ From a message that Chris Fletcher and Jack Daniel's has posted on social media:
 
 > Bottled at 97 proof—a first for the Jack Daniel Distillery—this liquid features notes of dry fig and raisin laced with oak on the nose, warm butterscotch alongside soft fruit and smoke on the pallet, and an incredibly long finish with sweet tobacco and spice.
 
-> Jack Daniel’s 10-Years-Old Tennessee Whiskey retails for $74.99 with tax in a 750mL size with the first batch hitting shelves in limited quantities in early September across the United States. It will be available in the White Rabbit Bottle Shop at the Jack Daniel Distillery starting September 3.
+> Jack Daniel's 10-Years-Old Tennessee Whiskey retails for $74.99 with tax in a 750mL size with the first batch hitting shelves in limited quantities in early September across the United States. It will be available in the White Rabbit Bottle Shop at the Jack Daniel Distillery starting September 3.
 
 
 **Release:** 2021  
