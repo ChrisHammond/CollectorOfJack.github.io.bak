@@ -24,6 +24,8 @@ gallery:
 ---
 For 2021 the Special Release from Jack Daniel's is known as the Coy Hill High Proof. It can come from one of two barrel houses up on Coy Hill near Lynchburg, #08 or #13.
 
+{% include subgallery.html id="JackDanielsCoyHill" %}
+
 While the previous Special Release bottles from Jack Daniel's have been hard to find, this one saw demand like no other. Secondary prices for the bottle appear to be almost 10x retail. I hate to tell you what I paid for mine, not that much, but not much better.
 
 The bottle comes in the familiar single barrel shape, with red labels with gold accents. The neck is unique in that on this bottle they also tell you the "barrel entry" date in addition to the bottling date. This is not something I've seen on previous Jack Daniel's bottles.
@@ -60,7 +62,3 @@ If you get a chance to pick up this bottle, it is highly recommended that you do
 **Proof:** 141.8  
 **Size:** 750ml  
 **Price:** $79.99  
-
-
-{% include subgallery.html id="JackDanielsCoyHill" %}
-

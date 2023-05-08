@@ -24,6 +24,8 @@ gallery:
 ---
 In a previous post I covered the [Uncle Nearest 1820](https://collectorofjack.com/UncleNearest1820). On previous trips to Lynchburg Tennessee I had  tried to stop at the Uncle Nearest Distillery in Shelbyville, but the first time I stopped they were still under construction. The second time I stopped was their opening weekend, but it was still closed for a Green family event. Finally on March 4th of 2022 I was able to make a quick stop into the distillery.
 
+{% include subgallery.html id="UncleNearestMasterBlend" %}
+
 The property looks amazing, I unfortunately didn't get time to tour any of the facility, we just popped in to check out the shop on our rushed way back to Nashville after a visit to Lynchburg earlier in the morning.
 
 At the bottle shop I was able to pick up a bottle of the Uncle Nearest Master Blend Edition, a limited edition only available at the distillery. I have yet to open the bottle, but plan to do so at a future tasting that I will be organizing.
@@ -57,4 +59,3 @@ If you get a chance to pick up this bottle, it is highly recommended that you do
 **Size:** 750ml  
 **Price:** $149.99  
 
-{% include subgallery.html id="UncleNearestMasterBlend" %}

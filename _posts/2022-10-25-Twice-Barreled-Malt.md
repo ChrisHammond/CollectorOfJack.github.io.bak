@@ -15,6 +15,8 @@ gallery:
 ---
 The 2022 Special Release for Jack Daniel's should be hitting shelves very soon! We don't have a bottle yet, but wanted to highlight what you can expect!
 
+{% include subgallery.html id="TwiceBarreledMaltPrerelease" %}
+
 Jack Daniel's Twice Barreled Special Release American Single Malt, an Oloroso sherry-finished whiskey made from 100% malted barley
 
 > This special release series highlights the Jack Daniel Distillery's innovation. Crafted from 100% malted barley, matured first in new American charred oak barrels and then in the finest Oloroso sherry casks, we extend this one-of-a-kind craftsmanship to you.
@@ -28,4 +30,4 @@ What is Oloroso Sherry?
 **Size:** 750ml  
 **Price:** $??
 
-{% include subgallery.html id="TwiceBarreledMaltPrerelease" %}
+

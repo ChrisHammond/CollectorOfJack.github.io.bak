@@ -16,6 +16,8 @@ gallery:
 ---
 Over the past few months I've been playing with ChatGPT. I figured I should give it a shot at writing the life story of Jack Daniel's. I'm not sure if it's 100% accurate, but it certainly hits most of the points.
 
+{% include subgallery.html id="JackDanielsLifeStory" %}
+
 ## Prompt
 What's the life story of Jack Daniel? Be sure to include information Nearest Green.
 
@@ -36,4 +38,3 @@ Today, many people see Green as an important figure in the history of American w
 
 Jack Daniel's whiskey remains one of the most popular whiskey brands in the world, with its distinctive black and white label recognized across the globe. The distillery still operates in Lynchburg, Tennessee, and attracts visitors from around the world who want to learn more about the history of this iconic brand and the important role that Nearest Green played in its development.
 
-{% include subgallery.html id="JackDanielsLifeStory" %}

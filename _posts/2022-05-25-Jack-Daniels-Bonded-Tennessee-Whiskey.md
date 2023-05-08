@@ -23,6 +23,8 @@ gallery:
 ---
 For 2022 Jack Daniel's announced, and released, two new expressions. Both of these are released in a 700ml (and also a 1L version). The word on these releases is that they will be available regularly going forward, and are not limited releases like the 10 Year and Heritage barrels released over the last few years (more of those coming however).
 
+{% include subgallery.html id="JackDanielsBondedTennesseeWhiskey" %}
+
 The first bottle we'll cover is the new Jack Daniel's Bonded Tennessee Whiskey. The release is in a bottle styled after early Jack Daniel's bottles, with raised letters in the bottles which we'll document below. The labels are minimal, creating a beautiful bottle that will look great in your collection.
 
 This release is Bottled in Bond, which means it was distilled in one season, aged a minimum of 4 years in a government bonded warehouse, with no removal or addition of materials besides water for proofing and it must also be bottled at 100 proof.
@@ -56,4 +58,3 @@ I ended up picking up two bottles of this in Oklahoma City in early May 2022. Si
 **Size:** 700ml  
 **Price:** $34.99  
 
-{% include subgallery.html id="JackDanielsBondedTennesseeWhiskey" %}

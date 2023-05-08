@@ -25,6 +25,8 @@ gallery:
 
 In the spring of 2020 Jack Daniel's released the sixth bottle in their Tennessee Tasters' series, Jamaican Allspice, Straight Tennessee Whiskey Finished with Toasted Jamaican Allspice Wood.
 
+{% include subgallery.html id="JamaicanAllSpice" %}
+
 ## The label reads:
 > Our whiskey has found a home in countries all over the globe. So it's only natural that we search the world to discover new and rare woods to compliment its character. Tennessee Tasters' No. 6 is an exotic experiment that finishes our Old No. 7 whiskey with Jamaican Allspice wood. The result has a nose of fruit and smoke that melts into subtle, sweet tobacco and a taste that begins with dark spice and clove and lingers to finish long and bold.
 > \- Master Taster: Melvin H. 
@@ -38,5 +40,4 @@ As with all the Tasters' Series these bottles were originally only available in 
 **Size:** 375ml  
 **Price:** $42.99  
 
-{% include subgallery.html id="JamaicanAllSpice" %}
 

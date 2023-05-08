@@ -24,6 +24,8 @@ gallery:
 ---
 For the first time in over 100 years, Jack Daniel's has released a bottle with an age statement on it. The initial release is aged 10 years, and is known as Jack Daniel's 10 Years Old Tennessee Whiskey. This bottle was released in September 2021, with availability being extremely hard to come by. It didn't hit stores in the eastern half of Missouri until February 2022, and was sold out quickly. 
 
+{% include subgallery.html id="JackDaniels10Year" %}
+
 I was able to get two bottles ordered online this fall, and have them in my collection for now, though I have yet to open one, hoping I can find a third bottle.
 
 The bottle is somewhat unique to the release, though has a very similar shape to the [150th Distillery Anniversary bottle](https://collectorofjack.com/150thAnniversary). It comes with an adhered black label, with white and gold print.
@@ -50,7 +52,3 @@ If you get a chance to pick up this bottle, it is highly recommended that you do
 **Proof:** 97
 **Size:** 750ml  
 **Price:** $74.99  
-
-
-{% include subgallery.html id="JackDaniels10Year" %}
-

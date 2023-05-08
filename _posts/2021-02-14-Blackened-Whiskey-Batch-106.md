@@ -30,6 +30,8 @@ gallery:
 
 In getting ready for this post I realized this is the first time I've actually blogged about Blackened. I've had a few bottles over the past couple of years, and will document some of those later on, but for now, here's batch 106.
 
+{% include subgallery.html id="BlackenedBatch106" %}
+
 Blackened American Whiskey is a collaboration of whiskey between Metallica and the late Dave Pickerell. The premise is that the whiskey is finished in black brandy casks and blasted with low frequency sound waves of Metallica's music. Batch 106 is special because it is the S&M 2 release, marking the release of Metallica's S&M Concert with the San Francisco Symphony. The whiskey was finished with the music from that event, originally recorded in September 2019.
 
 The post covers the release of Batch 106 with a black box and artwork on the box. It didn't come with the S&M 2 vinyl, but I had already ordered that separate from Metallica.
@@ -88,5 +90,3 @@ If you're looking for Blackened American Whiskey Batch 106, it can still be foun
 **Proof:** 90
 **Size:** 750ml  
 **Price:** $49
-
-{% include subgallery.html id="BlackenedBatch106" %}

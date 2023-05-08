@@ -16,6 +16,7 @@ gallery:
 ---
 We get asked this question a lot.  "How much is my Jack Daniels collection worth?"  The answer is, it depends.  There are a lot of factors that go into determining the value of a collection.  We will try to cover some things, but likely not all, that go into evaluating a liquor collection.
 
+{% include subgallery.html id="HowMuchIsMyJackDanielsCollectionWorth" %}
 
 ## What are you collecting?
 
@@ -66,4 +67,3 @@ Do you want to sell them all at once or one at a time?
 Do you want to sell them to a private collector or a retailer? 
 If you are in our around St. Louis (6 hour radius) and interested in selling, [be sure to reach out to me](/contact). I might be interested.
 
-{% include subgallery.html id="HowMuchIsMyJackDanielsCollectionWorth" %}

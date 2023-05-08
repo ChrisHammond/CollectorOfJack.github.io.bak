@@ -23,6 +23,8 @@ gallery:
 ---
 The latest release in the Tennessee Tasters' series is the 14E19 "Twin" Blend Whiskey. This particular release is from Fall 2020, and contains Straight Tennessee Whiskey blended with Straight Tennessee Rye Whiskey.
 
+{% include subgallery.html id="JackDanielsTwinBlend" %}
+
 ## The front label reads:
 > Jack Daniel's Tennessee Tasters' Selection
 > 14E19 "Twin" Blend | Whiskey
@@ -45,7 +47,3 @@ You may or may not be able to find yourself a bottle of this. As with all the TN
 **Proof:** 107
 **Size:** 375ml  
 **Price:** $42.99  
-
-
-{% include subgallery.html id="JackDanielsTwinBlend" %}
-

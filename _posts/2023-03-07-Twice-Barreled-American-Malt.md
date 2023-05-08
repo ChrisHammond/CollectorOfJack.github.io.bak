@@ -28,6 +28,8 @@ It's been a while since I've blogged about a real bottle, that doesn't mean I ha
 
 Here we have the 2022 Special Release from Jack Daniels: Jack Daniel's 2022 Special Release Twice Barreled American Single Malt
 
+{% include subgallery.html id="TwiceBarreledMalt" %}
+
 The front of the bottle reads:
 > Neck Label: 2022 Special Release  
 > Label: Uniquely Crafted Handmade Barrels  
@@ -50,4 +52,3 @@ What is Oloroso Sherry?
 **Size:** 700ml  
 **Price:** $79
 
-{% include subgallery.html id="TwiceBarreledMalt" %}
