@@ -55,6 +55,7 @@ module GalleryPages
           'posturl' => "/" + posturl + "?rbmphoto=" + @imageid.to_s + "&galleryname=" + galleryname.to_s,
           'title' => caption,
           'description' => caption,
+          'sitemap' => false,
 
         }
   
