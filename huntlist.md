@@ -27,11 +27,12 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * Jack Daniel's Silver Cornet Decanter
 * 1915 Gold Medal Series Box
 * [Jack Daniel's 10 Years Old Tennessee Whiskey Batch 1](/JackDaniels10Year)
+* Jack Daniel's 10 Year Batch 2
+* Jack Daniel's 12 Year 
 * [Jack Daniel's Special Release Coy Hill High Proof](/JackDanielsSpecialReleaseCoyHillHighProof)
 * [Jack Daniel's Small Batch Coy Hill](/SmallBatchCoyHill2022)
-* Jack Daniel's 10 Year Batch 2
-* Jack DAniel's 12 Year 
-* Jack Daniel's McLaren '23
+* Sinatra Select Century
+
 
 
 ## Items Available For Trade
