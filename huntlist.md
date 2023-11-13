@@ -5,7 +5,6 @@ subtitle: A List of Things We're Looking For
 description: A list of bottles and Jack Daniel's items that we are looking for, along with items we have available for trade.
 keywords: "Jack, Daniel, Hunt, List, Collection"
 type: website
-
 image:
   feature: Distillery1-1.jpg
 permalink: huntlist
@@ -25,7 +24,6 @@ I am not super interested in selling the items I have for trade, the goal is to 
 ### Where will you trade?
 I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet typically within a 5 hour driving radius if needed, but don't hesitate to reach out. I travel for work some times and might be able to meet you elsewhere.
 
-
 ## Items for I'm Looking For
 * Jack Daniel's Alabama Bicentennial
 * Jack Daniel's Silver Cornet Decanter
@@ -38,8 +36,6 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * Sinatra Select Century
 * 2023 Special Release Twice Barreled Tennessee Rye
 * Jack Daniel's American Single Malt (Duty Free or Miltary Purchase)
-
-
 
 ## Items Available For Trade
 * [Gentleman Jack Limited Edition Time Piece Bottle](https://collectorofjack.com/GentlemanJackTimePiece)
