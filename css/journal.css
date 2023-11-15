@@ -1,10 +1,16 @@
 .section--postsWrapper
 {
     width: 100%;
-    background: #000;
+    background: transparent;
     padding-top: 20px;
     position: relative;
     clear: both;
+}
+
+.section--postsWrapper::after
+{
+    color:#000;
+    opacity: .5;
 }
 
 .blockGroup

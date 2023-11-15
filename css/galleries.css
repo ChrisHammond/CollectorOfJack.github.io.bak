@@ -134,7 +134,7 @@ img.mfp-img { padding: 0; }
 
 
      /*galleries adapted*/
-	.masonry-gallery .gallery-item { width: 30% !important; }
+	.masonry-gallery .gallery-item { width: 98% !important; }
 		
 @media screen and (max-height: 480px) {
 	/*header smaller space*/

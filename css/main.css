@@ -139,7 +139,7 @@ hr.small {
 }
 .intro-header {
   background: no-repeat center center;
-  background-color: #808080;
+  background-color: transparent;
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -159,7 +159,7 @@ hr.small {
   .intro-header .page-heading {
     padding: 125px 0 15px 0;
     margin:0 auto;
-    background-color:rgba(0, 0, 0, 0.5);
+    background-color:rgba(0, 0, 0, 0.1);
   }
 }
 .intro-header .site-heading,
@@ -464,4 +464,14 @@ body {
   padding:0 15px;
   text-shadow:1px 1px 4px #fff;
 
+}
+.site-content {
+  min-height: 60vh;
+  padding-top: 1.5rem;
+  margin-top: 115px;
+  transition: all 0.4s;
+}
+
+.container{
+  background:rgba(222,222,222,.05);
 }

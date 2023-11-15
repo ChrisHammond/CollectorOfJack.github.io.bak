@@ -1,18 +1,19 @@
 ---
 layout: default
 ---
-
 {% assign post = page %}
 
 <article>
-  <!-- Post Header -->
-  <header class="intro-header"
-    style="background-image: url('{% if page.image.feature %}{% picture direct {{ page.image.feature }} %}{% endif %}')">
-    <div class="container">
-      <div class="row">
-        <div class="post-heading">
-          <h1 >{{ page.title }}</h1>
-          {% if page.subtitle %}
+ 
+  <!-- Post Content -->
+  <div class="container">
+
+    <div class="row">
+      <div class="mainheading">
+
+          <!-- Post Title -->
+        <h1 class="posttitle">{{ page.title }}</h1>
+        {% if page.subtitle %}
           <h2 class="subheading">{{ page.subtitle }}</h2>
           {% endif %}
           <span class="meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
@@ -24,17 +25,26 @@ layout: default
             {{ minutes }} minute read
 
           </span>
+  
+        <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+        {% if site.adsense == "enabled" %}
+            {% include adsense-under-header.html %}
+        {% endif %}
+        <!-- End Adsense -->
 
-        </div>
-      </div>
+        <!-- Post Featured Image -->
+        {% if page.image.feature %}
+            {% picture {{ page.image.feature }} class="featured-image img-fluid lazyimg" --alt {{ page.title}}  %}
+        {% endif %}
+        <!-- End Featured Image -->
+
     </div>
-  </header>
+  
+  
+    </div>
 
-  <!-- Post Content -->
-
-  <div class="container">
     <div class="row">
-      <div class="col">
+      <div class="col col-md-9">
         {{ content }}
         <br>
         <br>
@@ -64,6 +74,18 @@ layout: default
 
 
       </div>
+    {% if post.gallery %}
+      
+      <div class="col-md-3">
+        
+        {% for gallery in post.gallery %}
+        {% assign gallery_id = gallery[0] %}
+        {% include subgallery.html id=gallery_id %}
+          
+        {% endfor %}
+      </div>
+    {% endif %}
+    
     </div>
   </div>
 </article>

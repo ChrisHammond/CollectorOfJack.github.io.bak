@@ -6,29 +6,30 @@ permalink: TwiceBarreledAmericanMalt
 image:
   feature: 66/JackDanielsTwiceBarreled-1.jpg
 description: "Twice Barreled American Single Malt"
+author: ChrisHammond
 gallery:
   TwiceBarreledMalt:
   - image_path: 66/JackDanielsTwiceBarreled-1.jpg
-    image-caption: Jack Daniel's 2022 Special Release Twice Barreled American Single Malt
+    image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
   - image_path: 66/JackDanielsTwiceBarreled-2.jpg
-    image-caption: Jack Daniel's 2022 Special Release Twice Barreled American Single Malt
+    image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
   - image_path: 66/JackDanielsTwiceBarreled-3.jpg
-    image-caption: Jack Daniel's 2022 Special Release Twice Barreled American Single Malt
+    image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
   - image_path: 66/JackDanielsTwiceBarreled-4.jpg
-    image-caption: Jack Daniel's 2022 Special Release Twice Barreled American Single Malt
+    image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
   - image_path: 66/JackDanielsTwiceBarreled-5.jpg
-    image-caption: Jack Daniel's 2022 Special Release Twice Barreled American Single Malt
+    image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
+
 ---
 It's been a while since I've blogged about a real bottle, that doesn't mean I haven't been collecting. I simply got it in my head that I needed the perfect backdrop for my photos.
 
-Here we have the 2022 Special Release from Jack Daniels: Jack Daniel's 2022 Special Release Twice Barreled American Single Malt
+Here we have the 2022 Special Release from Jack Daniels: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
 
-{% include subgallery.html id="TwiceBarreledMalt" %}
 
 The front of the bottle reads:
 > Neck Label: 2022 Special Release  
