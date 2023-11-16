@@ -50,4 +50,3 @@ Happy Holidays!
 **Proof**: Varies   
 **Size**: 20 x 50ml  
 **Price**: $90  
-
