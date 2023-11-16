@@ -82,5 +82,3 @@ You can still find the bottle online, though not at many locations that will shi
 **Size:** 750ml  
 **Price:** $53.99  
 
-{% include subgallery.html id="EricChurchSingleBarrel2020" %}
-

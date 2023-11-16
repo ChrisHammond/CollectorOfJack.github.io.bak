@@ -20,8 +20,6 @@ gallery:
 ---
 Hot off the presses Jack Daniel's has just announced two new bottles in the Tennessee Taster's series, and is now calling them Jack Daniel's Distillery Series.
 
-{% include subgallery.html id="october2022tennesseetasters" %}
-
 * Jack Daniel's Distillery Series Toasted Barrel Finished Rye
 * Jack Daniel's Distillery Series Toasted Maple Barrel
 

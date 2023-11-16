@@ -8,7 +8,7 @@ figure.effect-selena {
 }
 
 figure.effect-selena img {
-     cursor: default;
+   cursor: default;
 	opacity: 1;
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;

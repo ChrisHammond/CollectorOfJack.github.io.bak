@@ -30,5 +30,3 @@ We don't have our hands on a bottle yet, but will be on the lookout! If you find
 **Proof:** 132.5 (variable?)  
 **Size:** 750ml  
 **Price:** $???  
-
-{% include subgallery.html id="BarrelProofRyeSpecialRelease" %}

@@ -53,5 +53,3 @@ The bottle is a previous generation Tennessee Fire Bottle, reading Original Reci
 **Size:** 750ml  
 **Price:** $24.99  
 
-{% include subgallery.html id="JackDanielsFireShotglassGiftSet" %}
-

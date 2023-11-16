@@ -60,8 +60,6 @@ gallery:
 
 The 2020 Special Release bottle from Jack Daniel's, following the past two year's Heritage Barrel releases, is a Barrel Proof Rye. The bottle is simply beautiful, see photos above and below!
 
-{% include subgallery.html id="2020SpecialRelease" %}
-
 This has not been the easiest bottle to find here in Missouri, in fact, I haven't been made aware of any bottles in the state of Missouri or Illinois yet. Every morning I wake up and search online via 6 or so websites, trying to find a somewhat location retailer who has them. 
 
 Back on November 23rd I found a bottle online via Cask Cartel and placed an order. It was for above retail price, but I was worried it might be the only bottle I get access to, so I went ahead and placed the order. Since then the price has gone up to $249/bottle and recently to the point where you can't even buy a bottle, only a case (at close to $1500).

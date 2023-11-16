@@ -24,8 +24,6 @@ gallery:
 
 In 2018 the Boston Red Sox won the MLB World Series. Jim Beam released a bottle celebrating this and I was fortunate enough to have a family member in massachusetts pick one up for me. I'm a HUGE Red Sox fan, always have been, even went to Game 4 of the 2004 World Series to see them win their first Championship in 86 years, so getting my hands on this bottle was exciting. For some reason I never got around to posting about it though, even though I took the pictures for it back in 2019!
 
-{% include subgallery.html id="2018RedSoxWorldChampion" %}
-
 I don't have a whole lot of info on release for this bottle, I'm guessing it was limited to New England, but I don't know how limited it was. A quick search online doesn't return many results.
 
 #### The front of the bottle reads:

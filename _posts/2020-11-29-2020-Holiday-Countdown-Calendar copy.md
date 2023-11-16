@@ -65,5 +65,3 @@ If you're looking for last year's calendar, we've still got some to trade for ot
 **Proof:** Varies  
 **Size:** 20 x 50ml  
 **Price:** $40.99  
-
-{% include subgallery.html id="2020HolidayCountdownCalendar" %}

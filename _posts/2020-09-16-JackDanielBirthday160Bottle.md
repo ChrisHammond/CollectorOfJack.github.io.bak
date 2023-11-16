@@ -72,6 +72,3 @@ You can find the bottle online, listed around $570 as of September 2020.
 **Proof:** 80  
 **Size:** 750ml  
 **Price:** $29.99 
-
-
-{% include subgallery.html id="JackDanielBirthday160Bottle" %}

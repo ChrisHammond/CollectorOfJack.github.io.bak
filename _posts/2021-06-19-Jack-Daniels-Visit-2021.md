@@ -100,8 +100,6 @@ From there I headed south towards Lynchburg, I had grand visions of trying to be
 
 As I was passing through a small town of Petersburg, TN I stopped to take a photo or two of the town square. I talked to a local artist who was out walking his 8 month old shepard/lab mix Skippy. We talked for a while, he does patriotic veteran based art that is used I believe in VA hospitals to cheer up the vets. He apparently he only moved there a few months ago, but he was very approving of the town. A car pulled up and said hello to Skippy, small town, everyone knows everyone, including the dogs. They asked me if I was going to move there. Pushy people these Petersburgians.
 
-{% include subgallery.html id="JackDanielsDistilleryVisit2021g1" %}
-
 Wednesday morning I once again had visions of getting up super early and trying to see if I could find any cool places for sunrise shots around Lynchburg. Before finally turning out the lights near midnight I decided that simply wasn't going to happen and I set my alarm for a more realistic 630am. I got up and hit the road, mostly going against traffic down to Lynchburg and arrived around 815am. The visitor's center didn't open until close to 9am so I wandered around the front with my camera looking for some more shots.
 
 The doors opened shortly before 9am and everyone started getting checked in for their tour tickets. I made a quick pass through the White Rabbit Bottle Shop to see what they had, so I could make sure I was "ready" after the tour to pickup what I needed.
@@ -129,4 +127,3 @@ I did make one last liquor store stop at Liquor Planet in Murfreesboro. I had st
 
 The rest of the trip was uneventful, which is always nice. Until the next trip, this one will hold me over.
 
-{% include subgallery.html id="JackDanielsDistilleryVisit2021g2" %}

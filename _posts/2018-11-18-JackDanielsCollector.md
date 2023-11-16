@@ -35,7 +35,3 @@ I didn't plan to start drinking Jack Daniel's that evening, but I ended up doing
 Why CollectorOfJack.com? I've been collecting Jack Daniel's bottles for many years now, and while I am proud of my collection, there are definitely some gaps that I would like to fill. I've managed to acquire some extras over the years, and I'm hopeful that with this blog I'll be able to find other like minded folks, who perhaps have bottles to fill my gaps and possibly need some of the extras that I have in my collection.
 
 This is the first post in what will hopefully be many future posts, stay tuned as I document and acquire additional items to the collection. For additional information about me, be sure to visit [Chris Hammond](https://www.ChrisHammond.com)
-
-
-{% include subgallery.html id="JackDanielsCollector" %}
-
