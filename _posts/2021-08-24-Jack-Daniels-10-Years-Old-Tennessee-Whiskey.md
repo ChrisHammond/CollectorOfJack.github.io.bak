@@ -14,8 +14,8 @@ gallery:
  
 ---
 Earlier this summer we blogged about the Coy Hill High Proof coming out this fall, well we've got another new release from the Jack Daniel's Distillery coming in early September! 
-{% include subgallery.html id="10YearsOldTennesseeWhiskey" %}
-Jack Daniels 10-Years Old Tennessee Whiskey
+
+## Jack Daniels 10-Years Old Tennessee Whiskey
 
 From a message that Chris Fletcher and Jack Daniel's has posted on social media:
 

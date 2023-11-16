@@ -62,5 +62,3 @@ You can find it at most retailers, nothing special about it from a purchasing pe
 **Proof:** 70  
 **Size:** 750ml  
 **Price:** $19.99  
-
-{% include subgallery.html id="JackDanielsTennesseeFire2020" %}

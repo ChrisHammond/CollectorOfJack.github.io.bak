@@ -25,8 +25,6 @@ gallery:
 
 In the fall of 2019 Jack Daniel's released the fifth bottle in their Tennessee Tasters' series, Barrel Reunion #2, Straight Tennessee Whiskey Finished in Oatmeal Stout Barrels.
 
-{% include subgallery.html id="BarrelReunion2" %}
-
 ## The label reads:
 > Think of this as Jack Daniel's version of the Boilermaker; a Middle Tennessee craft brewery finished their oatmeal stout using our barrels. We explored further, bringing the empty barrels back to finish our Tennessee whiskey. The result is unique in chracter: Its nose, class Jack -- notes of vanilla and toasted oak. The stout provides a creamy texture, hints of oat, coffee and chocolate covered cherries. 
 > \- Master Taster: Kevin Brent Smith

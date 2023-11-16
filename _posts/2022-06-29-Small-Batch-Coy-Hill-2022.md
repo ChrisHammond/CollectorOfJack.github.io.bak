@@ -15,8 +15,6 @@ gallery:
 ---
 Hot off the presses and hot to the tongue, Jack Daniel's has announced that this Friday starting at 8am at the White Rabbit Bottle Shop you can get the new Small Batch Coy Hill 375ml bottle! 
 
-{% include subgallery.html id="SmallBatchCoyHill2022" %}
-
 Here is some of the press I've been able to find:
 
 > a very limited release small batch whiskey that we'll be offering in Tennessee this summer, our Jack Daniel's Small Batch Special Release Coy Hill High Proof.

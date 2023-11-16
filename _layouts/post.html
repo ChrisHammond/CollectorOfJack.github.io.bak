@@ -49,12 +49,6 @@ layout: default
         <br>
         <br>
         <br>
-
-
-        {% include signoff.html %}
-        <hr class="small">
-        {% if site.share %}{% include share.html %}{% endif %}
-
         <br>
 
         <ul class="d-flex justify-content-between pager">
@@ -86,6 +80,14 @@ layout: default
       </div>
     {% endif %}
     
+    </div>
+    <div class="row">
+      <div class="container">
+        {% include signoff.html %}
+        <hr class="small">
+        {% if site.share %}{% include share.html %}{% endif %}
+
+      </div>
     </div>
   </div>
 </article>

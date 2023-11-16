@@ -21,8 +21,6 @@ gallery:
 
 The Jack Daniel's Scenes from Lynchburg Series is a collection of 8 bottles, released every year from 2003 to 2011 (skipping 2010). Each bottle features a picture on the front depicting a scene from Lynchburg, Tennessee, the home of the Jack Daniel's Distillery.
 
-{% include subgallery.html id="ScenesFromLynchburgFive" %}
-
 I have/had a few bottles from the series that I picked up at the Distillery on a couple of different trips. I ended up trading one of the bottles in 2020 for the Before and After set from the distillery, but I took pictures of it before trading and will post about it later.
 
 The first bottle I picked up was Scenes From Lynchburg Number Five, released in 2007. 

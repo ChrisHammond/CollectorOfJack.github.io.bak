@@ -53,6 +53,3 @@ I'm thinking I'll keep the barrel tree for next year and add a layer or town to 
 In the photos below you'll find the finished product, as well as an assortment of photos throughout the build.
 
 I went ahead and uploaded my STL file to Thingiverse if you want to try to print your own barrels. [Thingiverse Link](https://www.thingiverse.com/thing:4680524)
-
-
-{% include subgallery.html id="3DPrintedBarrelTree" %}

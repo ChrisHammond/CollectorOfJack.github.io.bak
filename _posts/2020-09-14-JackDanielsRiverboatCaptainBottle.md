@@ -133,5 +133,3 @@ I am super stoked about this bottle myself. I can't wait to build my shelving/st
 **Proof:** 90  
 **Size:** 1.75L  
 **Price:** $29.99  
-
-{% include subgallery.html id="JackDanielsRiverboatCaptainBottle" %}

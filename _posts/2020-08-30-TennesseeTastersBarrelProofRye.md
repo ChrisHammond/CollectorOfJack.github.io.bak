@@ -35,5 +35,3 @@ As with all the Tasters' Series these bottles were originally only available in 
 **Size:** 375ml  
 **Price:** $39.99  
 
-{% include subgallery.html id="TennesseeTastersBarrelProofRye" %}
-

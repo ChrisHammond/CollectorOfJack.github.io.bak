@@ -53,4 +53,3 @@ You might be able to find the bottle online, though prices will very wildly. Any
 **Size:** 750ml  
 **Price:** $Unknown
 
-{% include subgallery.html id="JackDanielsTennesseeBicentennial" %}

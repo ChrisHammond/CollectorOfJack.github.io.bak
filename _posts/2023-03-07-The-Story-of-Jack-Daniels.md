@@ -16,8 +16,6 @@ gallery:
 ---
 Over the past few months I've been playing with ChatGPT. I figured I should give it a shot at writing the life story of Jack Daniel's. I'm not sure if it's 100% accurate, but it certainly hits most of the points.
 
-{% include subgallery.html id="JackDanielsLifeStory" %}
-
 ## Prompt
 What's the life story of Jack Daniel? Be sure to include information Nearest Green.
 

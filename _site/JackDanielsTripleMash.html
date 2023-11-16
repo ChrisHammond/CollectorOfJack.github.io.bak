@@ -37,13 +37,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 
     <!-- Custom CSS -->   
-    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1700089532" media="screen">
-    <link rel="stylesheet" href="/css/main.css?v=1700089532">
-    <link rel="stylesheet" href="/css/galleries.css?v=1700089532">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1700089532">
+    <link rel="stylesheet" href="/css/WYSIWYG.css?v=1700108118" media="screen">
+    <link rel="stylesheet" href="/css/main.css?v=1700108118">
+    <link rel="stylesheet" href="/css/galleries.css?v=1700108118">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1700108118">
     
-    <link rel="stylesheet" href="/css/tags-wrap.css?v=1700089532" media="screen">
-    <link rel="stylesheet" href="/css/journal.css?v=1700089532" media="screen">
+    <link rel="stylesheet" href="/css/tags-wrap.css?v=1700108118" media="screen">
+    <link rel="stylesheet" href="/css/journal.css?v=1700108118" media="screen">
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
@@ -138,7 +138,7 @@ style="margin-right:1em; z-index: 1;">
 
             
             <i class="fa fa-clock-o"></i>&nbsp;
-            3 minute read
+            2 minute read
 
           </span>
   
@@ -161,113 +161,6 @@ style="margin-right:1em; z-index: 1;">
     <div class="row">
       <div class="col col-md-9">
         <p>For 2022 Jack Daniel’s announced, and released, two new expressions. Both of these are released in a 700ml (and also a 1L version). The word on these releases is that they will be available regularly going forward, and are not limited releases like the 10 Year and Heritage barrels released over the last few years (more of those coming however).</p>
-
-<h2>Photo Gallery</h2>
-<div class="gallery masonry-gallery" id="JackDanielsTripleMash">
-  
-  <figure class="gallery-item">
-	<header class="gallery-icon">
-		
-		
-	</header>		
-		
-   <figcaption class="gallery-caption">
-		<div class="entry-summary">
-				<h3></h3>
-					<p></p>
-		</div>
-	</figcaption>
-  </figure>
-
-  
-  <figure class="gallery-item">
-	<header class="gallery-icon">
-		
-		
-	</header>		
-		
-   <figcaption class="gallery-caption">
-		<div class="entry-summary">
-				<h3></h3>
-					<p></p>
-		</div>
-	</figcaption>
-  </figure>
-
-  
-  <figure class="gallery-item">
-	<header class="gallery-icon">
-		
-		
-	</header>		
-		
-   <figcaption class="gallery-caption">
-		<div class="entry-summary">
-				<h3></h3>
-					<p></p>
-		</div>
-	</figcaption>
-  </figure>
-
-  
-</div>
-
-<script language="javascript" type="text/javascript">
-	var pageUrl = "/JackDanielsTripleMash";
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  originalUrl = window.location.href.split('?')[0];
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
-	  
-	});
-
-	$('.popup').on('mfpClose', function(e /*, params */) {	  
-	  window.history.replaceState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
-	});
-
-	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
-      gallery: {
-        enabled: true,
-        navigateByImgClick: true,
-        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
-      },
-      image: {
-        titleSrc: function (item) {
-          return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
-        }
-      }
-      // other options
-    });
-  });
-
-	//check if the url contains a photo
-	$( document ).ready(function($) {
-		//console.log('Page Load',  window.location.href.split('?')[1]);
-		var galleryNameLoc = window.location.href.indexOf("galleryname=")
-		if(galleryNameLoc>0)
-		{
-			//console.log('Found Index',  index);
-			var gindex = window.location.href.substring(galleryNameLoc+12).split("&")[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
-			var loc = window.location.href.indexOf("rbmphoto=")
-
-			if(loc>0)
-			{
-				//console.log('Found It',  window.location.href.substring(loc));
-				var index = window.location.href.substring(loc+9).split("&")[0];
-				//console.log('Found Index',  index);
-				//lookup the image on the page if there are multiple galleries		
-				$('#' + gindex).find('.popup')[index].click();
-			}
-		}		
-	});
-</script>
 
 <p>The first bottle we covered was <a href="/JackDanielsBondedTennesseeWhiskey">Jack Daniel’s Bottled-In-Bond Tennessee Whiskey</a>.</p>
 
@@ -316,16 +209,6 @@ Jack Daniel Distillery DSP-TN-1 Tennessee</p>
         <br>
         <br>
         <br>
-
-
-        <div class="post-author text-center">                       
-	        <img src="/images/ChrisHammond_sq_200.jpg" alt="ChrisHammond's photo" itemprop="image" class="post-avatar img-circle img-responsive"/>    
-	    <h4>By <span itemprop="name" class="fn"><a href="/about/" title="About ChrisHammond" itemprop="url">ChrisHammond</a></span></h4>
-	    <div style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; display:inline-block;font-size:.75em;">Chris has been collecting Jack Daniel's for 23 years and uses this site to document his collection.</div>
-</div>
-        <hr class="small">
-        
-
         <br>
 
         <ul class="d-flex justify-content-between pager">
@@ -498,6 +381,18 @@ Jack Daniel Distillery DSP-TN-1 Tennessee</p>
       </div>
     
     
+    </div>
+    <div class="row">
+      <div class="container">
+        <div class="post-author text-center">                       
+	        <img src="/images/ChrisHammond_sq_200.jpg" alt="ChrisHammond's photo" itemprop="image" class="post-avatar img-circle img-responsive"/>    
+	    <h4>By <span itemprop="name" class="fn"><a href="/about/" title="About ChrisHammond" itemprop="url">ChrisHammond</a></span></h4>
+	    <div style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; display:inline-block;font-size:.75em;">Chris has been collecting Jack Daniel's for 23 years and uses this site to document his collection.</div>
+</div>
+        <hr class="small">
+        
+
+      </div>
     </div>
   </div>
 </article>
