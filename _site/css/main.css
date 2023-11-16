@@ -28,9 +28,9 @@ a {
 a:hover,
 a:focus {
   color: #fff;
-     transition: color .3s;
-    outline: none;
-    text-shadow:none;
+   transition: color .3s;
+  outline: none;
+  text-shadow:none;
 }
 a img:hover,
 a img:focus {
@@ -70,71 +70,71 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    background-color:rgba(0, 0, 0, 0.5);
-    border-bottom: 1px solid transparent;
+  background-color:rgba(0, 0, 0, 0.5);
+  border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
-    color: white;
-    padding: 20px;
-    text-shadow: 1px 1px 4px #000;
+  color: white;
+  padding: 20px;
+  text-shadow: 1px 1px 4px #000;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: #000000;
-    text-shadow: 1px 1px 4px #ffffff;
+  color: #000000;
+  text-shadow: 1px 1px 4px #ffffff;
   }
   .navbar-custom .nav li a {
-    color: white;
-    padding: 20px;
+  color: white;
+  padding: 20px;
   }
   .navbar-custom .nav li a:hover{
-    color: #000000;
+  color: #000000;
   }
 }
 @media only screen and (min-width: 1170px) {
   .navbar-custom {
-    -webkit-transition: background-color 0.3s;
-    -moz-transition: background-color 0.3s;
-    transition: background-color 0.3s;
-    /* Force Hardware Acceleration in WebKit */
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-    -ms-transform: translate3d(0, 0, 0);
-    -o-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    background-color:rgba(0, 0, 0, 0.5);
+  -webkit-transition: background-color 0.3s;
+  -moz-transition: background-color 0.3s;
+  transition: background-color 0.3s;
+  /* Force Hardware Acceleration in WebKit */
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  background-color:rgba(0, 0, 0, 0.5);
   }
   .navbar-custom.is-fixed {
-    /* when the user scrolls down, we hide the header right above the viewport */
-    position: fixed;
-    top: 0px;
-    background-color: rgba(0, 0, 0, 0.5);
-    -webkit-transition: -webkit-transform 0.3s;
-    -moz-transition: -moz-transform 0.3s;
-    transition: transform 0.3s;
+  /* when the user scrolls down, we hide the header right above the viewport */
+  position: fixed;
+  top: 0px;
+  background-color: rgba(0, 0, 0, 0.5);
+  -webkit-transition: -webkit-transform 0.3s;
+  -moz-transition: -moz-transform 0.3s;
+  transition: transform 0.3s;
   }
   .navbar-custom.is-fixed .navbar-brand {
-    color: #ffffff;
+  color: #ffffff;
   }
   .navbar-custom.is-fixed .navbar-brand:hover {
-    color: #000000;
+  color: #000000;
   }
   
   .navbar-custom.is-fixed .nav li a:hover {
-    color: #000000;
+  color: #000000;
   }
 .navbar-custom.is-fixed .nav li a:active{
-    color: #6ec54d;
+  color: #6ec54d;
   }
   .navbar-custom.is-visible {
-    /* if the user changes the scrolling direction, we show the header */
-    -webkit-transform: translate3d(0, 100%, 0);
-    -moz-transform: translate3d(0, 100%, 0);
-    -ms-transform: translate3d(0, 100%, 0);
-    -o-transform: translate3d(0, 100%, 0);
-    transform: translate3d(0, 100%, 0);
+  /* if the user changes the scrolling direction, we show the header */
+  -webkit-transform: translate3d(0, 100%, 0);
+  -moz-transform: translate3d(0, 100%, 0);
+  -ms-transform: translate3d(0, 100%, 0);
+  -o-transform: translate3d(0, 100%, 0);
+  transform: translate3d(0, 100%, 0);
   }
 }
 .intro-header {
@@ -157,9 +157,9 @@ hr.small {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 50px 0 15px 0;
-    margin:0 auto;
-    background-color:rgba(0, 0, 0, 0.1);
+  padding: 50px 0 15px 0;
+  margin:0 auto;
+  background-color:rgba(0, 0, 0, 0.1);
   }
 }
 .intro-header .site-heading,
@@ -189,8 +189,8 @@ hr.small {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1,
   .intro-header .post-heading h1 {
-    font-size: 80px;
-    text-shadow: 1px 1px 4px #000;
+  font-size: 80px;
+  text-shadow: 1px 1px 4px #000;
   }
 }
 .intro-header .post-heading h1 {
@@ -219,11 +219,11 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
-    font-size: 55px;
+  font-size: 55px;
   }
   .intro-header .post-heading .subheading {
-    font-size: 30px;
-    text-shadow: 1px 1px 4px #000;
+  font-size: 30px;
+  text-shadow: 1px 1px 4px #000;
   }
 }
 .post-preview > a {
@@ -265,7 +265,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
-    font-size: 36px;
+  font-size: 36px;
   }
 }
 .section-heading {
@@ -380,8 +380,8 @@ form .row:first-child .floating-label-form-group {
 @media only screen and (min-width: 768px) {
   .pager li > a,
   .pager li > span {
-    font-size: 14px;
-    padding: 15px 25px;
+  font-size: 14px;
+  padding: 15px 25px;
   }
 }
 .pager li > a:hover,

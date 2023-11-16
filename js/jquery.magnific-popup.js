@@ -317,13 +317,13 @@ MagnificPopup.prototype = {
 		var windowStyles = {};
 
 		if( mfp.fixedContentPos ) {
-            if(mfp._hasScrollBar(windowHeight)){
-                var s = mfp._getScrollbarSize();
-                if(s) {
-                    windowStyles.marginRight = s;
-                }
-            }
+      if(mfp._hasScrollBar(windowHeight)){
+        var s = mfp._getScrollbarSize();
+        if(s) {
+          windowStyles.marginRight = s;
         }
+      }
+    }
 
 		if(mfp.fixedContentPos) {
 			if(!mfp.isIE7) {
@@ -1672,7 +1672,7 @@ $.magnificPopup.registerModule('gallery', {
 
 	options: {
 		enabled: true,
-          showCloseBtn: true,
+      showCloseBtn: true,
 		arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>',
 		preload: [0,2],
 		navigateByImgClick: true,

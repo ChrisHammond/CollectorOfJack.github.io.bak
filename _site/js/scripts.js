@@ -11,8 +11,8 @@
 
 				$fullscreen_gallery.before('<ul id="gallerythumbs">').cycle({
 					slideExpr: '.gallery-item',
-					fx:        'fade', 
-		   			speed:     1000, 
+					fx:    'fade', 
+		   			speed:   1000, 
 					timeout:   5000,
 					pager:   	 '#gallerythumbs', 
 					slideResize: true,
@@ -24,8 +24,8 @@
 					pagerAnchorBuilder: function(idx, slide) { 
 					   return '<li><a href="#"><img src="' + jQuery(slide).find('img').attr('src') + '" alt="" /></a></li>'; 
 					},
-					prev:    '#gallerynav .prev',
-			  		next:    '#gallerynav .next'
+					prev:  '#gallerynav .prev',
+			  		next:  '#gallerynav .next'
 				});
 				var paused = false;
 				jQuery('#gallerynav .pause').on('click', function() { 
@@ -69,12 +69,12 @@
 				});
 				// scroll gallery thumbs with mousewheel
 				jQuery('#gallerythumbs').on('mousewheel', function(event) {
-				    if (event.deltaY < 0) { // scroll right
+				  if (event.deltaY < 0) { // scroll right
 						jQuery('#gallerythumbs').stop().animate({scrollLeft: '+=180px' }, 300); 
-				    }
-				    else {
+				  }
+				  else {
 						jQuery('#gallerythumbs').stop().animate({scrollLeft: '-=180px' }, 300); 
-				    }
+				  }
 				});
 			}
 		}

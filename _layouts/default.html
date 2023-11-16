@@ -2,45 +2,45 @@
 <html lang="en">
 
 {% include head.html %}
-    
-    {% if page.url=="/portfolio/" %} 
+  
+  {% if page.url=="/portfolio/" %} 
 <body class="gallery">
-    {% elsif page.url=="/blog/" %}
+  {% elsif page.url=="/blog/" %}
 <body class="journal">
-        {% else %}
+    {% else %}
 <body>
-        {% endif %}
+    {% endif %}
 
-    {% include nav.html %}
-    <div class="site-content">
-        {{ content }}
-    </div>
-    {% include footer.html %}
+  {% include nav.html %}
+  <div class="site-content">
+    {{ content }}
+  </div>
+  {% include footer.html %}
 
-    {% include Scroll_to_Top.html %}
+  {% include Scroll_to_Top.html %}
 
-    {% if page.image.feature %}
-    <style>
-        body::after {
-            content:"";
-            background-size:cover;
-            background-repeat: no-repeat;
-            background-position:center;
-            height:100vh;
-            background-image:url({{ site.url }}{% if page.image.feature %}{% picture direct {{ page.image.feature }} %}{% else %}{{ site.header-img }}{% endif %});
-            opacity: 0.25;
-            top: 0;
-            left: 0;
-            bottom:0;
-            right:0;
-            position:absolute;
-            z-index:-1;
-            position:fixed;
-        }
+  {% if page.image.feature %}
+  <style>
+    body::after {
+      content:"";
+      background-size:cover;
+      background-repeat: no-repeat;
+      background-position:center;
+      height:100vh;
+      background-image:url({{ site.url }}{% if page.image.feature %}{% picture direct {{ page.image.feature }} %}{% else %}{{ site.header-img }}{% endif %});
+      opacity: 0.25;
+      top: 0;
+      left: 0;
+      bottom:0;
+      right:0;
+      position:absolute;
+      z-index:-1;
+      position:fixed;
+    }
 
 
 </style>
-    {% endif %}
+  {% endif %}
 
 </body>
 </html>
