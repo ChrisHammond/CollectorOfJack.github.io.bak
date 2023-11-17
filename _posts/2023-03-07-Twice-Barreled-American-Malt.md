@@ -6,6 +6,7 @@ permalink: TwiceBarreledAmericanMalt
 image:
   feature: 66/JackDanielsTwiceBarreled-1.jpg
 description: "Twice Barreled American Single Malt"
+keywords: Jack Daniels, American Single Malt, Twice Barreled, 2022 Special Release, Heritage
 author: ChrisHammond
 gallery:
   TwiceBarreledMalt:

@@ -6,6 +6,7 @@ permalink: TwiceBarreledMaltPrerelease
 image:
   feature: 63/TwiceBarreledMalt-1.jpg
 description: "Twice Barreled American Single Malt"
+keywords: Single Malt, Twice Barreled, 2022 Special Release, Heritage
 gallery:
   TwiceBarreledMaltPrerelease:
   - image_path: 63/TwiceBarreledMalt-1.jpg

@@ -6,6 +6,7 @@ permalink: October2022TennesseeTasters
 image:
   feature: 62/october2022tennesseetasters-1.jpg
 description: "Two new Tennessee Tasters bottles from Jack Daniel's"
+keywords: Tennessee, Tasters, Tennessee Tasters, Distillery Series, Toasted Barrel Finished Rye, Toasted Maple Barrel, Lexie Phillips, Josh Phillips
 gallery:
   october2022tennesseetasters:
   - image_path: 62/october2022tennesseetasters-1.jpg
