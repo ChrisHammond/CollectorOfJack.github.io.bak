@@ -4,37 +4,37 @@ title: "Jack Daniel's and McLaren Racing: A Toast to High-Speed Partnership"
 date: '2023-11-18T10:30:00+00:00'
 permalink: JackDanielsMcLaren
 image:
-  feature: 67/JackDanielsMcLaren-1.jpg
+  feature: 67/McLaren-6.jpg
 description: "Join us at CollectorOfJack.com as we celebrate our 5th anniversary and explore the exciting partnership between Jack Daniel's and McLaren Racing. Discover the limited edition whiskey bottle and branding on McLaren's 2023 F1 cars, symbolizing a fusion of motorsports thrill and whiskey heritage. With Chris Hammond ramping up content, expect more frequent and engaging posts on the world of whiskey collecting"
 keywords: Jack Daniel's McLaren Partnership, CollectorOfJack.com Anniversary, Formula 1 Whiskey Collaboration, McLaren Racing 2023, Limited Edition Jack Daniel’s Bottle, Whiskey Collecting Blog, Chris Hammond Content, Motorsports and Whiskey Heritage, McLaren F1 Team, Jack Daniel's Branding in F1, Whiskey Collectors Community, High-Speed Whiskey Partnership, CollectorOfJack Updates
 author: ChrisHammond
 gallery:
   JackDanielsMcLaren:
-  - image_path: 67/JackDanielsMcLaren-1.jpg
+  - image_path: 67/McLaren-1.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Box Front
     image-copyright: CollectorOfJack.com
-  - image_path: 67/JackDanielsMcLaren-2.jpg
+  - image_path: 67/McLaren-2.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Box Side
     image-copyright: CollectorOfJack.com
-  - image_path: 67/JackDanielsMcLaren-3.jpg
+  - image_path: 67/McLaren-3.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Box Rear
     image-copyright: CollectorOfJack.com
-  - image_path: 67/JackDanielsMcLaren-4.jpg
+  - image_path: 67/McLaren-4.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Box Side
     image-copyright: CollectorOfJack.com
-  - image_path: 67/JackDanielsMcLaren-5.jpg
+  - image_path: 67/McLaren-5.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Box Top
     image-copyright: CollectorOfJack.com
-  - image_path: 67/JackDanielsMcLaren-6.jpg
+  - image_path: 67/McLaren-6.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Bottle Front
     image-copyright: CollectorOfJack.com
-  - image_path: 67/JackDanielsMcLaren-7.jpg
+  - image_path: 67/McLaren-7.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Bottle Side
     image-copyright: CollectorOfJack.com
-  - image_path: 67/JackDanielsMcLaren-8.jpg
+  - image_path: 67/McLaren-8.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Bottle Rear
     image-copyright: CollectorOfJack.com
-  - image_path: 67/JackDanielsMcLaren-9.jpg
+  - image_path: 67/McLaren-9.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Bottle Side
     image-copyright: CollectorOfJack.com
 ---
@@ -102,6 +102,8 @@ As you can see from our photo gallery here the bottle and box are quite the depa
 
 ## Where to find the Jack Daniel's / McLaren Racing Formula 1 2023 Bottle
 These bottles were released in markets where Formula 1 (F1) Races happened in 2023. In the United States they could be found in Florida, Texas and Nevada. 
+
+I picked these bottles up in Florida on our family vacation this summer. Big shout out to the Sunshine State Squires for helping me in tracking them down while in town!
 
 **Release:** 2023  
 **Proof:** 80  
