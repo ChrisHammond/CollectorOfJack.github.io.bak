@@ -38,6 +38,7 @@ gallery:
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Bottle Side
     image-copyright: CollectorOfJack.com
 ---
+
 ## Celebrating Five Years of CollectorOfJack.com
 
 Today, November 18, 2023, marks a special milestone for us at CollectorOfJack.com. It's been exactly five years since we launched our website in its first iteration back on November 18, 2018. We've come a long way since then, and we're excited to continue sharing our passion for Jack Daniel's with you. While posts have been infrequent lately, our founder Chris Hammond is committed to ramping up the content. Expect to see more frequent updates, with the aim of bringing you new and exciting content at least once a week!
