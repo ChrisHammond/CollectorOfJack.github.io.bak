@@ -98,7 +98,7 @@ If you can get your hands on one of these bottles, go for it! There are various 
 #### Specs
 
 **Release:** 2020  
-**Bottling Date:** 11/5/2020
+**Bottling Date:** 11/5/2020  
 **Proof:** 130.8 (variable)  
 **Size:** 750ml  
 **Price:** $79
