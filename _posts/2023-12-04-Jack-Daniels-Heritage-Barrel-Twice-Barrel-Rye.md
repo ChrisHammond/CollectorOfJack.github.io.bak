@@ -70,7 +70,7 @@ The back/side label is paper and reads:
 **Release:** 2023  
 **Proof:** 100  
 **Size:** 700ml  
-**Price:** $70
-**Bottling Date:** 7/11/2023
-**1st Barrel Entry:** 3/13/2015
-**2nd Barrel Entry:** 11/18/2020  
+**Price:** $70  
+**Bottling Date:** 7/11/2023  
+**1st Barrel Entry:** 3/13/2015  
+**2nd Barrel Entry:** 11/18/2020   
