@@ -4,28 +4,28 @@ title: "Jack Daniel's Twice Barreled Heritage Barrel Rye"
 date: '2023-12-04T13:30:00+00:00'
 permalink: TwiceBarreledRye
 image:
-  feature: 69/TwiceBarreledRye--1.jpg
+  feature: 69/TwiceBarreledRye-1.jpg
 description: "The Jack Daniel's Distillery Special Release for 2023 is a Twice Barreled Heritage Barrel Rye, featuring Straight Rye Whiskey aged in new oak barrels and then matured in our handmade heritage barrels which are heavily toasted and lightly charred to create a unique flavor."
 keywords: "Jack Daniel’s Bottle, Jack Daniel’s Single Barrel, Barrel Proof, Rye, Barrel Proof Rye"
 author: ChrisHammond
 gallery:
   TwiceBarreledRye:
-  - image_path: 69/TwiceBarreledRye--1.jpg
+  - image_path: 69/TwiceBarreledRye-1.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
-  - image_path: 69/TwiceBarreledRye--2.jpg
+  - image_path: 69/TwiceBarreledRye-2.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
-  - image_path: 69/TwiceBarreledRye--3.jpg
+  - image_path: 69/TwiceBarreledRye-3.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
-  - image_path: 69/TwiceBarreledRye--4.jpg
+  - image_path: 69/TwiceBarreledRye-4.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
-  - image_path: 69/TwiceBarreledRye--5.jpg
+  - image_path: 69/TwiceBarreledRye-5.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
-  - image_path: 69/TwiceBarreledRye--6.jpg
+  - image_path: 69/TwiceBarreledRye-6.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
 ---
