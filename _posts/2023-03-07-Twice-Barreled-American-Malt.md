@@ -58,3 +58,9 @@ If you can get one, I highly recommend it. For a while they were going 250-300 o
 **Size:** 700ml  
 **Price:** $79
 
+
+# How Much Is Jack Daniel's Twice Barreled Heritage Barrel Rye Worth?
+Secondary for this bottle started out really high, north of $250, but fell towards the end of 2022, with it being found for around $200.
+
+### Collector Of Jack's Value Assessment
+Don't spend more then $225 for a bottle. 

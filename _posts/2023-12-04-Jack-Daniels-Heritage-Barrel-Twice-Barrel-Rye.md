@@ -74,3 +74,9 @@ The back/side label is paper and reads:
 **Bottling Date:** 7/11/2023  
 **1st Barrel Entry:** 3/13/2015  
 **2nd Barrel Entry:** 11/18/2020   
+
+# How Much Is Jack Daniel's Twice Barreled Heritage Barrel Rye Worth?
+Secondary for this bottle seems to be quite a bit less than last year's release, usually around 175. 
+
+### Collector Of Jack's Value Assessment
+Don't spend more then $200 for a bottle. 
