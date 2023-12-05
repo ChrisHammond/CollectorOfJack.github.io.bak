@@ -47,3 +47,10 @@ Here are two previous Barrel Proof Ryes released by Jack Daniel's.
 **Proof:** 139.3  
 **Size:** 750ml  
 **Price:** $65  
+
+
+## How Much Is Jack Daniel's Single Barrel Barrel Proof Rye Worth?
+Jack Daniel's Single Barrel Barrel Proof Rye is worth retail price. You shouldn't really be paying more than retail for this bottle as it is a regular release. Higher proofs might draw a little more value, but not too much.
+
+### Collector Of Jack's Value Assessment
+A great bottle to own, go for the higher proofs you can find, or bottls with specific bottling dates that are important to you.

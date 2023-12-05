@@ -111,3 +111,9 @@ I picked these bottles up in Florida on our family vacation this summer. Big sho
 **Size:** 1L  
 **Price:** $59
 
+
+## How Much Is Jack Daniel's / McLaren Racing Formula 1 Worth?
+If you can find it in one of the states that it is sold, definitely don't pay more than retail. If you're shopping elsewhere be prepared to pay a little more.
+ 
+### Collector Of Jack's Value Assessment
+While the packaging for these bottles is special, the juice is regular Jack Daniel's. 
