@@ -134,8 +134,8 @@ I am super stoked about this bottle myself. I can't wait to build my shelving/st
 **Size:** 1.75L  
 **Price:** $29.99  
 
-## How Much Is It Worth?
+## How Much Is Jack Daniel's Riverboat Captain's Bottle Worth?
 You'll find values for this bottle all over the place on the web. Most of the "ads" you see for liquor stores who still have a bottle, if they do, are nearly $1800, but you can find the bottle for way cheaper than that.
 
 ### Collector Of Jack's Value Assessment
-Don't spend more then $400 for a bottle, maybe $500 if the box is in GREAT shape.
+Don't spend more then $400 for a bottle, maybe $500 if the box is in GREAT shape. 
