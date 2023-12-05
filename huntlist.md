@@ -34,7 +34,7 @@ I prefer trades in the Mid-West. I am near St. Louis, and willing to drive/meet 
 * [Jack Daniel's Special Release Coy Hill High Proof](/JackDanielsSpecialReleaseCoyHillHighProof)
 * [Jack Daniel's Small Batch Coy Hill](/SmallBatchCoyHill2022)
 * Sinatra Select Century
-* 2023 Special Release Twice Barreled Tennessee Rye
+* [2023 Special Release Twice Barreled Tennessee Rye](/TwiceBarreledRye)
 * Jack Daniel's American Single Malt (Duty Free or Miltary Purchase)
 
 ## Items Available For Trade
