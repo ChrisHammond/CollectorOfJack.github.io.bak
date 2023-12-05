@@ -17,15 +17,12 @@ jobs:
         with:
           ruby-version: 3.0 # can change this to 2.7 or whatever version you prefer
 
-      - name: Install libffi6
-        run: |
-          wget http://mirrors.kernel.org/ubuntu/pool/main/libf/libffi/libffi6_3.2.1-8_amd64.deb
-          sudo apt install ./libffi6_3.2.1-8_amd64.deb
+
 
       - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y libwebpdemux2 libpoppler97 libpoppler-glib8 libvips42 libvips-tools
+          sudo apt-get install -y libffi8 libwebpdemux2 libpoppler97 libpoppler-glib8 libvips42 libvips-tools
 
       - name: 🔨 install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2.4.1
