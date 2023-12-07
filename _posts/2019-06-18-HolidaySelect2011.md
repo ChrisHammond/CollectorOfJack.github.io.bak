@@ -52,3 +52,9 @@ The 2011 bottle is 50% Alcohol, or 100 Proof. You can find it online for sale fr
 **Proof:** 100  
 **Size:** 750ml  
 **Price:** $89  
+
+## How Much Is Jack Daniel's Holiday Select 2011 Worth?
+(updated December 2013) You can find the bottle listed online for $350. 
+
+### Collector Of Jack's Value Assessment
+Don't spend more then $400 for a bottle. 

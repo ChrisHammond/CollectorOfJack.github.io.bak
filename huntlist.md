@@ -11,7 +11,7 @@ permalink: huntlist
 redirect_from: 
   - "WantedItems"
   - "ComingSoon"
-  - "HuntList"
+#  - "HuntList"
 ---
 
 This site is where I document my collection, but I am always looking to grow that collection. This page is intended to be a list of Jack Daniel's bottles and memorabilia that I am searching for as well as things I might have available for trades.
