@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Jack Daniel's Holiday Select2013
+title: Jack Daniel's Holiday Select 2013
 date: '2019-06-18T15:56:40+00:00'
 permalink: HolidaySelect2013
 image:
